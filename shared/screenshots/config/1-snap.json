@@ -1,0 +1,82 @@
+{
+  "_comment": "Step 1 Configuration: Screenshot Capture",
+  "_description": "Defines devices and languages for automated screenshot generation via UI tests",
+
+  "configurations": {
+    "test": {
+      "_comment": "Fast test configuration: 1 device × 1 language = 1 combination",
+      "devices": [
+        {
+          "name": "iPhone 17 Pro Max",
+          "short": "iPhone17PM",
+          "orientations": "portrait",
+          "_comment": "6.9\" display, App Store requirement (1290x2796 portrait)"
+        }
+      ],
+      "languages": [
+        "fr-FR"
+      ]
+    },
+    "prod": {
+      "_comment": "Production configuration: 2 devices × 5 languages = 10 combinations",
+      "devices": [
+        {
+          "name": "iPhone 17 Pro Max",
+          "short": "iPhone17PM",
+          "orientations": "portrait",
+          "_comment": "6.9\" display, App Store requirement (1290x2796 portrait)"
+        },
+        {
+          "name": "iPad Pro 13-inch (M5)",
+          "short": "iPadPro-13",
+          "orientations": "portrait",
+          "_comment": "13\" display, captures at 2O64x2752, final output resized to 2048x2732"
+        }
+      ],
+      "languages": [
+        "en-US",
+        "fr-FR",
+        "es-ES",
+        "ja",
+        "zh-Hans"
+      ]
+    },
+    "ipad-test": {
+      "_comment": "Focused iPad testing (fr-FR only)",
+      "devices": [
+        {
+          "name": "iPad Pro 13-inch (M5)",
+          "short": "iPadPro-13",
+          "orientations": "portrait"
+        }
+      ],
+      "languages": [
+        "fr-FR"
+      ]
+    },
+    "ipad-zh": {
+      "_comment": "Focused iPad testing for Simplified Chinese",
+      "devices": [
+        {
+          "name": "iPad Pro 13-inch (M5)",
+          "short": "iPadPro-13",
+          "orientations": "portrait"
+        }
+      ],
+      "languages": [
+        "zh-Hans"
+      ]
+    }
+  },
+
+  "_notes": [
+    "Use CONFIG=test or CONFIG=prod environment variable to select configuration",
+    "Default is 'prod' if CONFIG is not specified",
+    "Test config: 1 device × 1 language = 1 combination (fast testing)",
+    "Prod config: 2 devices × 5 languages = 10 combinations (full App Store)",
+    "Device names must match exact output of 'xcrun simctl list devices'",
+    "Short names are used in filename generation (max 10 chars)",
+    "Orientations: 'portrait', 'landscape', or 'both'",
+    "Languages follow iOS locale format (ISO 639-1 + region)"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "Step 2 Configuration: Device Bezels/Frames",
+  "_description": "Device specifications for adding realistic device frames around screenshots",
+
+  "devices": {
+    "iphone_17_pro_max_portrait": {
+      "bezel_path": "../assets/bezels/iPhone 17 Pro Max/iPhone 17 Pro Max - Silver - Portrait.png",
+      "display_size": "6.9\"",
+      "orientation": "portrait",
+      "app_store_size": "1290x2796",
+      "corner_radius": 80,
+      "_comment": "iPhone 17 Pro Max portrait bezel"
+    },
+    "ipad_pro_13-inch_(m5)_portrait": {
+      "bezel_path": "../assets/bezels/iPad Pro 13/iPad Pro 13 - M4 - Silver - Portrait.png",
+      "display_size": "13\"",
+      "orientation": "portrait",
+      "app_store_size": "2048x2732",
+      "corner_radius": 45,
+      "_comment": "iPad Pro 13-inch (M5) portrait bezel"
+    },
+    "ipad_pro_13-inch_(m5)_landscape": {
+      "bezel_path": "../assets/bezels/iPad Pro 13/iPad Pro 13 - M4 - Silver - Landscape.png",
+      "display_size": "13\"",
+      "orientation": "landscape",
+      "app_store_size": "2732x2048",
+      "corner_radius": 45,
+      "_comment": "iPad Pro 13-inch (M5) landscape bezel"
+    }
+  },
+
+  "_notes": [
+    "Device keys must match normalized device names from step 1",
+    "bezel_path specifies relative path from config directory to device bezel PNG file",
+    "Bezel files are organized by device in assets/bezels/ with color variants (Silver, Deep Blue, etc.)",
+    "corner_radius determines rounded corners for device bezels",
+    "app_store_size must match Apple's requirements for App Store Connect"
+  ]
+}

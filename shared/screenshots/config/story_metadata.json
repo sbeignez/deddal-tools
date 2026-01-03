@@ -1,0 +1,262 @@
+ {
+  "_comment": "Story Metadata: Canonical 1-10 screenshot sequence with visual storytelling",
+  "_description": "SOURCE OF TRUTH for pipeline. Defines ordering, per-screenshot background, and layout overrides.",
+  "version": "2.0",
+  "profiles": {
+    "prod": {},
+    "test": {
+      "languages": ["fr-FR"],
+      "devices": ["iPhone 17 Pro Max"]
+    }
+  },
+  "story": [
+    {
+      "position": 1,
+      "screenshot_id": "Library",
+      "description": "Red-purple (rainbow start)",
+      "background": {
+        "style": "mesh",
+        "theme": "light",
+        "colors": {
+          "top_left": "#C71585",
+          "top_right": "#8B5CF6",
+          "bottom_left": "#F0ABFC",
+          "bottom_right": "#DDD6FE"
+        }
+      },
+      "layout": {
+        "portrait": {
+          "text_box": { "start": 0.0, "height": 0.25, "align": "center" },
+          "layers": [
+            { "type": "asset", "path": "assets/images/logo.png", "width": 0.07, "rotation": 0, "anchor": "top_left", "offset": { "x": 0.02, "y": 0.01 } },
+            { "type": "screenshot", "source": "primary", "width": 0.85, "rotation": -6, "anchor": "center", "offset": { "x": 0.6, "y": 0.65 } }
+          ]
+        }
+      }
+    },
+    {
+      "position": 2,
+      "screenshot_id": "Library_OLL",
+      "description": "Purple theme",
+      "background": {
+        "style": "mesh",
+        "theme": "light",
+        "colors": {
+          "top_left": "#8B5CF6",
+          "top_right": "#3B82F6",
+          "bottom_left": "#DDD6FE",
+          "bottom_right": "#BFDBFE"
+        }
+      },
+      "layout": {
+        "portrait": {
+          "text_box": { "start": 0.0, "height": 0.25, "align": "center" },
+          "layers": [
+            { "type": "asset", "path": "assets/images/logo.png", "width": 0.07, "rotation": 0, "anchor": "top_left", "offset": { "x": 0.02, "y": 0.01 } },
+            { "type": "screenshot", "source": "Library", "width": 0.85, "rotation": -6, "anchor": "center", "offset": { "x": -0.3, "y": 0.75 } },
+            { "type": "screenshot", "source": "Library_OLL", "width": 0.9, "rotation": 0, "anchor": "center", "offset": { "x": 0.7, "y": 0.65 } }
+          ]
+        }
+      }
+    },
+    {
+      "position": 3,
+      "screenshot_id": "Library_PLL",
+      "description": "Blue theme",
+      "background": {
+        "style": "mesh",
+        "theme": "light",
+        "colors": {
+          "top_left": "#3B82F6",
+          "top_right": "#06B6D4",
+          "bottom_left": "#BFDBFE",
+          "bottom_right": "#A5F3FC"
+        }
+      },
+      "layout": {
+        "portrait": {
+          "text_box": { "start": 0.0, "height": 0.25, "align": "center" },
+          "layers": [
+            { "type": "asset", "path": "assets/images/logo.png", "width": 0.07, "rotation": 0, "anchor": "top_left", "offset": { "x": 0.02, "y": 0.01 } },
+            { "type": "screenshot", "source": "primary", "width": 0.85, "rotation": -6, "anchor": "center", "offset": { "x": 0.5, "y": 0.75 } }
+          ]
+        }
+      }
+    },
+    {
+      "position": 4,
+      "screenshot_id": "Library_F2L",
+      "description": "Cyan theme",
+      "background": {
+        "style": "mesh",
+        "theme": "light",
+        "colors": {
+          "top_left": "#06B6D4",
+          "top_right": "#10B981",
+          "bottom_left": "#A5F3FC",
+          "bottom_right": "#A7F3D0"
+        }
+      },
+      "layout": {
+        "portrait": {
+          "text_box": { "start": 0.0, "height": 0.25, "align": "center" },
+          "layers": [
+            { "type": "screenshot", "source": "primary", "width": 0.8, "rotation": -4, "anchor": "top_left", "offset": { "x": -0.08, "y": 0.40 } },
+            { "type": "screenshot", "source": "Library_OLL", "width": 0.8, "rotation": 4, "anchor": "top_left", "offset": { "x": 0.4, "y": 0.40 } }
+          ]
+        }
+      }
+    },
+    {
+      "position": 5,
+      "screenshot_id": "Library_F2L_Alg1",
+      "description": "Green theme",
+      "background": {
+        "style": "mesh",
+        "theme": "light",
+        "colors": {
+          "top_left": "#10B981",
+          "top_right": "#84CC16",
+          "bottom_left": "#A7F3D0",
+          "bottom_right": "#D9F99D"
+        }
+      },
+      "layout": {
+        "portrait": {
+          "text_box": { "start": 0.0, "height": 0.22, "align": "center" },
+          "layers": [
+            { "type": "screenshot", "source": "primary", "width": 0.92, "rotation": 2, "anchor": "center", "offset": { "x": 0.5, "y": 0.7 } }
+          ]
+        }
+      }
+    },
+    {
+      "position": 6,
+      "screenshot_id": "Library_F2L_Case1",
+      "description": "Yellow-Green theme",
+      "background": {
+        "style": "mesh",
+        "theme": "light",
+        "colors": {
+          "top_left": "#84CC16",
+          "top_right": "#F97316",
+          "bottom_left": "#D9F99D",
+          "bottom_right": "#FED7AA"
+        }
+      },
+      "layout": {
+        "portrait": {
+          "text_box": { "start": 0.0, "height": 0.22, "align": "center" },
+          "layers": [
+            { "type": "screenshot", "source": "primary", "width": 0.92, "rotation": -2, "anchor": "center", "offset": { "x": 0.5, "y": 0.8 } }
+          ]
+        }
+      }
+    },
+    {
+      "position": 7,
+      "screenshot_id": "Home",
+      "description": "Orange theme",
+      "background": {
+        "style": "mesh",
+        "theme": "light",
+        "colors": {
+          "top_left": "#F97316",
+          "top_right": "#EF4444",
+          "bottom_left": "#FED7AA",
+          "bottom_right": "#FCA5A5"
+        }
+      },
+      "layout": {
+        "portrait": {
+          "text_box": { "start": 0.0, "height": 0.22, "align": "center" },
+          "layers": [
+            { "type": "screenshot", "source": "primary", "width": 0.9, "rotation": 0, "anchor": "center", "offset": { "x": 0.5, "y": 0.7 } }
+          ]
+        }
+      }
+    },
+    {
+      "position": 8,
+      "screenshot_id": "Progress_F2L_Case1",
+      "description": "Red theme",
+      "background": {
+        "style": "mesh",
+        "theme": "light",
+        "colors": {
+          "top_left": "#EF4444",
+          "top_right": "#C71585",
+          "bottom_left": "#FCA5A5",
+          "bottom_right": "#F0ABFC"
+        }
+      },
+      "layout": {
+        "portrait": {
+          "text_box": { "start": 0.0, "height": 0.22, "align": "center" },
+          "layers": [
+            { "type": "screenshot", "source": "primary", "width": 0.9, "rotation": -1, "anchor": "center", "offset": { "x": 0.5, "y": 0.7 } }
+          ]
+        }
+      }
+    },
+    {
+      "position": 9,
+      "screenshot_id": "Practice",
+      "description": "Dark purple transition",
+      "background": {
+        "style": "mesh",
+        "theme": "light",
+        "colors": {
+          "top_left": "#C71585",
+          "top_right": "#4C1D95",
+          "bottom_left": "#F0ABFC",
+          "bottom_right": "#6B21A8"
+        }
+      },
+      "layout": {
+        "portrait": {
+          "text_box": { "start": 0.0, "height": 0.22, "align": "center" },
+          "layers": [
+            { "type": "screenshot", "source": "primary", "width": 0.9, "rotation": 1, "anchor": "center", "offset": { "x": 0.5, "y": 0.7 } }
+          ]
+        }
+      }
+    },
+    {
+      "position": 10,
+      "screenshot_id": "Settings_Dark",
+      "description": "Dark mode showcase",
+      "background": {
+        "style": "mesh",
+        "theme": "dark",
+        "colors": {
+          "top_left": "#4C1D95",
+          "top_right": "#1A0B2E",
+          "bottom_left": "#6B21A8",
+          "bottom_right": "#0F172A"
+        }
+      },
+      "layout": {
+        "portrait": {
+          "text_box": { "start": 0.0, "height": 0.20, "align": "center" },
+          "layers": [
+            { "type": "screenshot", "source": "primary", "width": 0.8, "rotation": 0, "anchor": "center", "offset": { "x": 0.5, "y": 0.7 } }
+          ]
+        }
+      }
+    }
+  ],
+  "_notes": [
+    "Each story entry defines: position (ordering), screenshot_id, background, and layout overrides.",
+    "background.style: 'mesh' (4-corner colors) or 'gradient' (color1/color2); background.theme drives text color selection.",
+    "layout.{orientation}.text_box.start/height are fractions of canvas height; align = left/center/right (controls text gravity).",
+    "layout.{orientation}.layers array is rendered in order; each layer supports:",
+    "  type: 'screenshot' (pulls Step-2 output) or 'asset' (relative path under tool-screenshots/).",
+    "  source: screenshot identifier (defaults to current screenshot_id, 'primary'); assets use 'path' instead.",
+    "  width: fraction of canvas width (0..1), rotation in degrees (around anchor), anchor (center/left/right/top/bottom combos).",
+    "  offset.x/.y are normalized positions (0=top/left, 0.5=center) used with the anchor to place the layer.",
+    "If layout for a given orientation is missing, fall back to layout.default, otherwise to layout_defaults in 3-background.json.",
+    "Canvas sizes per device/orientation live in config/3-background.json; fonts/text sizes live in config/4-text.json.",
+    "Set CONFIG=test (or another profile name) to limit Step 3/4 processing to the profile’s languages/devices."
+  ]
+}

@@ -1,0 +1,18 @@
+# Python virtual environments
+shared/seed-data/venv/
+shared/seed-data/__pycache__/
+shared/seed-data/*.pyc
+
+# Generated screenshots (these are build artifacts, not source)
+shared/screenshots/.derivedData/
+shared/screenshots/output/
+
+# Fastlane generated files
+ios/fastlane/screenshots/
+ios/fastlane/test_output/
+ios/fastlane/report.xml
+ios/fastlane/Preview.html
+
+# Temporary files
+*.DS_Store
+.env

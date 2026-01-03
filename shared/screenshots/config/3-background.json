@@ -1,0 +1,111 @@
+{
+  "_comment": "Step 3 Configuration: Gradient Backgrounds",
+  "_description": "Defines gradient styles and colors for screenshot backgrounds, and final canvas sizes for App Store",
+
+  "canvas_sizes": {
+    "iphone_17_pro_max_portrait": {
+      "width": 1290,
+      "height": 2796,
+      "padding_top": 550,
+      "_comment": "iPhone 17 Pro Max App Store requirement"
+    },
+    "ipad_pro_13-inch_(m5)_portrait": {
+      "width": 2048,
+      "height": 2732,
+      "padding_top": 470,
+      "_comment": "iPad Pro 12.9\" equivalent - Fastlane requires 2048x2732 (resized from 2064x2752 capture)"
+    },
+    "ipad_pro_13-inch_(m5)_landscape": {
+      "width": 2732,
+      "height": 2048,
+      "padding_top": 240,
+      "_comment": "iPad Pro 13-inch (M5) landscape canvas"
+    }
+  },
+
+  "styles": {
+    "gradients": {
+      "light": {
+        "color1": "#0B3D91",
+        "color2": "#1976D2",
+        "direction": "vertical",
+        "text_color": "#FFFFFF",
+        "_comment": "Blue gradient for light mode screenshots"
+      },
+      "dark": {
+        "color1": "#1A0F2E",
+        "color2": "#0A0520",
+        "direction": "vertical",
+        "text_color": "#FFFFFF",
+        "_comment": "Dark purple gradient for dark mode screenshots"
+      }
+    },
+    "mesh": {
+      "light": {
+        "color_top_left": "#0B3D91",
+        "color_top_right": "#1976D2",
+        "color_bottom_left": "#2196F3",
+        "color_bottom_right": "#64B5F6",
+        "text_color": "#FFFFFF",
+        "_comment": "Blue mesh gradient for light mode - smooth 4-corner interpolation"
+      },
+      "dark": {
+        "color_top_left": "#1A0F2E",
+        "color_top_right": "#0A0520",
+        "color_bottom_left": "#2E1A3D",
+        "color_bottom_right": "#1A0F2E",
+        "text_color": "#FFFFFF",
+        "_comment": "Dark purple mesh gradient for dark mode - smooth 4-corner interpolation"
+      }
+    }
+  },
+  "layout_defaults": {
+    "portrait": {
+      "text_box": {
+        "start": 0.0,
+        "height": 0.22,
+        "align": "center"
+      },
+      "layers": [
+        {
+          "type": "screenshot",
+          "source": "primary",
+          "width": 0.9,
+          "rotation": 0,
+          "anchor": "center",
+          "offset": {
+            "x": 0.5,
+            "y": 0.55
+          }
+        }
+      ]
+    },
+    "landscape": {
+      "text_box": {
+        "start": 0.0,
+        "height": 0.2,
+        "align": "center"
+      },
+      "layers": [
+        {
+          "type": "screenshot",
+          "source": "primary",
+          "width": 0.75,
+          "rotation": 0,
+          "anchor": "center",
+          "offset": {
+            "x": 0.5,
+            "y": 0.6
+          }
+        }
+      ]
+    }
+  },
+  "_notes": [
+    "canvas_sizes: per device/orientation canvas width/height (pixels); Step 3 resizes layers to fit these.",
+    "layout_defaults: fallback text_box + layer definitions per orientation (used when story layout omits them).",
+    "text_box.start/height: fractions of canvas height; Step 4 uses the same values to position text overlays.",
+    "Layers accept type (screenshot/asset), width (fraction of canvas width), rotation (degrees), anchor, and offsets (0..1).",
+    "styles.gradients/styles.mesh define theme color palettes and text_color (Step 4 uses text_color for contrast)."
+  ]
+}

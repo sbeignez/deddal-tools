@@ -1,0 +1,376 @@
+{
+  "_comment": "Step 4 Configuration: Text Overlays",
+  "_description": "Font mappings for 39 languages and device-specific text sizing",
+  "test_mode": {
+    "_comment": "Subset of 7 languages for fast testing (covers different scripts/fonts)",
+    "_languages": "Latin (en-US, fr-FR), Arabic (ar-SA), Japanese (ja), Chinese (zh-Hans), Cyrillic (ru), Thai (th)",
+    "enabled_languages": [
+      "en-US",
+      "fr-FR",
+      "ar-SA",
+      "ja",
+      "zh-Hans",
+      "ru",
+      "th"
+    ]
+  },
+  "text_defaults": {
+    "_comment": "Font mapping for all 39 supported languages. Bold for titles, Regular for subtitles.",
+    "en-US": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "en-GB": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "en-AU": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "en-CA": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "fr-FR": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "fr-CA": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "es-ES": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "es-MX": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "de-DE": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "it": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "pt-BR": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "pt-PT": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "nl-NL": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "da": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "no": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "sv": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "fi": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "pl": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "cs": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "sk": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "hr": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "hu": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "ro": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "ca": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "id": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "ms": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "vi": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "tr": {
+      "title": {
+        "font": "latin/Ubuntu-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "latin/Ubuntu-Regular.ttf"
+      }
+    },
+    "ar-SA": {
+      "title": {
+        "font": "arabic/NotoSansArabic-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "arabic/NotoSansArabic-Regular.ttf"
+      }
+    },
+    "he": {
+      "title": {
+        "font": "hebrew/NotoSansHebrew-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "hebrew/NotoSansHebrew-Regular.ttf"
+      }
+    },
+    "el": {
+      "title": {
+        "font": "greek/NotoSans-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "greek/NotoSans-Regular.ttf"
+      }
+    },
+    "ru": {
+      "title": {
+        "font": "cyrillic/NotoSans-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "cyrillic/NotoSans-Regular.ttf"
+      }
+    },
+    "uk": {
+      "title": {
+        "font": "cyrillic/NotoSans-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "cyrillic/NotoSans-Regular.ttf"
+      }
+    },
+    "zh-Hans": {
+      "title": {
+        "font": "chinese/NotoSansSC-Bold.otf"
+      },
+      "subtitle": {
+        "font": "chinese/NotoSansSC-Regular.otf"
+      }
+    },
+    "zh-Hant": {
+      "title": {
+        "font": "chinese/NotoSansTC-Bold.otf"
+      },
+      "subtitle": {
+        "font": "chinese/NotoSansTC-Regular.otf"
+      }
+    },
+    "ja": {
+      "title": {
+        "font": "japanese/NotoSansJP-Bold.otf"
+      },
+      "subtitle": {
+        "font": "japanese/NotoSansJP-Regular.otf"
+      }
+    },
+    "ko": {
+      "title": {
+        "font": "korean/NotoSansKR-Bold.otf"
+      },
+      "subtitle": {
+        "font": "korean/NotoSansKR-Regular.otf"
+      }
+    },
+    "th": {
+      "title": {
+        "font": "thai/NotoSansThai-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "thai/NotoSansThai-Regular.ttf"
+      }
+    },
+    "hi": {
+      "title": {
+        "font": "devanagari/NotoSansDevanagari-Bold.ttf"
+      },
+      "subtitle": {
+        "font": "devanagari/NotoSansDevanagari-Regular.ttf"
+      }
+    }
+  },
+  "devices": {
+    "iphone_17_pro_max_portrait": {
+      "text": {
+        "title": {
+          "size": 90,
+          "max_lines": 2
+        },
+        "subtitle": {
+          "size": 45,
+          "max_lines": 3
+        }
+      }
+    },
+    "ipad_pro_13-inch_(m5)_portrait": {
+      "text": {
+        "title": {
+          "size": 112,
+          "max_lines": 2
+        },
+        "subtitle": {
+          "size": 56,
+          "max_lines": 3
+        }
+      }
+    },
+    "ipad_pro_13-inch_(m5)_landscape": {
+      "text": {
+        "title": {
+          "size": 70,
+          "max_lines": 2
+        },
+        "subtitle": {
+          "size": 35,
+          "max_lines": 3
+        }
+      }
+    }
+  },
+  "_notes": [
+    "text_defaults: per-language font files (title/subtitle) relative to assets/fonts/; falls back to en-US.",
+    "devices.*.text.size values are in points and act as defaults per device/orientation (Step 4 can override via metadata).",
+    "Canvas geometry, text-box positions, and layout defaults live in config/3-background.json.",
+    "Per-screenshot overrides (strings, custom sizes/colors/fonts) belong in screenshot_metadata.json."
+  ]
+}

@@ -1,0 +1,2320 @@
+{
+  "AppLaunch": {
+    "theme": "light",
+    "en-US": {
+      "title": "Master CFOP, Drop Your Times",
+      "subtitle": "The complete algorithm training system for speedcubers"
+    },
+    "en-GB": {
+      "title": "Master CFOP, Drop Your Times",
+      "subtitle": "The complete algorithm training system for speedcubers"
+    },
+    "en-AU": {
+      "title": "Master CFOP, Drop Your Times",
+      "subtitle": "The complete algorithm training system for speedcubers"
+    },
+    "en-CA": {
+      "title": "Master CFOP, Drop Your Times",
+      "subtitle": "The complete algorithm training system for speedcubers"
+    },
+    "fr-FR": {
+      "title": "Maîtrisez CFOP, Améliorez Vos Temps",
+      "subtitle": "Le système complet d'entraînement aux algorithmes pour speedcubers"
+    },
+    "fr-CA": {
+      "title": "Maîtrisez CFOP, Améliorez Vos Temps",
+      "subtitle": "Le système complet d'entraînement aux algorithmes pour speedcubers"
+    },
+    "es-ES": {
+      "title": "Domina CFOP, Mejora Tus Tiempos",
+      "subtitle": "El sistema completo de entrenamiento de algoritmos para speedcubers"
+    },
+    "es-MX": {
+      "title": "Domina CFOP, Mejora Tus Tiempos",
+      "subtitle": "El sistema completo de entrenamiento de algoritmos para speedcubers"
+    },
+    "ja": {
+      "title": "CFOPをマスター、タイムを短縮",
+      "subtitle": "スピードキューバー向けの完全なアルゴリズムトレーニングシステム"
+    },
+    "zh-Hans": {
+      "title": "掌握CFOP，刷新记录",
+      "subtitle": "为速拧爱好者设计的完整算法训练系统"
+    },
+    "zh-Hant": {
+      "title": "掌握CFOP，刷新記錄",
+      "subtitle": "為速擰愛好者設計的完整演算法訓練系統"
+    },
+    "pt-BR": {
+      "title": "Domine CFOP, Melhore Seus Tempos",
+      "subtitle": "O sistema completo de treinamento de algoritmos para speedcubers"
+    },
+    "pt-PT": {
+      "title": "Domine CFOP, Melhore Seus Tempos",
+      "subtitle": "O sistema completo de treinamento de algoritmos para speedcubers"
+    },
+    "de-DE": {
+      "title": "CFOP Meistern, Zeiten Verbessern",
+      "subtitle": "Das vollständige Algorithmus-Trainingssystem für Speedcuber"
+    },
+    "ko": {
+      "title": "CFOP 마스터, 기록 단축",
+      "subtitle": "스피드큐빙 선수를 위한 완전한 알고리즘 훈련 시스템"
+    },
+    "it": {
+      "title": "Domina CFOP, Migliora i Tempi",
+      "subtitle": "Il sistema completo di allenamento degli algoritmi per speedcuber"
+    },
+    "nl-NL": {
+      "title": "CFOP Beheersen, Verbeter Je Tijden",
+      "subtitle": "Het complete algoritme-trainingssysteem voor speedcubers"
+    },
+    "ru": {
+      "title": "Овладейте CFOP, Улучшите Результаты",
+      "subtitle": "Полная система тренировки алгоритмов для спидкубинга"
+    },
+    "pl": {
+      "title": "Opanuj CFOP, Popraw Swoje Czasy",
+      "subtitle": "Kompletny system treningowy algorytmów dla speedcuberów"
+    },
+    "tr": {
+      "title": "CFOP'u Öğren, Sürelerinizi İyileştir",
+      "subtitle": "Hızlı küp çözenler için tam algoritma eğitim sistemi"
+    },
+    "id": {
+      "title": "Kuasai CFOP, Tingkatkan Waktu Anda",
+      "subtitle": "Sistem pelatihan algoritma lengkap untuk speedcuber"
+    },
+    "th": {
+      "title": "เชี่ยวชาญ CFOP ลดเวลาของคุณ",
+      "subtitle": "ระบบฝึกอัลกอริทึมที่สมบูรณ์สำหรับนักลูกบาศก์ความเร็ว"
+    },
+    "vi": {
+      "title": "Nắm Vững CFOP, Cải Thiện Thời Gian",
+      "subtitle": "Hệ thống đào tạo thuật toán hoàn chỉnh cho những người chơi Rubik nhanh"
+    },
+    "ar-SA": {
+      "title": "أتقن CFOP، حسّن أوقاتك",
+      "subtitle": "النظام الكامل لتدريب الخوارزميات لمحبي تكعيب السرعة"
+    },
+    "sv": {
+      "title": "Behärska CFOP, Förbättra Dina Tider",
+      "subtitle": "Det kompletta algoritmtrainingssystemet för speedcubers"
+    },
+    "no": {
+      "title": "Mestre CFOP, Forbedre Tidene Dine",
+      "subtitle": "Det komplette algoritmetrainingssystemet for speedcubere"
+    },
+    "da": {
+      "title": "Mestre CFOP, Forbedre Dine Tider",
+      "subtitle": "Det komplette algoritme-trainingssystem til speedcubere"
+    },
+    "fi": {
+      "title": "Hallitse CFOP, Paranna Aikaasi",
+      "subtitle": "Täydellinen algoritmin harjoitusjärjestelmä speedcubereille"
+    },
+    "cs": {
+      "title": "Ovládni CFOP, Zlepši Své Časy",
+      "subtitle": "Kompletní systém trénování algoritmů pro speedcubery"
+    },
+    "ro": {
+      "title": "Stăpânește CFOP, Îmbunătățește Timpii",
+      "subtitle": "Sistemul complet de antrenament al algoritmilor pentru speedcubere"
+    },
+    "uk": {
+      "title": "Опануй CFOP, Покращи Результати",
+      "subtitle": "Повна система тренування алгоритмів для спідкубінгу"
+    },
+    "hr": {
+      "title": "Savladaj CFOP, Poboljšaj Svoje Vremenske Rezultate",
+      "subtitle": "Potpuni sustav treninga algoritama za speedcubere"
+    },
+    "hu": {
+      "title": "Sajátítsd El a CFOP-ot, Javítsd Idődet",
+      "subtitle": "A speedcubereknek szóló teljes algoritmus-tréning rendszer"
+    },
+    "sk": {
+      "title": "Ovládni CFOP, Zlepši Svoje Časy",
+      "subtitle": "Kompletný systém tréningu algoritmov pre speedcubery"
+    },
+    "el": {
+      "title": "Κατακτήστε CFOP, Βελτιώστε Τους Χρόνους",
+      "subtitle": "Το ολοκληρωμένο σύστημα εκπαίδευσης αλγορίθμων για speedcubers"
+    },
+    "he": {
+      "title": "שלוט ב-CFOP, שפר את הזמנים שלך",
+      "subtitle": "מערכת הדרכה אלגוריתמים מלאה לחובבי קוביית מהירות"
+    },
+    "ms": {
+      "title": "Kuasai CFOP, Tingkatkan Masa Anda",
+      "subtitle": "Sistem latihan algoritma lengkap untuk pemecah kubus cepat"
+    },
+    "ca": {
+      "title": "Domina CFOP, Millora Els Teus Temps",
+      "subtitle": "El sistema complet d'entrenament d'algorismes per a speedcubers"
+    },
+    "hi": {
+      "title": "CFOP को माहिर बनाएं, समय में सुधार करें",
+      "subtitle": "स्पीडक्यूबर्स के लिए संपूर्ण एल्गोरिदम प्रशिक्षण प्रणाली"
+    }
+  },
+  "Home": {
+    "theme": "light",
+    "en-US": {
+      "title": "Master CFOP, Drop Your Times",
+      "subtitle": "Build your streak and see daily progress toward faster solves"
+    },
+    "en-GB": {
+      "title": "Master CFOP, Drop Your Times",
+      "subtitle": "Build your streak and see daily progress toward faster solves"
+    },
+    "en-AU": {
+      "title": "Master CFOP, Drop Your Times",
+      "subtitle": "Build your streak and see daily progress toward faster solves"
+    },
+    "en-CA": {
+      "title": "Master CFOP, Drop Your Times",
+      "subtitle": "Build your streak and see daily progress toward faster solves"
+    },
+    "fr-FR": {
+      "title": "Maîtrisez CFOP, Améliorez Vos Temps",
+      "subtitle": "Construisez votre série et voyez votre progression quotidienne"
+    },
+    "fr-CA": {
+      "title": "Maîtrisez CFOP, Améliorez Vos Temps",
+      "subtitle": "Construisez votre série et voyez votre progression quotidienne"
+    },
+    "es-ES": {
+      "title": "Domina CFOP, Mejora Tus Tiempos",
+      "subtitle": "Construye tu racha y ve tu progreso diario hacia soluciones más rápidas"
+    },
+    "es-MX": {
+      "title": "Domina CFOP, Mejora Tus Tiempos",
+      "subtitle": "Construye tu racha y ve tu progreso diario hacia soluciones más rápidas"
+    },
+    "ja": {
+      "title": "CFOPをマスター、タイムを短縮",
+      "subtitle": "連続記録を築き、毎日のタイムの進歩を見る"
+    },
+    "zh-Hans": {
+      "title": "掌握CFOP，刷新记录",
+      "subtitle": "建立连续练习记录，每日看到进度"
+    },
+    "zh-Hant": {
+      "title": "掌握CFOP，刷新記錄",
+      "subtitle": "建立連續練習記錄，每日看到進度"
+    },
+    "pt-BR": {
+      "title": "Domine CFOP, Melhore Seus Tempos",
+      "subtitle": "Construa sua sequência e veja progresso diário em suas melhores marcas"
+    },
+    "pt-PT": {
+      "title": "Domine CFOP, Melhore Seus Tempos",
+      "subtitle": "Construa a sua sequência e veja o progresso diário nas suas marcas"
+    },
+    "de-DE": {
+      "title": "CFOP Meistern, Zeiten Verbessern",
+      "subtitle": "Baue deine Serie auf und sehe tägliche Fortschritte"
+    },
+    "ko": {
+      "title": "CFOP 마스터, 기록 단축",
+      "subtitle": "연속 기록을 쌓고 매일 진도를 확인하세요"
+    },
+    "it": {
+      "title": "Domina CFOP, Migliora i Tempi",
+      "subtitle": "Costruisci la tua serie e vedi i progressi giornalieri"
+    },
+    "nl-NL": {
+      "title": "CFOP Beheersen, Verbeter Je Tijden",
+      "subtitle": "Bouw je reeks op en zie dagelijkse vooruitgang"
+    },
+    "ru": {
+      "title": "Овладейте CFOP, Улучшите Результаты",
+      "subtitle": "Создавайте серии тренировок и отслеживайте ежедневный прогресс"
+    },
+    "pl": {
+      "title": "Opanuj CFOP, Popraw Swoje Czasy",
+      "subtitle": "Buduj serię i obserwuj codzienną progresję"
+    },
+    "tr": {
+      "title": "CFOP'u Öğren, Sürelerinizi İyileştir",
+      "subtitle": "Seri oluştur ve günlük ilerlemeyi görüntüle"
+    },
+    "id": {
+      "title": "Kuasai CFOP, Tingkatkan Waktu Anda",
+      "subtitle": "Bangun seri Anda dan lihat kemajuan harian"
+    },
+    "th": {
+      "title": "เชี่ยวชาญ CFOP ลดเวลาของคุณ",
+      "subtitle": "สร้างเสริจสรุ่งและดูความก้าวหน้าประจำวัน"
+    },
+    "vi": {
+      "title": "Nắm Vững CFOP, Cải Thiện Thời Gian",
+      "subtitle": "Xây dựng chuỗi luyện tập và xem tiến độ hàng ngày"
+    },
+    "ar-SA": {
+      "title": "أتقن CFOP، حسّن أوقاتك",
+      "subtitle": "بناء سلسلتك وشاهد التقدم اليومي"
+    },
+    "sv": {
+      "title": "Behärska CFOP, Förbättra Dina Tider",
+      "subtitle": "Bygg din träningssekvens och se daglig framgång"
+    },
+    "no": {
+      "title": "Mestre CFOP, Forbedre Tidene Dine",
+      "subtitle": "Bygg din streik og se daglig fremgang"
+    },
+    "da": {
+      "title": "Mestre CFOP, Forbedre Dine Tider",
+      "subtitle": "Byg din serie og se daglig fremskridt"
+    },
+    "fi": {
+      "title": "Hallitse CFOP, Paranna Aikaasi",
+      "subtitle": "Rakenna peräkkäin ja näe päivittäinen edistys"
+    },
+    "cs": {
+      "title": "Ovládni CFOP, Zlepši Své Časy",
+      "subtitle": "Buduj sérii a sleduj denní pokrok"
+    },
+    "ro": {
+      "title": "Stăpânește CFOP, Îmbunătățește Timpii",
+      "subtitle": "Construiește seria ta și urmărește progresul zilnic"
+    },
+    "uk": {
+      "title": "Опануй CFOP, Покращи Результати",
+      "subtitle": "Будуй свої серії та стежи щодобовий прогрес"
+    },
+    "hr": {
+      "title": "Savladaj CFOP, Poboljšaj Svoje Vremenske Rezultate",
+      "subtitle": "Graditeljski niz i vidite dnevni napredak"
+    },
+    "hu": {
+      "title": "Sajátítsd El a CFOP-ot, Javítsd Idődet",
+      "subtitle": "Építsd fel a sorozatodat és kövesd a napi előrehaladást"
+    },
+    "sk": {
+      "title": "Ovládni CFOP, Zlepši Svoje Časy",
+      "subtitle": "Buduj sériu a sleduj denný pokrok"
+    },
+    "el": {
+      "title": "Κατακτήστε CFOP, Βελτιώστε Τους Χρόνους",
+      "subtitle": "Δημιουργήστε τη σειρά σας και δείτε καθημερινή πρόοδο"
+    },
+    "he": {
+      "title": "שלוט ב-CFOP, שפר את הזמנים שלך",
+      "subtitle": "בנה את הסדרה שלך וראה התקדמות יומית"
+    },
+    "ms": {
+      "title": "Kuasai CFOP, Tingkatkan Masa Anda",
+      "subtitle": "Bangun siri anda dan lihat kemajuan harian"
+    },
+    "ca": {
+      "title": "Domina CFOP, Millora Els Teus Temps",
+      "subtitle": "Construeix la teva seqüència i veu el progrés diari"
+    },
+    "hi": {
+      "title": "CFOP को माहिर बनाएं, समय में सुधार करें",
+      "subtitle": "अपनी श्रृंखला बनाएं और दैनिक प्रगति देखें"
+    }
+  },
+  "Library": {
+    "theme": "light",
+    "en-US": {
+      "title": "120 Cases. Every Algorithm You Need.",
+      "subtitle": "F2L, OLL, and PLL — the complete CFOP library"
+    },
+    "en-GB": {
+      "title": "120 Cases. Every Algorithm You Need.",
+      "subtitle": "F2L, OLL, and PLL — the complete CFOP library"
+    },
+    "en-AU": {
+      "title": "120 Cases. Every Algorithm You Need.",
+      "subtitle": "F2L, OLL, and PLL — the complete CFOP library"
+    },
+    "en-CA": {
+      "title": "120 Cases. Every Algorithm You Need.",
+      "subtitle": "F2L, OLL, and PLL — the complete CFOP library"
+    },
+    "fr-FR": {
+      "title": "120 Cas. Tous les Algorithmes Nécessaires",
+      "subtitle": "F2L, OLL et PLL — la bibliothèque CFOP complète"
+    },
+    "fr-CA": {
+      "title": "120 Cas. Tous les Algorithmes Nécessaires",
+      "subtitle": "F2L, OLL et PLL — la bibliothèque CFOP complète"
+    },
+    "es-ES": {
+      "title": "120 Casos. Todos los Algoritmos que Necesitas",
+      "subtitle": "F2L, OLL y PLL — la librería CFOP completa"
+    },
+    "es-MX": {
+      "title": "120 Casos. Todos los Algoritmos que Necesitas",
+      "subtitle": "F2L, OLL y PLL — la librería CFOP completa"
+    },
+    "ja": {
+      "title": "120個のケース。必要なすべてのアルゴリズム",
+      "subtitle": "F2L、OLL、PLL — 完全なCFOPライブラリ"
+    },
+    "zh-Hans": {
+      "title": "120个案例。所需的所有算法",
+      "subtitle": "F2L、OLL和PLL — 完整CFOP库"
+    },
+    "zh-Hant": {
+      "title": "120個案例。所需的所有演算法",
+      "subtitle": "F2L、OLL和PLL — 完整CFOP庫"
+    },
+    "pt-BR": {
+      "title": "120 Casos. Todos os Algoritmos que Precisa",
+      "subtitle": "F2L, OLL e PLL — a biblioteca CFOP completa"
+    },
+    "pt-PT": {
+      "title": "120 Casos. Todos os Algoritmos que Precisa",
+      "subtitle": "F2L, OLL e PLL — a biblioteca CFOP completa"
+    },
+    "de-DE": {
+      "title": "120 Fälle. Alle Algorithmen, Die Du Brauchst",
+      "subtitle": "F2L, OLL und PLL — die komplette CFOP-Bibliothek"
+    },
+    "ko": {
+      "title": "120개의 케이스. 필요한 모든 알고리즘",
+      "subtitle": "F2L, OLL, PLL — 완전한 CFOP 라이브러리"
+    },
+    "it": {
+      "title": "120 Casi. Tutti gli Algoritmi di Cui Hai Bisogno",
+      "subtitle": "F2L, OLL e PLL — la libreria CFOP completa"
+    },
+    "nl-NL": {
+      "title": "120 Gevallen. Alle Algoritmen Die Je Nodig Hebt",
+      "subtitle": "F2L, OLL en PLL — de volledige CFOP-bibliotheek"
+    },
+    "ru": {
+      "title": "120 Случаев. Все Необходимые Алгоритмы",
+      "subtitle": "F2L, OLL и PLL — полная библиотека CFOP"
+    },
+    "pl": {
+      "title": "120 Przypadków. Wszystkie Potrzebne Algorytmy",
+      "subtitle": "F2L, OLL i PLL — kompletna biblioteka CFOP"
+    },
+    "tr": {
+      "title": "120 Durum. İhtiyacın Olan Tüm Algoritmalar",
+      "subtitle": "F2L, OLL ve PLL — tam CFOP kütüphanesi"
+    },
+    "id": {
+      "title": "120 Kasus. Semua Algoritma yang Anda Butuhkan",
+      "subtitle": "F2L, OLL, dan PLL — perpustakaan CFOP lengkap"
+    },
+    "th": {
+      "title": "120 กรณี อัลกอริทึมทั้งหมดที่คุณต้องการ",
+      "subtitle": "F2L, OLL, และ PLL — ห้องสมุด CFOP ที่สมบูรณ์"
+    },
+    "vi": {
+      "title": "120 Trường Hợp. Tất Cả Thuật Toán Bạn Cần",
+      "subtitle": "F2L, OLL và PLL — thư viện CFOP hoàn chỉnh"
+    },
+    "ar-SA": {
+      "title": "120 حالة. جميع الخوارزميات التي تحتاجها",
+      "subtitle": "F2L و OLL و PLL — مكتبة CFOP الكاملة"
+    },
+    "sv": {
+      "title": "120 Fall. Alla Algoritmer Du Behöver",
+      "subtitle": "F2L, OLL och PLL — det kompletta CFOP-biblioteket"
+    },
+    "no": {
+      "title": "120 Tilfeller. Alle Algoritmene Du Trenger",
+      "subtitle": "F2L, OLL og PLL — det komplette CFOP-biblioteket"
+    },
+    "da": {
+      "title": "120 Tilfælde. Alle Algoritmer Du Skal Bruge",
+      "subtitle": "F2L, OLL og PLL — det fuldstændige CFOP-bibliotek"
+    },
+    "fi": {
+      "title": "120 Tapausta. Kaikki Tarvittavat Algoritmit",
+      "subtitle": "F2L, OLL ja PLL — täydellinen CFOP-kirjasto"
+    },
+    "cs": {
+      "title": "120 Případů. Všechny Potřebné Algoritmy",
+      "subtitle": "F2L, OLL a PLL — kompletní knihovna CFOP"
+    },
+    "ro": {
+      "title": "120 Cazuri. Toți Algoritmii de Care Ai Nevoie",
+      "subtitle": "F2L, OLL și PLL — biblioteca CFOP completă"
+    },
+    "uk": {
+      "title": "120 Випадків. Усі Необхідні Алгоритми",
+      "subtitle": "F2L, OLL та PLL — повна бібліотека CFOP"
+    },
+    "hr": {
+      "title": "120 Slučajeva. Svi Algoritmi Koji Vam Trebaju",
+      "subtitle": "F2L, OLL i PLL — potpuna CFOP biblioteka"
+    },
+    "hu": {
+      "title": "120 Eset. Minden Szükséges Algoritmus",
+      "subtitle": "F2L, OLL és PLL — a teljes CFOP-könyvtár"
+    },
+    "sk": {
+      "title": "120 Prípadov. Všetky Potrebné Algoritmy",
+      "subtitle": "F2L, OLL a PLL — kompletná knižnica CFOP"
+    },
+    "el": {
+      "title": "120 Περιπτώσεις. Όλοι οι Αλγόριθμοι που Χρειάζεστε",
+      "subtitle": "F2L, OLL και PLL — η ολοκληρωμένη βιβλιοθήκη CFOP"
+    },
+    "he": {
+      "title": "120 מקרים. כל האלגוריתמים שאתה צריך",
+      "subtitle": "F2L, OLL ו-PLL — ספריית CFOP מלאה"
+    },
+    "ms": {
+      "title": "120 Kes. Semua Algoritma yang Anda Perlukan",
+      "subtitle": "F2L, OLL, dan PLL — perpustakaan CFOP lengkap"
+    },
+    "ca": {
+      "title": "120 Casos. Tots els Algoritmes Que Necessites",
+      "subtitle": "F2L, OLL i PLL — la biblioteca CFOP completa"
+    },
+    "hi": {
+      "title": "120 केस। सभी एल्गोरिदम जो आपको चाहिए",
+      "subtitle": "F2L, OLL और PLL — संपूर्ण CFOP लाइब्रेरी"
+    }
+  },
+  "Library_F2L": {
+    "theme": "light",
+    "en-US": {
+      "title": "42 F2L Cases at Your Fingertips",
+      "subtitle": "Browse, search, and master first two layers systematically"
+    },
+    "fr-FR": {
+      "title": "42 Cas F2L à Portée de Main",
+      "subtitle": "Parcourez, recherchez et maîtrisez les deux premières couches systématiquement"
+    },
+    "es-ES": {
+      "title": "42 Casos F2L al Alcance de tu Mano",
+      "subtitle": "Navega, busca y domina las dos primeras capas sistemáticamente"
+    },
+    "ja": {
+      "title": "F2L 42ケースを指先に",
+      "subtitle": "体系的に最初の2層を閲覧、検索、習得"
+    },
+    "zh-Hans": {
+      "title": "42个F2L情况触手可及",
+      "subtitle": "系统性地浏览、搜索和掌握前两层"
+    },
+    "en-GB": {
+      "title": "42 F2L Cases at Your Fingertips",
+      "subtitle": "Browse, search, and master first two layers systematically"
+    },
+    "en-AU": {
+      "title": "42 F2L Cases at Your Fingertips",
+      "subtitle": "Browse, search, and master first two layers systematically"
+    },
+    "en-CA": {
+      "title": "42 F2L Cases at Your Fingertips",
+      "subtitle": "Browse, search, and master first two layers systematically"
+    },
+    "fr-CA": {
+      "title": "42 Cas F2L à Portée de Main",
+      "subtitle": "Parcourez, recherchez et maîtrisez les deux premières couches systématiquement"
+    },
+    "es-MX": {
+      "title": "42 Casos F2L al Alcance de tu Mano",
+      "subtitle": "Navega, busca y domina las dos primeras capas sistemáticamente"
+    },
+    "zh-Hant": {
+      "title": "42個F2L情況觸手可及",
+      "subtitle": "系統性地瀏覽、搜尋和掌握前兩層"
+    },
+    "pt-BR": {
+      "title": "42 Casos F2L na Ponta dos Dedos",
+      "subtitle": "Navegue, pesquise e domine as duas primeiras camadas sistematicamente"
+    },
+    "pt-PT": {
+      "title": "42 Casos F2L ao Seu Alcance",
+      "subtitle": "Navegue, pesquise e domine as duas primeiras camadas sistematicamente"
+    },
+    "de-DE": {
+      "title": "42 F2L-Fälle zur Hand",
+      "subtitle": "Durchsuchen, finden und systematisch die ersten beiden Ebenen meistern"
+    },
+    "ko": {
+      "title": "손끝에서 만나는 42가지 F2L 케이스",
+      "subtitle": "첫 두 층을 체계적으로 탐색하고 검색하며 마스터하세요"
+    },
+    "it": {
+      "title": "42 Casi F2L a Portata di Mano",
+      "subtitle": "Sfoglia, cerca e padroneggia i primi due strati sistematicamente"
+    },
+    "nl-NL": {
+      "title": "42 F2L-Cases Binnen Handbereik",
+      "subtitle": "Blader, zoek en beheers de eerste twee lagen systematisch"
+    },
+    "ru": {
+      "title": "42 Случая F2L у Вас под Рукой",
+      "subtitle": "Просматривайте, ищите и осваивайте первые два слоя систематически"
+    },
+    "pl": {
+      "title": "42 Przypadki F2L na Wyciągnięcie Ręki",
+      "subtitle": "Przeglądaj, wyszukuj i opanuj pierwsze dwie warstwy systematycznie"
+    },
+    "tr": {
+      "title": "42 F2L Durumu Parmaklarınızın Ucunda",
+      "subtitle": "İlk iki katmanı sistematik olarak inceleyin, arayın ve ustalaşın"
+    },
+    "id": {
+      "title": "42 Kasus F2L di Ujung Jari Anda",
+      "subtitle": "Jelajahi, cari, dan kuasai dua lapisan pertama secara sistematis"
+    },
+    "th": {
+      "title": "42 กรณี F2L อยู่แค่ปลายนิ้ว",
+      "subtitle": "เรียกดู ค้นหา และฝึกฝนสองชั้นแรกอย่างเป็นระบบ"
+    },
+    "vi": {
+      "title": "42 Trường Hợp F2L trong Tầm Tay",
+      "subtitle": "Duyệt, tìm kiếm và thành thạo hai lớp đầu một cách có hệ thống"
+    },
+    "ar-SA": {
+      "title": "42 حالة F2L في متناول يدك",
+      "subtitle": "تصفح وابحث وأتقن الطبقتين الأوليين بشكل منهجي"
+    },
+    "sv": {
+      "title": "42 F2L-Fall inom Räckhåll",
+      "subtitle": "Bläddra, sök och bemästra de två första lagren systematiskt"
+    },
+    "no": {
+      "title": "42 F2L-Tilfeller ved Fingertuppene",
+      "subtitle": "Bla gjennom, søk og mestre de to første lagene systematisk"
+    },
+    "da": {
+      "title": "42 F2L-Cases ved Fingerspidserne",
+      "subtitle": "Gennemse, søg og mestre de første to lag systematisk"
+    },
+    "fi": {
+      "title": "42 F2L-Tapausta Käden Ulottuvilla",
+      "subtitle": "Selaa, etsi ja hallitse kahta ensimmäistä kerrosta järjestelmällisesti"
+    },
+    "cs": {
+      "title": "42 F2L Případů na Dosah Ruky",
+      "subtitle": "Procházejte, vyhledávejte a systematicky ovládejte první dvě vrstvy"
+    },
+    "ro": {
+      "title": "42 de Cazuri F2L la Îndemână",
+      "subtitle": "Răsfoiește, caută și stăpânește primele două straturi sistematic"
+    },
+    "uk": {
+      "title": "42 Випадки F2L під Рукою",
+      "subtitle": "Переглядайте, шукайте та опановуйте перші два шари систематично"
+    },
+    "hr": {
+      "title": "42 F2L Slučaja na Dohvat Ruke",
+      "subtitle": "Pregledavajte, pretražujte i sustavno savladajte prva dva sloja"
+    },
+    "hu": {
+      "title": "42 F2L Eset Kéznél",
+      "subtitle": "Böngésszen, keressen és sajátítsa el szisztematikusan az első két réteget"
+    },
+    "sk": {
+      "title": "42 F2L Prípadov na Dosah Ruky",
+      "subtitle": "Prehliadajte, vyhľadávajte a systematicky ovládajte prvé dve vrstvy"
+    },
+    "el": {
+      "title": "42 Περιπτώσεις F2L στα Χέρια σας",
+      "subtitle": "Περιηγηθείτε, αναζητήστε και κατακτήστε τα πρώτα δύο επίπεδα συστηματικά"
+    },
+    "he": {
+      "title": "42 מצבי F2L בקצות האצבעות",
+      "subtitle": "עיין, חפש ושלוט בשתי השכבות הראשונות באופן שיטתי"
+    },
+    "ms": {
+      "title": "42 Kes F2L di Hujung Jari",
+      "subtitle": "Layari, cari, dan kuasai dua lapisan pertama secara sistematik"
+    },
+    "ca": {
+      "title": "42 Cases F2L a l'Abast",
+      "subtitle": "Navega, cerca i domina les dues primeres capes sistemàticament"
+    },
+    "hi": {
+      "title": "आपकी उंगलियों पर 42 F2L केस",
+      "subtitle": "पहली दो परतों को व्यवस्थित रूप से ब्राउज़, खोज और मास्टर करें"
+    }
+  },
+  "Library_F2L_Case1": {
+    "theme": "light",
+    "en-US": {
+      "title": "Compare Algorithms, Choose Your Best",
+      "subtitle": "Multiple solutions for every case — pick what feels natural"
+    },
+    "fr-FR": {
+      "title": "Comparez les Algorithmes, Choisissez le Meilleur",
+      "subtitle": "Plusieurs solutions pour chaque cas — choisissez ce qui vous semble naturel"
+    },
+    "es-ES": {
+      "title": "Compara Algoritmos, Elige el Mejor",
+      "subtitle": "Múltiples soluciones para cada caso — elige lo que te resulte natural"
+    },
+    "ja": {
+      "title": "アルゴリズムを比較、最適を選択",
+      "subtitle": "各ケースに複数の解法 — 自然に感じるものを選択"
+    },
+    "zh-Hans": {
+      "title": "比较算法，选择最佳",
+      "subtitle": "每个情况都有多种解法 — 选择感觉自然的"
+    },
+    "en-GB": {
+      "title": "Compare Algorithms, Choose Your Best",
+      "subtitle": "Multiple solutions for every case — pick what feels natural"
+    },
+    "en-AU": {
+      "title": "Compare Algorithms, Choose Your Best",
+      "subtitle": "Multiple solutions for every case — pick what feels natural"
+    },
+    "en-CA": {
+      "title": "Compare Algorithms, Choose Your Best",
+      "subtitle": "Multiple solutions for every case — pick what feels natural"
+    },
+    "fr-CA": {
+      "title": "Comparez les Algorithmes, Choisissez le Meilleur",
+      "subtitle": "Plusieurs solutions pour chaque cas — choisissez ce qui vous semble naturel"
+    },
+    "es-MX": {
+      "title": "Compara Algoritmos, Elige el Mejor",
+      "subtitle": "Múltiples soluciones para cada caso — elige lo que te resulte natural"
+    },
+    "zh-Hant": {
+      "title": "比較算法，選擇最佳",
+      "subtitle": "每個情況都有多種解法 — 選擇感覺自然的"
+    },
+    "pt-BR": {
+      "title": "Compare Algoritmos, Escolha o Melhor",
+      "subtitle": "Múltiplas soluções para cada caso — escolha o que parece natural"
+    },
+    "pt-PT": {
+      "title": "Compare Algoritmos, Escolha o Melhor",
+      "subtitle": "Múltiplas soluções para cada caso — escolha o que parece natural"
+    },
+    "de-DE": {
+      "title": "Algorithmen Vergleichen, das Beste Wählen",
+      "subtitle": "Mehrere Lösungen für jeden Fall — wählen Sie, was sich natürlich anfühlt"
+    },
+    "ko": {
+      "title": "알고리즘 비교, 최적 선택",
+      "subtitle": "모든 케이스에 여러 솔루션 — 자연스러운 것을 선택하세요"
+    },
+    "it": {
+      "title": "Confronta Algoritmi, Scegli il Migliore",
+      "subtitle": "Soluzioni multiple per ogni caso — scegli ciò che ti sembra naturale"
+    },
+    "nl-NL": {
+      "title": "Vergelijk Algoritmes, Kies de Beste",
+      "subtitle": "Meerdere oplossingen voor elk geval — kies wat natuurlijk aanvoelt"
+    },
+    "ru": {
+      "title": "Сравните Алгоритмы, Выберите Лучший",
+      "subtitle": "Несколько решений для каждого случая — выберите то, что кажется естественным"
+    },
+    "pl": {
+      "title": "Porównaj Algorytmy, Wybierz Najlepszy",
+      "subtitle": "Wiele rozwiązań dla każdego przypadku — wybierz to, co wydaje się naturalne"
+    },
+    "tr": {
+      "title": "Algoritmaları Karşılaştırın, En İyisini Seçin",
+      "subtitle": "Her durum için birden fazla çözüm — doğal hissettiren seçin"
+    },
+    "id": {
+      "title": "Bandingkan Algoritma, Pilih yang Terbaik",
+      "subtitle": "Beberapa solusi untuk setiap kasus — pilih yang terasa alami"
+    },
+    "th": {
+      "title": "เปรียบเทียบอัลกอริทึม เลือกที่ดีที่สุด",
+      "subtitle": "หลายโซลูชันสำหรับทุกกรณี — เลือกสิ่งที่รู้สึกเป็นธรรมชาติ"
+    },
+    "vi": {
+      "title": "So Sánh Thuật Toán, Chọn Tốt Nhất",
+      "subtitle": "Nhiều giải pháp cho mỗi trường hợp — chọn điều cảm thấy tự nhiên"
+    },
+    "ar-SA": {
+      "title": "قارن الخوارزميات، اختر الأفضل",
+      "subtitle": "حلول متعددة لكل حالة — اختر ما يبدو طبيعيًا"
+    },
+    "sv": {
+      "title": "Jämför Algoritmer, Välj din Bästa",
+      "subtitle": "Flera lösningar för varje fall — välj vad som känns naturligt"
+    },
+    "no": {
+      "title": "Sammenlign Algoritmer, Velg din Beste",
+      "subtitle": "Flere løsninger for hvert tilfelle — velg det som føles naturlig"
+    },
+    "da": {
+      "title": "Sammenlign Algoritmer, Vælg din Bedste",
+      "subtitle": "Flere løsninger for hvert tilfælde — vælg hvad der føles naturligt"
+    },
+    "fi": {
+      "title": "Vertaa Algoritmeja, Valitse Paras",
+      "subtitle": "Useita ratkaisuja jokaiseen tapaukseen — valitse mikä tuntuu luonnolliselta"
+    },
+    "cs": {
+      "title": "Porovnejte Algoritmy, Vyberte si Nejlepší",
+      "subtitle": "Několik řešení pro každý případ — vyberte si, co se cítí přirozeně"
+    },
+    "ro": {
+      "title": "Compară Algoritmii, Alege-l pe Cel Mai Bun",
+      "subtitle": "Soluții multiple pentru fiecare caz — alege ce ți se pare natural"
+    },
+    "uk": {
+      "title": "Порівняйте Алгоритми, Виберіть Найкращий",
+      "subtitle": "Кілька рішень для кожного випадку — виберіть те, що здається природним"
+    },
+    "hr": {
+      "title": "Usporedite Algoritme, Odaberite Najbolji",
+      "subtitle": "Više rješenja za svaki slučaj — odaberite ono što se čini prirodno"
+    },
+    "hu": {
+      "title": "Hasonlítsa Össze az Algoritmusokat, Válassza a Legjobbat",
+      "subtitle": "Több megoldás minden esetre — válassza azt, ami természetesnek tűnik"
+    },
+    "sk": {
+      "title": "Porovnajte Algoritmy, Vyberte si Najlepší",
+      "subtitle": "Niekoľko riešení pre každý prípad — vyberte si, čo sa cíti prirodzene"
+    },
+    "el": {
+      "title": "Συγκρίνετε Αλγορίθμους, Επιλέξτε τον Καλύτερο",
+      "subtitle": "Πολλαπλές λύσεις για κάθε περίπτωση — επιλέξτε αυτό που νιώθετε φυσικό"
+    },
+    "he": {
+      "title": "השווה אלגוריתמים, בחר את הטוב ביותר",
+      "subtitle": "פתרונות מרובים לכל מקרה — בחר מה שמרגיש טבעי"
+    },
+    "ms": {
+      "title": "Bandingkan Algoritma, Pilih yang Terbaik",
+      "subtitle": "Pelbagai penyelesaian untuk setiap kes — pilih yang rasa semula jadi"
+    },
+    "ca": {
+      "title": "Compara Algorismes, Tria el Millor",
+      "subtitle": "Múltiples solucions per a cada cas — tria el que et sembli natural"
+    },
+    "hi": {
+      "title": "एल्गोरिदम की तुलना करें, सर्वश्रेष्ठ चुनें",
+      "subtitle": "हर केस के लिए कई समाधान — जो स्वाभाविक लगे वो चुनें"
+    }
+  },
+  "Library_F2L_Alg1": {
+    "theme": "light",
+    "en-US": {
+      "title": "See Every Move in 3D Animation",
+      "subtitle": "Watch algorithms unfold step-by-step with interactive visualization"
+    },
+    "fr-FR": {
+      "title": "Voyez Chaque Mouvement en Animation 3D",
+      "subtitle": "Regardez les algorithmes se dérouler étape par étape avec visualisation interactive"
+    },
+    "es-ES": {
+      "title": "Ve Cada Movimiento en Animación 3D",
+      "subtitle": "Observa cómo se desarrollan los algoritmos paso a paso con visualización interactiva"
+    },
+    "ja": {
+      "title": "3Dアニメーションですべての動きを確認",
+      "subtitle": "インタラクティブな視覚化でアルゴリズムをステップごとに確認"
+    },
+    "zh-Hans": {
+      "title": "以3D动画查看每个动作",
+      "subtitle": "通过交互式可视化逐步观看算法展开"
+    },
+    "en-GB": {
+      "title": "See Every Move in 3D Animation",
+      "subtitle": "Watch algorithms unfold step-by-step with interactive visualisation"
+    },
+    "en-AU": {
+      "title": "See Every Move in 3D Animation",
+      "subtitle": "Watch algorithms unfold step-by-step with interactive visualisation"
+    },
+    "en-CA": {
+      "title": "See Every Move in 3D Animation",
+      "subtitle": "Watch algorithms unfold step-by-step with interactive visualization"
+    },
+    "fr-CA": {
+      "title": "Voyez Chaque Mouvement en Animation 3D",
+      "subtitle": "Regardez les algorithmes se dérouler étape par étape avec visualisation interactive"
+    },
+    "es-MX": {
+      "title": "Ve Cada Movimiento en Animación 3D",
+      "subtitle": "Observa cómo se desarrollan los algoritmos paso a paso con visualización interactiva"
+    },
+    "zh-Hant": {
+      "title": "以3D動畫查看每個動作",
+      "subtitle": "通過交互式可視化逐步觀看算法展開"
+    },
+    "pt-BR": {
+      "title": "Veja Cada Movimento em Animação 3D",
+      "subtitle": "Assista os algoritmos se desenrolarem passo a passo com visualização interativa"
+    },
+    "pt-PT": {
+      "title": "Veja Cada Movimento em Animação 3D",
+      "subtitle": "Veja os algoritmos desenrolarem-se passo a passo com visualização interativa"
+    },
+    "de-DE": {
+      "title": "Sehen Sie Jeden Zug in 3D-Animation",
+      "subtitle": "Beobachten Sie Algorithmen Schritt für Schritt mit interaktiver Visualisierung"
+    },
+    "ko": {
+      "title": "3D 애니메이션으로 모든 동작 확인",
+      "subtitle": "대화형 시각화로 알고리즘이 단계별로 펼쳐지는 것을 확인하세요"
+    },
+    "it": {
+      "title": "Visualizza Ogni Mossa in Animazione 3D",
+      "subtitle": "Guarda gli algoritmi svolgersi passo dopo passo con visualizzazione interattiva"
+    },
+    "nl-NL": {
+      "title": "Zie Elke Beweging in 3D-Animatie",
+      "subtitle": "Bekijk algoritmes stap voor stap ontvouwen met interactieve visualisatie"
+    },
+    "ru": {
+      "title": "Увидьте Каждое Движение в 3D Анимации",
+      "subtitle": "Наблюдайте, как алгоритмы разворачиваются шаг за шагом с интерактивной визуализацией"
+    },
+    "pl": {
+      "title": "Zobacz Każdy Ruch w Animacji 3D",
+      "subtitle": "Obserwuj algorytmy rozwijające się krok po kroku z interaktywną wizualizacją"
+    },
+    "tr": {
+      "title": "3D Animasyonda Her Hareketi Görün",
+      "subtitle": "Algoritmaların etkileşimli görselleştirme ile adım adım açıldığını izleyin"
+    },
+    "id": {
+      "title": "Lihat Setiap Gerakan dalam Animasi 3D",
+      "subtitle": "Saksikan algoritma terungkap langkah demi langkah dengan visualisasi interaktif"
+    },
+    "th": {
+      "title": "ดูทุกการเคลื่อนไหวในแอนิเมชัน 3D",
+      "subtitle": "ดูอัลกอริทึมแสดงทีละขั้นตอนด้วยการแสดงผลแบบโต้ตอบ"
+    },
+    "vi": {
+      "title": "Xem Mọi Động Tác trong Hoạt Hình 3D",
+      "subtitle": "Xem thuật toán diễn ra từng bước với trực quan hóa tương tác"
+    },
+    "ar-SA": {
+      "title": "شاهد كل حركة في رسوم متحركة ثلاثية الأبعاد",
+      "subtitle": "شاهد الخوارزميات تتكشف خطوة بخطوة مع التصور التفاعلي"
+    },
+    "sv": {
+      "title": "Se Varje Rörelse i 3D-Animering",
+      "subtitle": "Titta på hur algoritmer utvecklas steg för steg med interaktiv visualisering"
+    },
+    "no": {
+      "title": "Se Hver Bevegelse i 3D-Animasjon",
+      "subtitle": "Se algoritmer utvikle seg trinn for trinn med interaktiv visualisering"
+    },
+    "da": {
+      "title": "Se Hver Bevægelse i 3D-Animation",
+      "subtitle": "Se algoritmer udfolde sig trin for trin med interaktiv visualisering"
+    },
+    "fi": {
+      "title": "Katso Jokainen Liike 3D-Animaatiossa",
+      "subtitle": "Katso algoritmien avautuvan askel askeleelta interaktiivisella visualisoinnilla"
+    },
+    "cs": {
+      "title": "Vizte Každý Tah v 3D Animaci",
+      "subtitle": "Sledujte, jak se algoritmy odvíjejí krok za krokem s interaktivní vizualizací"
+    },
+    "ro": {
+      "title": "Vezi Fiecare Mișcare în Animație 3D",
+      "subtitle": "Urmărește algoritmii desfășurându-se pas cu pas cu vizualizare interactivă"
+    },
+    "uk": {
+      "title": "Побачте Кожен Рух у 3D Анімації",
+      "subtitle": "Спостерігайте, як алгоритми розгортаються крок за кроком з інтерактивною візуалізацією"
+    },
+    "hr": {
+      "title": "Pogledajte Svaki Potez u 3D Animaciji",
+      "subtitle": "Gledajte kako se algoritmi odvijaju korak po korak s interaktivnom vizualizacijom"
+    },
+    "hu": {
+      "title": "Lássa Minden Mozdulatot 3D Animációban",
+      "subtitle": "Nézze meg, ahogy az algoritmusok lépésről lépésre kibontakoznak interaktív vizualizációval"
+    },
+    "sk": {
+      "title": "Vidíte Každý Ťah v 3D Animácii",
+      "subtitle": "Sledujte, ako sa algoritmy odvíjajú krok za krokom s interaktívnou vizualizáciou"
+    },
+    "el": {
+      "title": "Δείτε Κάθε Κίνηση σε 3D Animation",
+      "subtitle": "Παρακολουθήστε τους αλγορίθμους να ξεδιπλώνονται βήμα προς βήμα με διαδραστική οπτικοποίηση"
+    },
+    "he": {
+      "title": "ראה כל תנועה באנימציה תלת-ממדית",
+      "subtitle": "צפה באלגוריתמים מתפתחים צעד אחר צעד עם הדמיה אינטראקטיבית"
+    },
+    "ms": {
+      "title": "Lihat Setiap Pergerakan dalam Animasi 3D",
+      "subtitle": "Tonton algoritma berkembang langkah demi langkah dengan visualisasi interaktif"
+    },
+    "ca": {
+      "title": "Veu Cada Moviment en Animació 3D",
+      "subtitle": "Mira com els algorismes es desenvolupen pas a pas amb visualització interactiva"
+    },
+    "hi": {
+      "title": "3D एनिमेशन में हर चाल देखें",
+      "subtitle": "इंटरैक्टिव विज़ुअलाइज़ेशन के साथ एल्गोरिदम को चरण-दर-चरण देखें"
+    }
+  },
+  "Library_OLL": {
+    "theme": "light",
+    "en-US": {
+      "title": "All 57 OLL Cases Covered",
+      "subtitle": "Orient the last layer with confidence and speed"
+    },
+    "fr-FR": {
+      "title": "Les 57 Cas OLL Couverts",
+      "subtitle": "Orientez la dernière couche avec confiance et rapidité"
+    },
+    "es-ES": {
+      "title": "Los 57 Casos OLL Cubiertos",
+      "subtitle": "Orienta la última capa con confianza y velocidad"
+    },
+    "ja": {
+      "title": "全57種のOLLケースを網羅",
+      "subtitle": "自信と速度を持って最後の層を向きを揃える"
+    },
+    "zh-Hans": {
+      "title": "涵盖全部57个OLL情况",
+      "subtitle": "自信快速地调整最后一层"
+    },
+    "en-GB": {
+      "title": "All 57 OLL Cases Covered",
+      "subtitle": "Orient the last layer with confidence and speed"
+    },
+    "en-AU": {
+      "title": "All 57 OLL Cases Covered",
+      "subtitle": "Orient the last layer with confidence and speed"
+    },
+    "en-CA": {
+      "title": "All 57 OLL Cases Covered",
+      "subtitle": "Orient the last layer with confidence and speed"
+    },
+    "fr-CA": {
+      "title": "Les 57 Cas OLL Couverts",
+      "subtitle": "Orientez la dernière couche avec confiance et rapidité"
+    },
+    "es-MX": {
+      "title": "Los 57 Casos OLL Cubiertos",
+      "subtitle": "Orienta la última capa con confianza y velocidad"
+    },
+    "zh-Hant": {
+      "title": "涵蓋全部57個OLL情況",
+      "subtitle": "自信快速地調整最後一層"
+    },
+    "pt-BR": {
+      "title": "Todos os 57 Casos OLL Cobertos",
+      "subtitle": "Oriente a última camada com confiança e velocidade"
+    },
+    "pt-PT": {
+      "title": "Todos os 57 Casos OLL Cobertos",
+      "subtitle": "Oriente a última camada com confiança e velocidade"
+    },
+    "de-DE": {
+      "title": "Alle 57 OLL-Fälle Abgedeckt",
+      "subtitle": "Orientieren Sie die letzte Ebene mit Zuversicht und Geschwindigkeit"
+    },
+    "ko": {
+      "title": "전체 57가지 OLL 케이스 포함",
+      "subtitle": "자신감과 속도로 마지막 층을 정렬하세요"
+    },
+    "it": {
+      "title": "Tutti i 57 Casi OLL Coperti",
+      "subtitle": "Orienta l'ultimo strato con sicurezza e velocità"
+    },
+    "nl-NL": {
+      "title": "Alle 57 OLL-Cases Gedekt",
+      "subtitle": "Oriënteer de laatste laag met vertrouwen en snelheid"
+    },
+    "ru": {
+      "title": "Все 57 Случаев OLL Охвачены",
+      "subtitle": "Ориентируйте последний слой с уверенностью и скоростью"
+    },
+    "pl": {
+      "title": "Wszystkie 57 Przypadków OLL Objętych",
+      "subtitle": "Orientuj ostatnią warstwę z pewnością siebie i szybkością"
+    },
+    "tr": {
+      "title": "Tüm 57 OLL Durumu Kapsanıyor",
+      "subtitle": "Son katmanı güvenle ve hızla yönlendirin"
+    },
+    "id": {
+      "title": "Semua 57 Kasus OLL Tercakup",
+      "subtitle": "Orientasikan lapisan terakhir dengan percaya diri dan cepat"
+    },
+    "th": {
+      "title": "ครอบคลุมทั้ง 57 กรณี OLL",
+      "subtitle": "ปรับทิศทางชั้นสุดท้ายด้วยความมั่นใจและความเร็ว"
+    },
+    "vi": {
+      "title": "Bao Gồm Tất Cả 57 Trường Hợp OLL",
+      "subtitle": "Định hướng lớp cuối cùng với sự tự tin và tốc độ"
+    },
+    "ar-SA": {
+      "title": "تغطية جميع حالات OLL الـ 57",
+      "subtitle": "وجه الطبقة الأخيرة بثقة وسرعة"
+    },
+    "sv": {
+      "title": "Alla 57 OLL-Fall Täckta",
+      "subtitle": "Orientera det sista lagret med självförtroende och hastighet"
+    },
+    "no": {
+      "title": "Alle 57 OLL-Tilfeller Dekket",
+      "subtitle": "Orienter det siste laget med selvtillit og hastighet"
+    },
+    "da": {
+      "title": "Alle 57 OLL-Cases Dækket",
+      "subtitle": "Orienter det sidste lag med selvtillid og hastighed"
+    },
+    "fi": {
+      "title": "Kaikki 57 OLL-Tapausta Katettu",
+      "subtitle": "Suuntaa viimeinen kerros itsevarmuudella ja nopeudella"
+    },
+    "cs": {
+      "title": "Všech 57 OLL Případů Pokrytých",
+      "subtitle": "Orientujte poslední vrstvu s jistotou a rychlostí"
+    },
+    "ro": {
+      "title": "Toate Cele 57 de Cazuri OLL Acoperite",
+      "subtitle": "Orientează ultimul strat cu încredere și viteză"
+    },
+    "uk": {
+      "title": "Всі 57 Випадків OLL Охоплено",
+      "subtitle": "Орієнтуйте останній шар з упевненістю та швидкістю"
+    },
+    "hr": {
+      "title": "Svih 57 OLL Slučajeva Pokriveno",
+      "subtitle": "Orijentirajte zadnji sloj s povjerenjem i brzinom"
+    },
+    "hu": {
+      "title": "Mind az 57 OLL Eset Lefedve",
+      "subtitle": "Irányítsa az utolsó réteget magabiztosan és gyorsan"
+    },
+    "sk": {
+      "title": "Všetkých 57 OLL Prípadov Pokrytých",
+      "subtitle": "Orientujte poslednú vrstvu s istotou a rýchlosťou"
+    },
+    "el": {
+      "title": "Όλες οι 57 Περιπτώσεις OLL Καλύπτονται",
+      "subtitle": "Προσανατολίστε το τελευταίο επίπεδο με αυτοπεποίθηση και ταχύτητα"
+    },
+    "he": {
+      "title": "כל 57 מצבי OLL מכוסים",
+      "subtitle": "כוון את השכבה האחרונה בביטחון ובמהירות"
+    },
+    "ms": {
+      "title": "Semua 57 Kes OLL Diliputi",
+      "subtitle": "Orientasikan lapisan terakhir dengan yakin dan laju"
+    },
+    "ca": {
+      "title": "Tots els 57 Cases OLL Coberts",
+      "subtitle": "Orienta l'última capa amb confiança i velocitat"
+    },
+    "hi": {
+      "title": "सभी 57 OLL केस कवर किए गए",
+      "subtitle": "आत्मविश्वास और गति के साथ अंतिम परत को ओरिएंट करें"
+    }
+  },
+  "Library_PLL": {
+    "theme": "light",
+    "en-US": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "en-GB": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "en-AU": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "en-CA": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "fr-FR": {
+      "title": "21 cas PLL",
+      "subtitle": "Permutez et résolvez la dernière couche"
+    },
+    "fr-CA": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "es-ES": {
+      "title": "21 casos PLL",
+      "subtitle": "Permuta y resuelve la última capa"
+    },
+    "es-MX": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "ja": {
+      "title": "21のPLLケース",
+      "subtitle": "最終面を並べ替えて解決"
+    },
+    "zh-Hans": {
+      "title": "21个PLL公式",
+      "subtitle": "排列并完成最后一层"
+    },
+    "zh-Hant": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "pt-BR": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "pt-PT": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "de-DE": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "ko": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "it": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "nl-NL": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "ru": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "pl": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "tr": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "id": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "th": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "vi": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "ar-SA": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "sv": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "no": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "da": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "fi": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "cs": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "ro": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "uk": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "hr": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "hu": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "sk": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "el": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "he": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "ms": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "ca": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    },
+    "hi": {
+      "title": "All 21 PLL Cases Covered",
+      "subtitle": "Permute the last layer with speed and precision"
+    }
+  },
+  "Progress": {
+    "theme": "light",
+    "en-US": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "en-GB": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "en-AU": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "en-CA": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "fr-FR": {
+      "title": "Visualisez votre parcours",
+      "subtitle": "Suivez votre historique et votre maîtrise"
+    },
+    "fr-CA": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "es-ES": {
+      "title": "Visualiza tu recorrido",
+      "subtitle": "Rastrea tu historial y niveles de dominio"
+    },
+    "es-MX": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "ja": {
+      "title": "練習の軌跡を可視化",
+      "subtitle": "練習履歴と習熟度を追跡"
+    },
+    "zh-Hans": {
+      "title": "可视化你的旅程",
+      "subtitle": "追踪练习历史和掌握水平"
+    },
+    "zh-Hant": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "pt-BR": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "pt-PT": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "de-DE": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "ko": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "it": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "nl-NL": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "ru": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "pl": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "tr": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "id": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "th": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "vi": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "ar-SA": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "sv": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "no": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "da": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "fi": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "cs": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "ro": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "uk": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "hr": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "hu": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "sk": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "el": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "he": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "ms": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "ca": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    },
+    "hi": {
+      "title": "Visualize Your Growth",
+      "subtitle": "Track practice history and skill progression over time"
+    }
+  },
+  "Progress_F2L": {
+    "theme": "light",
+    "en-US": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "en-GB": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "en-AU": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "en-CA": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "fr-FR": {
+      "title": "Statistiques F2L détaillées",
+      "subtitle": "Voyez quels cas nécessitent plus de pratique"
+    },
+    "fr-CA": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "es-ES": {
+      "title": "Estadísticas F2L detalladas",
+      "subtitle": "Ve qué casos necesitan más práctica"
+    },
+    "es-MX": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "ja": {
+      "title": "詳細なF2L統計",
+      "subtitle": "どのケースがもっと練習が必要かを確認"
+    },
+    "zh-Hans": {
+      "title": "详细F2L统计",
+      "subtitle": "查看哪些公式需要更多练习"
+    },
+    "zh-Hant": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "pt-BR": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "pt-PT": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "de-DE": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "ko": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "it": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "nl-NL": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "ru": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "pl": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "tr": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "id": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "th": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "vi": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "ar-SA": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "sv": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "no": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "da": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "fi": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "cs": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "ro": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "uk": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "hr": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "hu": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "sk": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "el": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "he": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "ms": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "ca": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    },
+    "hi": {
+      "title": "Identify Your Opportunities",
+      "subtitle": "See which cases need more practice and focus"
+    }
+  },
+  "Progress_F2L_Case1": {
+    "theme": "light",
+    "en-US": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "en-GB": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "en-AU": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "en-CA": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "fr-FR": {
+      "title": "Statistiques par cas",
+      "subtitle": "Suivez vos performances sur chaque cas"
+    },
+    "fr-CA": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "es-ES": {
+      "title": "Estadísticas por caso",
+      "subtitle": "Rastrea tu rendimiento en casos específicos"
+    },
+    "es-MX": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "ja": {
+      "title": "個別ケース統計",
+      "subtitle": "特定ケースのパフォーマンスを追跡"
+    },
+    "zh-Hans": {
+      "title": "单个公式统计",
+      "subtitle": "追踪特定公式的表现"
+    },
+    "zh-Hant": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "pt-BR": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "pt-PT": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "de-DE": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "ko": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "it": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "nl-NL": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "ru": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "pl": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "tr": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "id": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "th": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "vi": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "ar-SA": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "sv": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "no": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "da": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "fi": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "cs": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "ro": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "uk": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "hr": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "hu": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "sk": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "el": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "he": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "ms": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "ca": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    },
+    "hi": {
+      "title": "Track Every Case, Know Your Weak Spots",
+      "subtitle": "Record your times and memorization level case by case"
+    }
+  },
+  "Practice": {
+    "theme": "light",
+    "en-US": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "en-GB": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "en-AU": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "en-CA": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "fr-FR": {
+      "title": "Plusieurs modes d'entraînement",
+      "subtitle": "Choisissez chronométré, drill ou pratique libre"
+    },
+    "fr-CA": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "es-ES": {
+      "title": "Múltiples modos de práctica",
+      "subtitle": "Elige cronometrado, drill o práctica libre"
+    },
+    "es-MX": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "ja": {
+      "title": "複数の練習モード",
+      "subtitle": "タイム測定、ドリル、フリー練習から選択"
+    },
+    "zh-Hans": {
+      "title": "多种练习模式",
+      "subtitle": "选择计时、训练或自由练习"
+    },
+    "zh-Hant": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "pt-BR": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "pt-PT": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "de-DE": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "ko": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "it": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "nl-NL": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "ru": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "pl": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "tr": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "id": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "th": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "vi": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "ar-SA": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "sv": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "no": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "da": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "fi": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "cs": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "ro": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "uk": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "hr": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "hu": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "sk": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "el": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "he": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "ms": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "ca": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    },
+    "hi": {
+      "title": "Train Recognition. Get Faster.",
+      "subtitle": "Quiz yourself on case patterns — improve speed and accuracy"
+    }
+  },
+  "Settings": {
+    "theme": "light",
+    "en-US": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "en-GB": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "en-AU": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "en-CA": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "fr-FR": {
+      "title": "Personnalisez votre expérience",
+      "subtitle": "Thème, langue et préférences personnalisables"
+    },
+    "fr-CA": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "es-ES": {
+      "title": "Personaliza tu experiencia",
+      "subtitle": "Personaliza tema, idioma y preferencias"
+    },
+    "es-MX": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "ja": {
+      "title": "体験をカスタマイズ",
+      "subtitle": "テーマ、言語、設定をパーソナライズ"
+    },
+    "zh-Hans": {
+      "title": "自定义你的体验",
+      "subtitle": "个性化主题、语言和偏好设置"
+    },
+    "zh-Hant": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "pt-BR": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "pt-PT": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "de-DE": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "ko": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "it": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "nl-NL": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "ru": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "pl": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "tr": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "id": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "th": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "vi": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "ar-SA": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "sv": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "no": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "da": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "fi": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "cs": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "ro": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "uk": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "hr": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "hu": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "sk": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "el": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "he": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "ms": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "ca": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    },
+    "hi": {
+      "title": "Make It Yours",
+      "subtitle": "Customize theme, language, and training preferences"
+    }
+  },
+  "Settings_Dark": {
+    "theme": "dark",
+    "en-US": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "en-GB": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "en-AU": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "en-CA": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "fr-FR": {
+      "title": "Élégant thème sombre",
+      "subtitle": "Confortable pour les longues sessions"
+    },
+    "fr-CA": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "es-ES": {
+      "title": "Elegante tema oscuro",
+      "subtitle": "Cómodo para sesiones de práctica largas"
+    },
+    "es-MX": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "ja": {
+      "title": "エレガントなダークテーマ",
+      "subtitle": "長時間の練習に目に優しい"
+    },
+    "zh-Hans": {
+      "title": "优雅深色主题",
+      "subtitle": "适合长时间练习保护眼睛"
+    },
+    "zh-Hant": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "pt-BR": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "pt-PT": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "de-DE": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "ko": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "it": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "nl-NL": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "ru": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "pl": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "tr": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "id": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "th": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "vi": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "ar-SA": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "sv": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "no": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "da": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "fi": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "cs": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "ro": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "uk": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "hr": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "hu": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "sk": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "el": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "he": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "ms": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "ca": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    },
+    "hi": {
+      "title": "Beautiful. Fast. Built for iOS.",
+      "subtitle": "Gorgeous dark mode and native performance for endless practice"
+    }
+  },
+  "_notes": [
+    "=== SCREENSHOT METADATA CONFIGURATION ===",
+    "",
+    "PURPOSE:",
+    "This file defines multilingual title and subtitle text for all screenshot overlays.",
+    "Used by scripts/4_add_text.sh (step 4) to render text on top of screenshots.",
+    "",
+    "FILE STRUCTURE REQUIREMENTS:",
+    "1. NO number prefixes on screenshot IDs (e.g., 'AppLaunch', NOT '00_AppLaunch')",
+    "2. NO 'app_store_selected' field in entries",
+    "3. Each screenshot entry must have:",
+    "   - 'theme': 'light' or 'dark' (determines text color)",
+    "   - All 39 language codes with title and subtitle",
+    "",
+    "SCREENSHOT IDs (must match story_metadata.json):",
+    "",
+    "REQUIRED LANGUAGES (39 total):",
+    "English variants: en-US, en-GB, en-AU, en-CA",
+    "French variants: fr-FR, fr-CA",
+    "Spanish variants: es-ES, es-MX",
+    "Portuguese variants: pt-BR, pt-PT",
+    "German: de-DE",
+    "Italian: it",
+    "Dutch: nl-NL",
+    "Russian: ru",
+    "Polish: pl",
+    "Turkish: tr",
+    "Indonesian: id",
+    "Thai: th",
+    "Vietnamese: vi",
+    "Arabic: ar-SA",
+    "Swedish: sv",
+    "Norwegian: no",
+    "Danish: da",
+    "Finnish: fi",
+    "Czech: cs",
+    "Romanian: ro",
+    "Ukrainian: uk",
+    "Croatian: hr",
+    "Hungarian: hu",
+    "Slovak: sk",
+    "Greek: el",
+    "Hebrew: he",
+    "Malay: ms",
+    "Catalan: ca",
+    "Hindi: hi",
+    "Japanese: ja",
+    "Korean: ko",
+    "Chinese Simplified: zh-Hans",
+    "Chinese Traditional: zh-Hant",
+    "",
+    "ENTRY FORMAT:",
+    "{",
+    "  \"ScreenshotID\": {",
+    "    \"theme\": \"light\",",
+    "    \"en-US\": {",
+    "      \"title\": \"Short impactful title (3-8 words)\",",
+    "      \"subtitle\": \"Descriptive subtitle explaining the feature (8-15 words)\"",
+    "    },",
+    "    ... (repeat for all 39 languages)",
+    "  }",
+    "}",
+    "",
+    "VALIDATION:",
+    "- Every screenshot must have exactly 39 language entries (excluding 'theme')",
+    "- Titles should be concise and impactful (3-8 words)",
+    "- Subtitles provide context and detail (8-15 words)",
+    "- Text will be automatically wrapped by ImageMagick caption renderer",
+    "",
+    "WORKFLOW:",
+    "1. story_metadata.json defines their ordering",
+    "2. This file provides the multilingual text for those screenshots",
+    "3. scripts/4_add_text.sh render text overlays",
+    "",
+    "FONT HANDLING:",
+    "- Latin scripts: Noto Sans (base font)",
+    "- Arabic: Noto Sans Arabic",
+    "- Hebrew: Noto Sans Hebrew",
+    "- Thai: Noto Sans Thai",
+    "- Hindi/Devanagari: Noto Sans Devanagari",
+    "- Japanese: Noto Sans JP",
+    "- Korean: Noto Sans KR",
+    "- Chinese Simplified: Noto Sans SC",
+    "- Chinese Traditional: Noto Sans TC",
+    "- Font fallback configured via ~/.config/fontconfig/fonts.conf",
+    "",
+    "MAINTENANCE:",
+    "- When adding new screenshots: Add entry here AND in story_metadata.json",
+    "- When adding languages: Update ALL 14 screenshot entries",
+    "- Keep screenshot IDs synchronized between this file and story_metadata.json",
+    "- Use en-US as translation template for new entries"
+  ]
+}
