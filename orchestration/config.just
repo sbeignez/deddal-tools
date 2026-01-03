@@ -10,6 +10,8 @@ LOCALIZATION_DIR := PROJECT_ROOT / "tools/shared/localization"
 BUILD_DIR := PROJECT_ROOT / "tools/ios/build"
 TESTING_DIR := PROJECT_ROOT / "tools/ios/testing"
 FASTLANE_DIR := PROJECT_ROOT / "tools/ios/fastlane"
+ARCH_DIR := PROJECT_ROOT / "tools/ios/arch"
+CONTEXT_DIR := PROJECT_ROOT / "tools/ios/context"
 
 # Xcode configuration
 XCODE_PROJECT := "Deddal.xcodeproj"
