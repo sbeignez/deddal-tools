@@ -1,0 +1,32 @@
+# fastlane/Snapfile
+
+devices([
+  "iPhone 16 Pro Max",
+  "iPhone 16",
+  "iPad Pro (12.9-inch) (6th generation)"
+])
+
+languages([
+  "en-US",
+  "fr-FR",
+  "es-ES",
+  "zh-Hans"
+])
+
+# Where screenshots will be saved
+output_directory "./fastlane/screenshots"
+
+# App identifier
+app_identifier "hk.com.trophee.lookahead"
+
+# Scheme name (must match your Xcode scheme)
+scheme "1. DEV Scheme"
+
+# Clear old screenshots before generating new ones
+clear_previous_screenshots true
+
+# Optional: frame the screenshots with Apple-like borders
+frame true
+
+# Launch arguments (optional)
+launch_arguments(["-snapshot"])

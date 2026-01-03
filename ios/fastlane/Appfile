@@ -1,0 +1,20 @@
+# fastlane/Appfile
+# App-specific configuration for Fastlane
+# Documentation: https://docs.fastlane.tools/advanced/#appfile
+
+# APP IDENTIFIER
+# Your app's bundle identifier (the same as in Xcode)
+# app_identifier("[[APP_IDENTIFIER]]") # The bundle identifier of your app
+app_identifier("hk.com.trophee.lookahead")
+
+# The Apple ID (email) you use for App Store Connect
+# apple_id("[[APPLE_ID]]") # Your Apple Developer Portal username
+apple_id("admin@trophee.com.hk")
+
+# Note: API Key configuration is in Fastfile (in each lane that needs it)
+
+# Optional – name of your team if you belong to multiple teams
+# itc_team_name("Design Team")
+
+# Optional – numeric team ID from App Store Connect / Developer portal
+# team_id("XXXXXXXXXX")

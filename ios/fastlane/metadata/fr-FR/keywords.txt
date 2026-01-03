@@ -1,0 +1,1 @@
+speedcubing,Rubik's,CFOP,F2L,OLL,solveur,résolution,Fridrich,algorithme,minuteur,WCA

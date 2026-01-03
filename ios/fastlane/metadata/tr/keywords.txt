@@ -1,0 +1,1 @@
+Hız Küpü,Rubik Küpü,CFOP,F2L,OLL,PLL,Algoritmalar,Zamanlayıcı,Çözücü,Karıştırma

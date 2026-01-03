@@ -1,0 +1,1 @@
+Speedcubing,Kostka Rubika,CFOP,F2L,OLL,PLL,Algorytmy,Timer,Solver,Scramble

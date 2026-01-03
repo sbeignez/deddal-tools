@@ -1,0 +1,18 @@
+Domina els algoritmes CFOP i millora els teus temps de resolució amb Deddal—l'aplicació d'entrenament de speedcubing dissenyada per ajudar-te a millorar.
+
+ SEGUEIX EL TEU PROGRÉS
+Monitoritza el teu nivell d'habilitat i veu quins algoritmes has dominat. Segueix la millora en els casos F2L, OLL i PLL amb anàlisis detallades.
+
+ BIBLIOTECA COMPLETA D'ALGORITMES
+Accedeix a tots els casos CFOP—F2L, 2-Look OLL/PLL i conjunts OLL/PLL complets. Explora múltiples variacions d'algoritmes per cas per trobar solucions que s'ajustin al teu estil de resolució.
+
+ APRENENTATGE VISUAL
+Observa visualitzacions d'algoritmes pas a pas. Comprèn les seqüències de moviments, aprèn el flux d'execució i desenvolupa memòria muscular amb reproducció interactiva.
+
+ PRÀCTICA ENFOCADA
+Entrena conjunts de casos específics, treballa punts febles i desenvolupa velocitat de reconeixement de patrons amb modes de pràctica dirigits.
+
+Creat per cubers, per a cubers. Interfície neta, rendiment ràpid i funcions que realment t'ajuden a millorar.
+
+---
+Condicions d'ús (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

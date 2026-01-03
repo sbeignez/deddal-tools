@@ -1,0 +1,1 @@
+Speedcubing,Cubo di Rubik,CFOP,F2L,OLL,PLL,Algoritmi,Timer,Risolutore,Scramble

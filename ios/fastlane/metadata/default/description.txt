@@ -1,0 +1,9 @@
+Deddal is an all-in-one resource, designed for speed cubers, for learning and mastering CFOP algorithms with interactive training tools.
+
+Features:
+	•	CFOP Case Library – Find F2L, 2-Look OLL, 2-Look PLL, and full OLL/PLL sets.
+	•	Algorithm Variations – Explore multiple algorithms per case to find the most efficient and natural solutions.
+	•	Algorithm Player – Step-by-step visualization to figure execution flow and enhance memorization.
+
+---
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

@@ -1,0 +1,18 @@
+Làm chủ thuật toán CFOP và cải thiện thời gian giải của bạn với Deddal—ứng dụng đào tạo speedcubing được thiết kế để giúp bạn nhanh hơn.
+
+ THEO DÕI TIẾN TRÌNH
+Theo dõi mức độ kỹ năng và xem bạn đã thành thạo thuật toán nào. Theo dõi cải thiện qua các trường hợp F2L, OLL và PLL với phân tích chi tiết.
+
+ THƯ VIỆN THUẬT TOÁN ĐẦY ĐỦ
+Truy cập tất cả các trường hợp CFOP—F2L, 2-Look OLL/PLL và bộ OLL/PLL đầy đủ. Duyệt nhiều biến thể thuật toán mỗi trường hợp để tìm giải pháp phù hợp với phong cách giải của bạn.
+
+ HỌC TẬP TRỰC QUAN
+Xem hình ảnh hóa thuật toán từng bước. Hiểu chuỗi di chuyển, học luồng thực thi và xây dựng trí nhớ cơ bắp với phát lại tương tác.
+
+ LUYỆN TẬP TẬP TRUNG
+Luyện tập các bộ trường hợp cụ thể, khắc phục điểm yếu và phát triển tốc độ nhận dạng mẫu với các chế độ luyện tập có mục tiêu.
+
+Được xây dựng bởi cubers, cho cubers. Giao diện sạch sẽ, hiệu suất nhanh và các tính năng thực sự giúp bạn cải thiện.
+
+---
+Điều khoản Sử dụng (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

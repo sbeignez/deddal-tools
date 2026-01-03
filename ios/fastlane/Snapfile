@@ -1,0 +1,52 @@
+# fastlane/Snapfile
+# Configuration for screenshot generation
+# Documentation: https://docs.fastlane.tools/actions/snapshot/
+
+# Default configuration (used by production lane)
+# Device selection will use the iOS version specified in Fastfile via ENV
+devices([
+  "iPhone 15 Pro Max"
+  # Using iPhone 15 Pro Max because Fastlane doesn't support iPhone 16 dimensions yet
+  # https://github.com/fastlane/fastlane/issues/29651
+  # "iPad Pro 13-inch (M4)"
+  # "iPad Pro (6th generation)"
+])
+
+languages([
+  "en-US",
+  "fr-FR",
+  "es-ES",
+  "ja",
+  "zh-Hans"
+])
+
+# Project and scheme
+scheme("Screenshots Scheme")
+
+# Test target (the UI test class with screenshot tests)
+test_target_name("DeddalScreenshotsUITests")
+
+# Only run the minimal screenshot test to verify mechanism works
+only_testing(["DeddalScreenshotsUITests/ScreenshotUITests/testMinimalScreenshot"])
+
+# Output directory
+output_directory("./tool-fastlane/screenshots")
+
+# Clear old screenshots before generating new ones
+clear_previous_screenshots(true)
+
+# Don't erase simulator - use the one we pre-booted with correct iOS version
+erase_simulator(false)
+
+# Reinstall app before running tests
+reinstall_app(true)
+
+# Run simulators concurrently for faster screenshot generation
+concurrent_simulators(true)
+
+# Override status bar for consistent screenshots
+override_status_bar(true)
+override_status_bar_arguments("--time 8:52 --dataNetwork wifi --cellularMode active --cellularBars 4 --batteryState charging --batteryLevel 100 --operatorName ''")
+
+# Launch arguments (optional)
+# launch_arguments(["-UITesting"])

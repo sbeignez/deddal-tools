@@ -1,0 +1,17 @@
+# fastlane/Deliverfile
+# Configuration for App Store Connect uploads
+# Documentation: https://docs.fastlane.tools/actions/deliver/
+
+# Languages to upload
+languages(['en-US', 'fr-FR', 'es-ES', 'ja', 'zh-Hans'])
+
+# Paths
+screenshots_path("./tool-fastlane/screenshots")
+metadata_path("./tool-fastlane/metadata")
+
+# Upload options (can be overridden in lanes)
+submit_for_review(false)
+automatic_release(true)
+force(true)
+skip_binary_upload(true)
+precheck_include_in_app_purchases(false)

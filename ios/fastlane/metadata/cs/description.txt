@@ -1,0 +1,18 @@
+Zvládněte algoritmy CFOP a zlepšete své časy řešení s Deddal—aplikací pro trénink speedcubingu navržené, aby vám pomohla zrychlit.
+
+ SLEDUJTE SVůJ POKROK
+Sledujte úroveň dovedností a zjistěte, které algoritmy jste zvládli. Sledujte zlepšení u případů F2L, OLL a PLL s podrobnou analytikou.
+
+ KOMPLETNÍ KNIHOVNA ALGORITMŮ
+Získejte přístup ke všem případům CFOP—F2L, 2-Look OLL/PLL a úplným sadám OLL/PLL. Procházejte více variací algoritmů na případ a najděte řešení, která odpovídají vašemu stylu řešení.
+
+ VIZUÁLNÍ UČENÍ
+Sledujte vizualizace algoritmů krok za krokem. Pochopte sekvence tahů, naučte se průběh provádění a vybudujte si svalovou paměť s interaktivním přehráváním.
+
+ CÍLENÝ TRÉNINK
+Trénujte konkrétní sady případů, pracujte na slabých místech a rozvíjejte rychlost rozpoznávání vzorů s cílenými tréninkovými režimy.
+
+Vytvořeno cubery, pro cubery. Čisté rozhraní, rychlý výkon a funkce, které vám skutečně pomáhají zlepšit se.
+
+---
+Podmínky použití (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

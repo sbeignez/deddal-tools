@@ -1,0 +1,18 @@
+Sajátítsa el a CFOP algoritmusokat és javítsa megoldási idejét a Deddal segítségével—a speedcubing edzőalkalmazás, amely segít gyorsabbá válni.
+
+ KÖVESSE NYOMON FEJLŐDÉSÉT
+Figyelje készségszintjét és lássa, mely algoritmusokat sajátította el. Kövesse nyomon a javulást az F2L, OLL és PLL eseteknél részletes elemzésekkel.
+
+ TELJES ALGORITMUS KÖNYVTÁR
+Férjen hozzá az összes CFOP esethez—F2L, 2-Look OLL/PLL és teljes OLL/PLL készletek. Böngésszen több algoritmus variáción eseteként, hogy megtalálja a megoldási stílusának megfelelő megoldásokat.
+
+ VIZUÁLIS TANULÁS
+Nézzen lépésről lépésre algoritmus vizualizációkat. Értse meg a mozdulatsor rendjét, tanulja meg a végrehajtási folyamatot, és építsen izommemóriát interaktív lejátszással.
+
+ CÉLZOTT GYAKORLÁS
+Gyakoroljon konkrét eset készleteket, dolgozzon a gyenge pontokon, és fejlessze a minta felismerési sebességet célzott gyakorló módokkal.
+
+Cuberek által, cubereknek készítve. Tiszta felület, gyors teljesítmény és olyan funkciók, amelyek tényleg segítenek fejlődni.
+
+---
+Felhasználási feltételek (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

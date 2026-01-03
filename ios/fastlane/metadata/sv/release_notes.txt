@@ -1,0 +1,3 @@
+Vi förbättrar ständigt Deddal. Den här uppdateringen inkluderar prestandaförbättringar och buggfixar.
+
+Har du feedback? contact@deddal.app

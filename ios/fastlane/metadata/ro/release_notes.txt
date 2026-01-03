@@ -1,0 +1,3 @@
+Îmbunătățim constant Deddal. Această actualizare include îmbunătățiri de performanță și remedieri de erori.
+
+Ai feedback? contact@deddal.app
