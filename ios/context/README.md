@@ -16,7 +16,7 @@ When called with no arguments, automatically generates tree structures for:
 
 **Usage:**
 ```bash
-./tool-context/generate-tree.sh [target_directory] [output_file]
+./tools/ios/context/generate-tree.sh [target_directory] [output_file]
 ```
 
 **Parameters:**
@@ -30,7 +30,7 @@ When called with no arguments, automatically generates tree structures for:
 Generate trees for Deddal, DeddalCore, and DeddalTests (default):
 ```bash
 cd /Users/trophee-mini/code/deddal/deddal-ios
-./tool-context/generate-tree.sh
+./tools/ios/context/generate-tree.sh
 # Generates:
 #   documentation/Deddal-Tree-Structure.md
 #   documentation/DeddalCore-Tree-Structure.md
@@ -39,17 +39,17 @@ cd /Users/trophee-mini/code/deddal/deddal-ios
 
 Generate tree for a single specific directory:
 ```bash
-./tool-context/generate-tree.sh Deddal documentation/Deddal-Tree-Structure.md
+./tools/ios/context/generate-tree.sh Deddal documentation/Deddal-Tree-Structure.md
 ```
 
 Generate tree for a subdirectory:
 ```bash
-./tool-context/generate-tree.sh Deddal/Views documentation/Views-Tree-Structure.md
+./tools/ios/context/generate-tree.sh Deddal/Views documentation/Views-Tree-Structure.md
 ```
 
 Generate tree for DeddalAdapters:
 ```bash
-./tool-context/generate-tree.sh DeddalAdapters documentation/DeddalAdapters-Tree-Structure.md
+./tools/ios/context/generate-tree.sh DeddalAdapters documentation/DeddalAdapters-Tree-Structure.md
 ```
 
 **Output:**
@@ -61,7 +61,7 @@ Generate tree for DeddalAdapters:
   - Sorted alphabetically
 
 **Location:**
-- Script: `/Users/trophee-mini/code/deddal/deddal-ios/tool-context/generate-tree.sh`
+- Script: `/Users/trophee-mini/code/deddal/deddal-ios/tools/ios/context/generate-tree.sh`
 - Default outputs:
   - `/Users/trophee-mini/code/deddal/deddal-ios/documentation/Deddal-Tree-Structure.md`
   - `/Users/trophee-mini/code/deddal/deddal-ios/documentation/DeddalCore-Tree-Structure.md`

@@ -15,7 +15,7 @@ Complete catalog of all automation tools, scripts, and utilities available in th
 > just setup-all           # Install dependencies
 > ```
 >
-> **See:** [tool-all/README.md](README.md) for complete Justfile documentation.
+> **See:** [tools/orchestration/README.md](README.md) for complete Justfile documentation.
 
 ---
 
@@ -33,11 +33,11 @@ Complete catalog of all automation tools, scripts, and utilities available in th
 
 ## Asset Management
 
-**Location:** `tool-assets/`
+**Location:** `tools/shared/assets/`
 
 Tools for managing case images (SVG visualizations from VisualCube API).
 
-### Download Scripts (`tool-assets/download/`)
+### Download Scripts (`tools/shared/assets/download/`)
 
 Download case images from VisualCube API:
 
@@ -50,7 +50,7 @@ Download case images from VisualCube API:
 - **2x2_ortega_pbl.sh** - Download 2x2 Ortega PBL images
 - **2x2_cll.sh** - Download 2x2 CLL case images
 
-### Upload Scripts (`tool-assets/upload/`)
+### Upload Scripts (`tools/shared/assets/upload/`)
 
 Upload images to Supabase storage:
 
@@ -65,11 +65,11 @@ just assets-upload-bash          # Use Bash script variant
 
 **Legacy Usage (Direct script):**
 ```bash
-cd tool-assets/upload
+cd tools/shared/assets/upload
 ./upload_case_images.sh
 ```
 
-### Rename Scripts (`tool-assets/rename/`)
+### Rename Scripts (`tools/shared/assets/rename/`)
 
 Rename and organize asset files:
 
@@ -79,11 +79,11 @@ Rename and organize asset files:
 - **rename_svg_files.sh** - Rename individual SVG files
 - **generate_rename_mapping.sh** - Generate mapping CSV for renaming
 
-### Export Scripts (`tool-assets/export/`)
+### Export Scripts (`tools/shared/assets/export/`)
 
 - **export-case-images.sh** - Export case images for distribution
 
-### Populate Scripts (`tool-assets/populate/`)
+### Populate Scripts (`tools/shared/assets/populate/`)
 
 Fill in missing data:
 
@@ -94,11 +94,11 @@ Fill in missing data:
 
 ## Database & Seed Data
 
-### Database Tools (`tool-database/`)
+### Database Tools (`tools/shared/database/`)
 
 Scripts for managing Supabase database and migrations.
 
-#### Seed Data (`tool-database/seed/`)
+#### Seed Data (`tools/shared/database/seed/`)
 
 Generate and update seed data:
 
@@ -116,15 +116,15 @@ just db-seed-export-algs         # Export algorithms to JSON
 
 **Legacy Usage (Direct script):**
 ```bash
-cd tool-database/seed
+cd tools/shared/database/seed
 python3 generate_uuids.py
 ```
 
-#### Sync Scripts (`tool-database/sync/`)
+#### Sync Scripts (`tools/shared/database/sync/`)
 
 - **sync_algorithms_to_supabase.py** - Sync algorithm library to cloud
 
-#### Story Management (`tool-database/stories/`)
+#### Story Management (`tools/shared/database/stories/`)
 
 Manage story content in database:
 
@@ -133,7 +133,7 @@ Manage story content in database:
 - **sync_via_mcp.py** - Sync via Supabase MCP
 - **update_index.py** - Update story index
 
-#### Migrations (`tool-database/migrations/`)
+#### Migrations (`tools/shared/database/migrations/`)
 
 Database schema migrations:
 
@@ -141,7 +141,7 @@ Database schema migrations:
 
 ---
 
-### Seed Data Generation (`tool-seed-data-generation/`)
+### Seed Data Generation (`tools/shared/seed-data/`)
 
 Complete toolset for generating and deploying seed data exports.
 
@@ -159,7 +159,7 @@ Complete toolset for generating and deploying seed data exports.
 
 **Usage:**
 ```bash
-cd tool-seed-data-generation
+cd tools/shared/seed-data
 python3 01-stage.py
 python3 02-deploy.py
 ```
@@ -174,7 +174,7 @@ python3 02-deploy.py
 
 ## Localization
 
-**Location:** `tool-localization/`
+**Location:** `tools/shared/localization/`
 
 Tools for managing app localization across 5 languages (en, fr, es, ja, zh-Hans).
 
@@ -191,7 +191,7 @@ Tools for managing app localization across 5 languages (en, fr, es, ja, zh-Hans)
 
 **Usage:**
 ```bash
-cd tool-localization
+cd tools/shared/localization
 
 # Extract untranslated strings
 python3 extract_untranslated.py
@@ -212,7 +212,7 @@ python3 import_translations.py translations.json
 
 ## Testing
 
-**Location:** `tool-testing/`
+**Location:** `tools/ios/testing/`
 
 ### Scripts
 
@@ -220,7 +220,7 @@ python3 import_translations.py translations.json
 
 **Usage:**
 ```bash
-cd tool-testing
+cd tools/ios/testing
 ./test_algorithms.sh
 ```
 
@@ -232,7 +232,7 @@ cd tool-testing
 
 ## Build & CI
 
-**Location:** `tool-build/`
+**Location:** `tools/ios/build/`
 
 Build utilities and code quality tools.
 
@@ -244,7 +244,7 @@ Build utilities and code quality tools.
 
 **Usage:**
 ```bash
-cd tool-build
+cd tools/ios/build
 
 # Run SwiftLint
 ./swiftlint.sh
@@ -257,11 +257,11 @@ cd tool-build
 
 ## Screenshots
 
-**Location:** `tool-screenshots/`
+**Location:** `tools/shared/screenshots/`
 
 Complete subsystem for App Store screenshot generation.
 
-**See:** `tool-screenshots/CLAUDE.md` for detailed documentation
+**See:** `tools/shared/screenshots/CLAUDE.md` for detailed documentation
 
 **Key Features:**
 - Automated screenshot capture for 5 locales
@@ -276,7 +276,7 @@ Complete subsystem for App Store screenshot generation.
 
 **Usage:**
 ```bash
-cd tool-screenshots
+cd tools/shared/screenshots
 
 # Generate screenshots
 ./scripts/1_capture.sh
@@ -292,7 +292,7 @@ cd tool-screenshots
 
 ## Fastlane Automation
 
-**Location:** `tool-fastlane/`
+**Location:** `tools/ios/fastlane/`
 
 Comprehensive App Store Connect automation using Fastlane.
 
@@ -461,13 +461,13 @@ bundle exec fastlane ios upload_metadata
 xcodebuild test -project Deddal.xcodeproj -scheme "1. DEV Scheme" -testPlan Deddal.xctestplan -destination 'platform=iOS Simulator,name=iPhone 17 Pro'
 
 # Sync algorithms to Supabase
-cd tool-database/sync && python3 sync_algorithms_to_supabase.py
+cd tools/shared/database/sync && python3 sync_algorithms_to_supabase.py
 
 # Upload case images
-cd tool-assets/upload && ./upload_case_images.sh
+cd tools/shared/assets/upload && ./upload_case_images.sh
 
 # Check localization coverage
-cd tool-localization && ./analyze_localization.sh
+cd tools/shared/localization && ./analyze_localization.sh
 ```
 
 ---
@@ -485,7 +485,7 @@ cd tool-localization && ./analyze_localization.sh
 
 When adding new tools:
 
-1. Place in appropriate `tool-*` directory
+1. Place in appropriate `tools/{shared,ios}/` directory
 2. Add brief description to this document
 3. Include usage examples
 4. Document any dependencies

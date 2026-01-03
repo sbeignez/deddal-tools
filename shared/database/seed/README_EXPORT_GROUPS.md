@@ -38,7 +38,7 @@ source ~/.zshrc
 ### Step 2: Run the Script
 
 ```bash
-cd /Users/trophee-mini/code/deddal/deddal-ios/tool-database/seed
+cd /Users/trophee-mini/code/deddal/deddal-ios/tools/shared/database/seed
 python3 export_groups_from_supabase.py
 ```
 

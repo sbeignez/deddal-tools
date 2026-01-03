@@ -1,4 +1,4 @@
-# tool-localization - Translation Management
+# tools/shared/localization - Translation Management
 
 Scripts for managing app localization across 5 languages: English (source), French, Spanish, Japanese, and Chinese (Simplified).
 
@@ -11,7 +11,7 @@ This folder contains 11 files for the complete localization workflow:
 ## Folder Structure
 
 ```
-tool-localization/
+tools/shared/localization/
 ├── translations/              # Translation JSON data
 │   ├── ComprehensiveTranslations.json
 │   └── NewStringsTranslations.json
@@ -174,7 +174,7 @@ Create locale folder structure for Fastlane metadata.
 
 **Creates:**
 ```
-tool-fastlane/metadata/
+tools/ios/fastlane/metadata/
 ├── en-US/
 ├── fr-FR/
 ├── es-ES/
@@ -337,7 +337,7 @@ export DEEPL_API_KEY="your-key"
 
 - Main localization guide: `/LOCALIZATION.md`
 - String Catalogs: `Deddal/App/Localization/`
-- Fastlane metadata: `tool-fastlane/metadata/`
+- Fastlane metadata: `tools/ios/fastlane/metadata/`
 - Project documentation: `/CLAUDE.md`
 
 ## Best Practices

@@ -1,4 +1,4 @@
-# tool-assets - Asset Management
+# tools/shared/assets - Asset Management
 
 Scripts for managing Rubik's Cube case visualization assets (SVG images from VisualCube API).
 
@@ -10,7 +10,7 @@ Scripts for managing Rubik's Cube case visualization assets (SVG images from Vis
 > just workflow-asset-refresh # Complete asset pipeline
 > ```
 >
-> See [../tool-all/README.md](../tool-all/README.md) for complete documentation.
+> See [../tools/orchestration/README.md](../tools/orchestration/README.md) for complete documentation.
 
 ## Overview
 
@@ -24,7 +24,7 @@ This folder contains 18 scripts organized into 5 categories for the complete lif
 ## Folder Structure
 
 ```
-tool-assets/
+tools/shared/assets/
 ├── download/     # Download case images from VisualCube API (8 scripts)
 ├── upload/       # Upload images to Supabase storage (2 scripts)
 ├── rename/       # Rename and organize asset files (5 scripts)
@@ -50,7 +50,7 @@ Download case visualization images from VisualCube API for different cube method
 
 **Usage:**
 ```bash
-cd tool-assets/download
+cd tools/shared/assets/download
 ./3x3_cfop_f2l.sh   # Downloads F2L case images
 ```
 
@@ -63,7 +63,7 @@ Upload case images to Supabase cloud storage:
 
 **Usage:**
 ```bash
-cd tool-assets/upload
+cd tools/shared/assets/upload
 ./upload_case_images.sh     # Bash version
 # or
 python3 upload_case_images.py  # Python version
@@ -85,7 +85,7 @@ Rename and organize asset files to match naming conventions:
 
 **Usage:**
 ```bash
-cd tool-assets/rename
+cd tools/shared/assets/rename
 ./generate_rename_mapping.sh  # First, generate mapping
 ./rename_assets.sh             # Then, execute rename
 ```
@@ -104,7 +104,7 @@ Export case images for external use:
 
 **Usage:**
 ```bash
-cd tool-assets/export
+cd tools/shared/assets/export
 ./export-case-images.sh
 ```
 
@@ -117,7 +117,7 @@ Populate missing or null image data:
 
 **Usage:**
 ```bash
-cd tool-assets/populate
+cd tools/shared/assets/populate
 ./populate_null_image_names.sh  # Bash version
 # or
 python3 populate_null_images.py # Python version

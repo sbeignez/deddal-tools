@@ -89,7 +89,7 @@ The established workflow for extracting additional diagrams:
 ## 📁 File Structure
 
 ```
-tool-assets/download/
+tools/shared/assets/download/
 ├── rubiks_guide.pdf                    # Source PDF
 ├── move_diagrams_from_pdf/
 │   ├── page-07.svg                     # ✅ Extracted (U, U', D, D')

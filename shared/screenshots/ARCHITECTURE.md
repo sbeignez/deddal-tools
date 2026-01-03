@@ -680,7 +680,7 @@ xcodebuild test -only-testing:...:testMinimalScreenshot
 ### End-to-End Testing
 
 ```bash
-cd tool-screenshots
+cd tools/shared/screenshots
 # No cleanup needed - automatic file replacement handles old versions
 ./generate.sh
 
@@ -707,7 +707,7 @@ To keep screenshots stable as the app evolves, every change touching the pipelin
    - UITests may only query through these constants; never rely on button labels or hierarchy order.
 
 3. **Step 1 Configuration Profiles**
-   - All device/language combinations live in `tool-screenshots/config/1-snap.json` under `configurations`.
+   - All device/language combinations live in `tools/shared/screenshots/config/1-snap.json` under `configurations`.
    - Wrapper scripts (`1a`, `1b`, etc.) simply export `CONFIG=<profile>` and call `1_snap.sh`. Do not duplicate the `xcodebuild` invocation or hardcode simulator names.
    - When adding or removing a profile, keep the wrapper list in sync so `CONFIG` always points to a valid entry.
 

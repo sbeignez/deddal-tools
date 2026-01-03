@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Deddal iOS Tree Structure Generator
-# Usage: ./tool-context/generate-tree.sh [target_directory] [output_file]
-# Example: ./tool-context/generate-tree.sh Deddal documentation/Deddal-Tree-Structure.md
+# Usage: ./tools/ios/context/generate-tree.sh [target_directory] [output_file]
+# Example: ./tools/ios/context/generate-tree.sh Deddal documentation/Deddal-Tree-Structure.md
 #
 # When called with no arguments, generates trees for both Deddal and DeddalCore
 
-# Get the deddal-ios root directory (parent of tool-context)
+# Get the deddal-ios root directory (parent of tools/ios/context)
 DEDDAL_IOS_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 
 # Function to generate tree for a single directory

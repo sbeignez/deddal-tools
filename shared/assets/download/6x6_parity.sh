@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Download 6x6 parity case images from VisualCube API
-# Output directory: current directory (run from tool-assets/download/)
+# Output directory: current directory (run from tools/shared/assets/download/)
 
 # Base URL for VisualCube API (6x6 cube)
 base_url="https://visualcube.api.cubing.net/visualcube.php?fmt=svg&size=512&pzl=6&"

@@ -32,7 +32,7 @@ A self-contained, Fastlane-free screenshot automation system for iOS App Store s
 > just screenshots-generate-local  # Steps 1-4 only (no upload)
 > ```
 >
-> See [../tool-all/README.md](../tool-all/README.md) for complete documentation.
+> See [../tools/orchestration/README.md](../tools/orchestration/README.md) for complete documentation.
 
 ---
 
@@ -56,7 +56,7 @@ A self-contained, Fastlane-free screenshot automation system for iOS App Store s
 ### Generate All Screenshots
 
 ```bash
-cd tool-screenshots
+cd tools/shared/screenshots
 ./generate.sh
 ```
 
@@ -155,7 +155,7 @@ If you want to archive or clean output folders manually:
 ## Folder Structure
 
 ```
-tool-screenshots/
+tools/shared/screenshots/
 ├── README.md                          # This file
 ├── ARCHITECTURE.md                    # Technical deep dive
 ├── generate.sh                        # Main entry point
@@ -535,7 +535,7 @@ xcrun xcresulttool get attachments --path /tmp/test_results.xcresult
 xcrun simctl shutdown all
 xcrun simctl erase "iPhone 15 Pro Max"
 rm -rf ~/Library/Developer/Xcode/DerivedData
-cd tool-screenshots && rm -rf output/*
+cd tools/shared/screenshots && rm -rf output/*
 ./generate.sh --capture-only
 ```
 
@@ -548,7 +548,7 @@ cd tool-screenshots && rm -rf output/*
 ```yaml
 - name: Generate Screenshots
   run: |
-    cd tool-screenshots
+    cd tools/shared/screenshots
     brew install imagemagick
     ./generate.sh --capture-only
 ```
@@ -558,11 +558,11 @@ cd tool-screenshots && rm -rf output/*
 ```yaml
 screenshots:
   script:
-    - cd tool-screenshots
+    - cd tools/shared/screenshots
     - ./generate.sh
   artifacts:
     paths:
-      - tool-screenshots/output/4-text/
+      - tools/shared/screenshots/output/4-text/
 ```
 
 ---

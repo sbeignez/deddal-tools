@@ -37,7 +37,7 @@ This folder contains tooling to enforce Clean Architecture boundaries in the Ded
 Run all architecture checks:
 
 ```bash
-./tool-arch/check_dependencies.sh
+./tools/ios/arch/check_dependencies.sh
 ```
 
 What it currently enforces:

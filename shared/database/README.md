@@ -1,4 +1,4 @@
-# tool-database - Database & Seed Data Management
+# tools/shared/database - Database & Seed Data Management
 
 Scripts for managing Supabase database content, seed data generation, and migrations.
 
@@ -13,7 +13,7 @@ This folder contains 11 files organized into 4 categories:
 ## Folder Structure
 
 ```
-tool-database/
+tools/shared/database/
 ├── seed/         # Generate and update seed data (4 scripts)
 ├── sync/         # Sync data to Supabase (1 script)
 ├── stories/      # Manage story content (4 scripts)
@@ -33,7 +33,7 @@ Generate and update JSON seed data for local development and testing:
 
 Generate UUIDs for new records:
 ```bash
-cd tool-database/seed
+cd tools/shared/database/seed
 python3 generate_uuids.py
 ```
 
@@ -61,7 +61,7 @@ Synchronize local algorithm data to Supabase cloud database:
 
 **Usage:**
 ```bash
-cd tool-database/sync
+cd tools/shared/database/sync
 python3 sync_algorithms_to_supabase.py
 ```
 
@@ -90,7 +90,7 @@ Manage story content in the Supabase database:
 
 Sync story content via MCP (recommended):
 ```bash
-cd tool-database/stories
+cd tools/shared/database/stories
 python3 sync_via_mcp.py
 ```
 

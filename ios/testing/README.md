@@ -1,4 +1,4 @@
-# tool-testing - Test Automation
+# tools/ios/testing - Test Automation
 
 Scripts for running automated tests and validation.
 
@@ -140,7 +140,7 @@ The `test_algorithms.sh` script is used by the GitHub Actions workflow:
 - `Deddal/Models/Methods/**`
 - `Deddal/Models/Cube/**`
 - `DeddalTests/CaseAlgsTests.swift`
-- `tool-testing/test_algorithms.sh`
+- `tools/ios/testing/test_algorithms.sh`
 
 **Actions:**
 1. Checkout repository
@@ -163,7 +163,7 @@ The `test_algorithms.sh` script is used by the GitHub Actions workflow:
 
 Run tests locally to catch issues early:
 ```bash
-cd tool-testing
+cd tools/ios/testing
 ./test_algorithms.sh
 ```
 

@@ -17,7 +17,7 @@ fail() {
   echo "ARCHITECTURE VIOLATION:"
   echo "  $1"
   echo
-  echo "See tool-arch/README.md for rules and how to fix."
+  echo "See tools/ios/arch/README.md for rules and how to fix."
   exit 1
 }
 

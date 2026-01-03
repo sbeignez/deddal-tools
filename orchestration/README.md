@@ -377,7 +377,7 @@ All recipes have automatic error detection:
 ```bash
 just assets-download-all
 # If any script fails:
-# ❌ Failed: tool-assets/download/3x3_cfop_f2l.sh
+# ❌ Failed: tools/shared/assets/download/3x3_cfop_f2l.sh
 ```
 
 ### Colored Output
@@ -394,7 +394,7 @@ Recipes automatically activate Python virtual environments:
 
 ```bash
 just seed-export-all
-# Automatically: cd tool-seed-data-generation && source venv/bin/activate && python export_seed_data.py
+# Automatically: cd tools/shared/seed-data && source venv/bin/activate && python export_seed_data.py
 ```
 
 ## Troubleshooting
@@ -413,9 +413,9 @@ brew install just
 
 ```bash
 # Reset Python environments
-rm -rf tool-seed-data-generation/venv
-rm -rf tool-database/venv
-rm -rf tool-localization/venv
+rm -rf tools/shared/seed-data/venv
+rm -rf tools/shared/database/venv
+rm -rf tools/shared/localization/venv
 
 # Re-run setup
 just setup-python-env
@@ -425,7 +425,7 @@ just setup-python-env
 
 ```bash
 # Check the script manually
-cd tool-assets/download
+cd tools/shared/assets/download
 ./3x3_cfop_f2l.sh
 ```
 
@@ -441,7 +441,7 @@ just build-debug
 
 **Before (manual):**
 ```bash
-cd tool-seed-data-generation
+cd tools/shared/seed-data
 source venv/bin/activate
 python export_seed_data.py
 ```
@@ -462,7 +462,7 @@ just seed-export-all
 
 ```
 justfile (root)                    # Minimal orchestrator
-└── tool-all/
+└── tools/orchestration/
     ├── config.just               # Shared configuration
     ├── helpers.just              # Reusable helper functions
     ├── workflows.just            # High-level workflows
@@ -482,9 +482,9 @@ justfile (root)                    # Minimal orchestrator
 
 When adding new tools or scripts:
 
-1. Add wrapper recipes to appropriate `tool-all/recipes/*.just` file
+1. Add wrapper recipes to appropriate `tools/orchestration/recipes/*.just` file
 2. Follow naming convention: `<domain>-<action>-<target>`
-3. Use helper recipes from `tool-all/helpers.just`
+3. Use helper recipes from `tools/orchestration/helpers.just`
 4. Add confirmation prompts for destructive operations
 5. Test with `just --list` and `just <recipe-name>`
 6. Update this README if adding new categories

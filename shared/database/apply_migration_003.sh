@@ -5,7 +5,7 @@
 # Usage:
 #   1. Run this script to see the SQL commands
 #   2. Copy the SQL and run it in Supabase SQL Editor
-#   3. Or use Supabase CLI: supabase db execute -f tool-database/migrations/003_add_algorithm_notes.sql
+#   3. Or use Supabase CLI: supabase db execute -f tools/shared/database/migrations/003_add_algorithm_notes.sql
 #
 
 set -e

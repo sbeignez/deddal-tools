@@ -6,7 +6,7 @@
 
 set -e
 
-METADATA_DIR="/Users/trophee-mini/Code/deddal/deddal-ios/tool-fastlane/metadata"
+METADATA_DIR="/Users/trophee-mini/Code/deddal/deddal-ios/tools/ios/fastlane/metadata"
 cd "$METADATA_DIR"
 
 echo "🌍 Creating App Store Locale Folders for Deddal iOS"

@@ -10,7 +10,7 @@ The database is the single source of truth. This script automatically discovers 
 
 ```bash
 # One-time setup
-cd tool-seed-data-generation
+cd tools/shared/seed-data
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -36,7 +36,7 @@ python scripts/export_seed_data.py --no-archive
 ### 1. Install Python Dependencies
 
 ```bash
-cd /Users/trophee-mini/code/deddal/deddal-ios/tool-seed-data-generation
+cd /Users/trophee-mini/code/deddal/deddal-ios/tools/shared/seed-data
 
 # Create virtual environment
 python3 -m venv venv
@@ -150,7 +150,7 @@ By default, the script creates a timestamped backup before each export:
 python scripts/export_seed_data.py  # Creates backup in backups/YYYY-MM-DD_HHMMSS/
 ```
 
-Backups are stored in `tool-seed-data-generation/backups/` with manifest tracking.
+Backups are stored in `tools/shared/seed-data/backups/` with manifest tracking.
 
 #### Skip Backup
 
@@ -308,7 +308,7 @@ PRs touching `DeddalInfra/Infrastructure/Persistence/SeedData/**` automatically 
 just test-seed-data
 
 # Or directly with Python
-tool-seed-data-generation/venv/bin/python tool-seed-data-generation/scripts/ci_validate.py --verbose
+tools/shared/seed-data/venv/bin/python tools/shared/seed-data/scripts/ci_validate.py --verbose
 ```
 
 ### What's NOT Validated in CI
@@ -370,7 +370,7 @@ ValueError: Missing required environment variables: SUPABASE_PASSWORD
 ```
 
 **Solution**:
-- Ensure `.env` file exists in `tool-seed-data-generation/`
+- Ensure `.env` file exists in `tools/shared/seed-data/`
 - Verify all required variables are set (HOST, DATABASE, USER, PASSWORD)
 
 ### Validation Errors
@@ -444,7 +444,7 @@ This indicates foreign key issues - run validator and fix database.
 # 1. Update Supabase data via admin panel or migration
 
 # 2. Export fresh seed data
-cd tool-seed-data-generation
+cd tools/shared/seed-data
 source venv/bin/activate
 python scripts/export_seed_data.py
 
