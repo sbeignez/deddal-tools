@@ -1,0 +1,36 @@
+[
+  {
+    "id": "c9a1c9c3-6eea-4e3f-8078-8a57372ae22a",
+    "code": "pll",
+    "name": "PLL",
+    "subtitle": "Permutation of the Last Layer - 1 Look",
+    "pattern_from": "Top Oriented",
+    "pattern_to": "Solved",
+    "expected_count": 21,
+    "category": "Last Layer - Advanced",
+    "case_ids": [
+      {"id": "c6730089-aecf-4066-a234-5afa3536d866", "code": "3X3-CFOP-PLL-AA-PERM"},
+      {"id": "8ba11773-d401-4a66-a8bb-f99a8a7bf60f", "code": "3X3-CFOP-PLL-AB-PERM"},
+      {"id": "021655c0-93ba-4e1c-9dd0-90c86ecf31bb", "code": "3X3-CFOP-PLL-E-PERM"},
+      {"id": "62ca375a-9403-4a4d-8251-b62f494f1818", "code": "3X3-CFOP-PLL-F-PERM"},
+      {"id": "e8ab1f4d-32d0-46de-803a-963954faa7ed", "code": "3X3-CFOP-PLL-GA-PERM"},
+      {"id": "ee10fc71-c48b-4f9e-b421-2ce9037d54ab", "code": "3X3-CFOP-PLL-GB-PERM"},
+      {"id": "49eea85c-ae3a-46b3-8aee-8d4a6ac56aad", "code": "3X3-CFOP-PLL-GC-PERM"},
+      {"id": "a8cf5ebd-2e2a-4f31-8cd5-5ed1246562b4", "code": "3X3-CFOP-PLL-GD-PERM"},
+      {"id": "b688bd03-5889-49af-a825-8871e731b049", "code": "3X3-CFOP-PLL-H-PERM"},
+      {"id": "28f19d2d-0dc4-4494-a373-b19c323e69ec", "code": "3X3-CFOP-PLL-JA-PERM"},
+      {"id": "8d6870d3-326a-45f1-b035-54da4a91d80d", "code": "3X3-CFOP-PLL-JB-PERM"},
+      {"id": "bc0b0a01-a4ab-4153-b822-74798c6a3de1", "code": "3X3-CFOP-PLL-NA-PERM"},
+      {"id": "15987b2f-6ea5-41bf-a66d-ae5a3036ec85", "code": "3X3-CFOP-PLL-NB-PERM"},
+      {"id": "600e3137-f05e-4ba3-8cfe-b957b25a883a", "code": "3X3-CFOP-PLL-RA-PERM"},
+      {"id": "b4b1b650-a834-4fa1-a161-752127394029", "code": "3X3-CFOP-PLL-RB-PERM"},
+      {"id": "a29d5c64-4387-418a-a4c0-3beb71fcffb7", "code": "3X3-CFOP-PLL-T-PERM"},
+      {"id": "f0f12a62-04ad-4cfc-bc0f-d10e66bd7640", "code": "3X3-CFOP-PLL-UA-PERM"},
+      {"id": "8d2b53a4-1e4b-40e4-aaae-7f2eb79a925b", "code": "3X3-CFOP-PLL-UB-PERM"},
+      {"id": "0faa312d-236e-4ab4-8b11-254f7a5b0d2b", "code": "3X3-CFOP-PLL-V-PERM"},
+      {"id": "ea160b1b-1fad-4dde-87fd-c80519cbf862", "code": "3X3-CFOP-PLL-Y-PERM"},
+      {"id": "460c85ba-2468-4f14-ba42-318bb7f57a2c", "code": "3X3-CFOP-PLL-Z-PERM"}
+    ],
+    "created_at": "2025-10-23T19:16:46.741429+00:00"
+  }
+]

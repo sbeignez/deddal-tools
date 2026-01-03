@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "code": "zbll",
+    "name": "ZBLL",
+    "subtitle": "Complete the white face",
+    "pattern_from": "Cross",
+    "pattern_to": "First Layer Complete",
+    "expected_count": 2,
+    "category": "Last Layer - Advanced",
+    "case_ids": "{}",
+    "created_at": "2025-11-17T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "677c823c-bf4b-50e6-8a68-0c3b19871690",
+    "case_id": "4b3050f4-94fa-528f-9bf4-c51fdf659cde",
+    "code": "4X4-PLL-PARITY-ADJ-01",
+    "sequence": "2R2 U2 2R2 Uw2 2R2 Uw2",
+    "name": "Standard PLL Parity Fix",
+    "tags": [
+      "type:parity",
+      "stage:pll",
+      "puzzle:4x4",
+      "swap_type:adjacent"
+    ],
+    "popularity": 100,
+    "difficulty": 2,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "4905933b-421f-5232-8d0d-927706c57c5c",
+    "case_id": "4b3050f4-94fa-528f-9bf4-c51fdf659cde",
+    "code": "4X4-PLL-PARITY-ADJ-02",
+    "sequence": "r2 U2 r2 Uw2 r2 Uw2",
+    "name": "PLL Parity (lowercase notation)",
+    "tags": [
+      "type:parity",
+      "stage:pll",
+      "puzzle:4x4",
+      "swap_type:adjacent",
+      "type:alternative"
+    ],
+    "popularity": 90,
+    "difficulty": 2,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "dedad800-cc54-57a8-81c6-5008666e2cba",
+    "case_id": "89348e65-1342-541d-abd2-b5df73204d23",
+    "code": "4X4-PLL-PARITY-U-01",
+    "sequence": "2R2 U2 2R2 Uw2 2R2 Uw2 R U' R U R U R U' R' U' R2",
+    "name": "Combined Parity + U-Perm",
+    "tags": [
+      "type:parity",
+      "stage:pll",
+      "puzzle:4x4",
+      "family:uperm",
+      "type:combined"
+    ],
+    "popularity": 85,
+    "difficulty": 4,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "722f31e0-791a-5dc5-81f8-ea92055a5ed4",
+    "case_id": "6e778963-2886-5e72-a738-82b8a479de06",
+    "code": "4X4-PLL-PARITY-OPP-01",
+    "sequence": "2R2 U2 2R2 Uw2 2R2 Uw2 U2",
+    "name": "Opposite Edge Swap Fix",
+    "tags": [
+      "type:parity",
+      "stage:pll",
+      "puzzle:4x4",
+      "swap_type:opposite"
+    ],
+    "popularity": 75,
+    "difficulty": 2,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "b754b37b-5f89-5abe-955c-dbfad33bf00a",
+    "case_id": "89348e65-1342-541d-abd2-b5df73204d23",
+    "code": "4X4-PLL-PARITY-U-02",
+    "sequence": "2R2 U2 2R2 Uw2 2R2 Uw2 M2 U M2 U2 M2 U M2",
+    "name": "Alternative Combined Fix",
+    "tags": [
+      "type:parity",
+      "stage:pll",
+      "puzzle:4x4",
+      "family:uperm",
+      "type:alternative"
+    ],
+    "popularity": 75,
+    "difficulty": 4,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "78616a66-f5e8-53cc-8b57-4fcc48543bc3",
+    "case_id": "47cd2442-3d02-5d55-a7a5-578ad4284e57",
+    "code": "4X4-PLL-PARITY-DIAG-01",
+    "sequence": "2R2 U2 2R2 Uw2 2R2 Uw2 F2",
+    "name": "Diagonal Edge Swap Fix",
+    "tags": [
+      "type:parity",
+      "stage:pll",
+      "puzzle:4x4",
+      "swap_type:diagonal"
+    ],
+    "popularity": 70,
+    "difficulty": 2,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00.000Z"
+  }
+]

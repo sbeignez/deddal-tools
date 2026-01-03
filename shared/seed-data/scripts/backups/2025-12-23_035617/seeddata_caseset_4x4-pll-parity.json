@@ -1,0 +1,19 @@
+[
+  {
+    "id": "e7b0ec65-a228-5bab-bc74-402df7a6d51a",
+    "code": "4x4-pll-parity",
+    "name": "4×4 PLL Parity",
+    "subtitle": "Edge Swap Parity",
+    "pattern_from": "OLL Complete with Edge Swap",
+    "pattern_to": "PLL Ready State",
+    "expected_count": 4,
+    "category": "4x4x4 - Parity",
+    "case_ids": [
+      {"id": "4b3050f4-94fa-528f-9bf4-c51fdf659cde", "code": "4X4-PLL-PARITY-ADJ"},
+      {"id": "47cd2442-3d02-5d55-a7a5-578ad4284e57", "code": "4X4-PLL-PARITY-DIAG"},
+      {"id": "6e778963-2886-5e72-a738-82b8a479de06", "code": "4X4-PLL-PARITY-OPP"},
+      {"id": "89348e65-1342-541d-abd2-b5df73204d23", "code": "4X4-PLL-PARITY-U"}
+    ],
+    "created_at": "2025-12-02T00:00:00+00:00"
+  }
+]

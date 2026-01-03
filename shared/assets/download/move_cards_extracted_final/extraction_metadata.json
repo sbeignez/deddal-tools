@@ -1,0 +1,638 @@
+[
+  {
+    "page": "page-07",
+    "card_number": 1,
+    "clip_id": "clip-5",
+    "bbox": {
+      "x": 625.007812,
+      "y": 598.726562,
+      "width": 172.96093800000006,
+      "height": 259.4375
+    },
+    "output_file": "page-07_card-01.svg"
+  },
+  {
+    "page": "page-07",
+    "card_number": 2,
+    "clip_id": "clip-11",
+    "bbox": {
+      "x": 836.730469,
+      "y": 598.089844,
+      "width": 173.05859299999997,
+      "height": 259.5898440000001
+    },
+    "output_file": "page-07_card-02.svg"
+  },
+  {
+    "page": "page-07",
+    "card_number": 3,
+    "clip_id": "clip-12",
+    "bbox": {
+      "x": 836.730469,
+      "y": 598.089844,
+      "width": 173.05859299999997,
+      "height": 150.91015600000003
+    },
+    "output_file": "page-07_card-03.svg"
+  },
+  {
+    "page": "page-07",
+    "card_number": 4,
+    "clip_id": "clip-8",
+    "bbox": {
+      "x": 624.796875,
+      "y": 1035.234375,
+      "width": 173.38671899999997,
+      "height": 260.0820309999999
+    },
+    "output_file": "page-07_card-04.svg"
+  },
+  {
+    "page": "page-07",
+    "card_number": 5,
+    "clip_id": "clip-14",
+    "bbox": {
+      "x": 836.832031,
+      "y": 1035.234375,
+      "width": 172.95703099999992,
+      "height": 259.4375
+    },
+    "output_file": "page-07_card-05.svg"
+  },
+  {
+    "page": "page-07",
+    "card_number": 6,
+    "clip_id": "clip-10",
+    "bbox": {
+      "x": 624.796875,
+      "y": 1097.0,
+      "width": 173.38671899999997,
+      "height": 185.0
+    },
+    "output_file": "page-07_card-06.svg"
+  },
+  {
+    "page": "page-07",
+    "card_number": 7,
+    "clip_id": "clip-16",
+    "bbox": {
+      "x": 836.832031,
+      "y": 1096.0,
+      "width": 172.95703099999992,
+      "height": 186.0
+    },
+    "output_file": "page-07_card-07.svg"
+  },
+  {
+    "page": "page-07",
+    "card_number": 8,
+    "clip_id": "clip-17",
+    "bbox": {
+      "x": 706.0,
+      "y": 1488.0,
+      "width": 287.0,
+      "height": 286.0
+    },
+    "output_file": "page-07_card-08.svg"
+  },
+  {
+    "page": "page-09",
+    "card_number": 1,
+    "clip_id": "clip-3",
+    "bbox": {
+      "x": 303.5,
+      "y": 506.0,
+      "width": 180.5,
+      "height": 195.97265600000003
+    },
+    "output_file": "page-09_card-01.svg"
+  },
+  {
+    "page": "page-09",
+    "card_number": 2,
+    "clip_id": "clip-4",
+    "bbox": {
+      "x": 625.011719,
+      "y": 476.300781,
+      "width": 173.47656200000006,
+      "height": 260.21875000000006
+    },
+    "output_file": "page-09_card-02.svg"
+  },
+  {
+    "page": "page-09",
+    "card_number": 3,
+    "clip_id": "clip-8",
+    "bbox": {
+      "x": 837.09375,
+      "y": 477.070312,
+      "width": 172.95703100000003,
+      "height": 259.24999999999994
+    },
+    "output_file": "page-09_card-03.svg"
+  },
+  {
+    "page": "page-09",
+    "card_number": 4,
+    "clip_id": "clip-20",
+    "bbox": {
+      "x": 297.625,
+      "y": 1010.0,
+      "width": 212.375,
+      "height": 242.66015599999992
+    },
+    "output_file": "page-09_card-04.svg"
+  },
+  {
+    "page": "page-09",
+    "card_number": 5,
+    "clip_id": "clip-13",
+    "bbox": {
+      "x": 624.796875,
+      "y": 1002.167969,
+      "width": 173.47656300000006,
+      "height": 260.2187500000001
+    },
+    "output_file": "page-09_card-05.svg"
+  },
+  {
+    "page": "page-09",
+    "card_number": 6,
+    "clip_id": "clip-16",
+    "bbox": {
+      "x": 837.003906,
+      "y": 1002.007812,
+      "width": 172.83593799999994,
+      "height": 259.2500000000001
+    },
+    "output_file": "page-09_card-06.svg"
+  },
+  {
+    "page": "page-09",
+    "card_number": 7,
+    "clip_id": "clip-27",
+    "bbox": {
+      "x": 706.0,
+      "y": 1472.0,
+      "width": 266.0,
+      "height": 287.0
+    },
+    "output_file": "page-09_card-07.svg"
+  },
+  {
+    "page": "page-09",
+    "card_number": 8,
+    "clip_id": "clip-45",
+    "bbox": {
+      "x": 706.0,
+      "y": 1489.0,
+      "width": 197.0,
+      "height": 197.0
+    },
+    "output_file": "page-09_card-08.svg"
+  },
+  {
+    "page": "page-09",
+    "card_number": 9,
+    "clip_id": "clip-47",
+    "bbox": {
+      "x": 706.0,
+      "y": 1488.0,
+      "width": 198.0,
+      "height": 199.0
+    },
+    "output_file": "page-09_card-09.svg"
+  },
+  {
+    "page": "page-18",
+    "card_number": 1,
+    "clip_id": "clip-107",
+    "bbox": {
+      "x": 75.0,
+      "y": 1456.0,
+      "width": 174.0,
+      "height": 261.0
+    },
+    "output_file": "page-18_card-01.svg"
+  },
+  {
+    "page": "page-18",
+    "card_number": 2,
+    "clip_id": "clip-33",
+    "bbox": {
+      "x": 294.0,
+      "y": 1456.0,
+      "width": 175.0,
+      "height": 261.0
+    },
+    "output_file": "page-18_card-02.svg"
+  },
+  {
+    "page": "page-18",
+    "card_number": 3,
+    "clip_id": "clip-181",
+    "bbox": {
+      "x": 514.0,
+      "y": 1456.0,
+      "width": 175.0,
+      "height": 261.0
+    },
+    "output_file": "page-18_card-03.svg"
+  },
+  {
+    "page": "page-18",
+    "card_number": 4,
+    "clip_id": "clip-103",
+    "bbox": {
+      "x": 294.0,
+      "y": 1518.0,
+      "width": 175.0,
+      "height": 185.0
+    },
+    "output_file": "page-18_card-04.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 1,
+    "clip_id": "clip-296",
+    "bbox": {
+      "x": 595.300781,
+      "y": 131.0,
+      "width": 188.5,
+      "height": 187.0
+    },
+    "output_file": "page-21_card-01.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 2,
+    "clip_id": "clip-0",
+    "bbox": {
+      "x": 74.0,
+      "y": 409.0,
+      "width": 175.0,
+      "height": 261.0
+    },
+    "output_file": "page-21_card-02.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 3,
+    "clip_id": "clip-74",
+    "bbox": {
+      "x": 294.0,
+      "y": 409.0,
+      "width": 175.0,
+      "height": 261.0
+    },
+    "output_file": "page-21_card-03.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 4,
+    "clip_id": "clip-148",
+    "bbox": {
+      "x": 513.0,
+      "y": 409.0,
+      "width": 175.0,
+      "height": 261.0
+    },
+    "output_file": "page-21_card-04.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 5,
+    "clip_id": "clip-222",
+    "bbox": {
+      "x": 735.0,
+      "y": 409.0,
+      "width": 174.0,
+      "height": 261.0
+    },
+    "output_file": "page-21_card-05.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 6,
+    "clip_id": "clip-70",
+    "bbox": {
+      "x": 74.0,
+      "y": 471.0,
+      "width": 175.0,
+      "height": 185.0
+    },
+    "output_file": "page-21_card-06.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 7,
+    "clip_id": "clip-218",
+    "bbox": {
+      "x": 513.0,
+      "y": 471.0,
+      "width": 175.0,
+      "height": 185.0
+    },
+    "output_file": "page-21_card-07.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 8,
+    "clip_id": "clip-308",
+    "bbox": {
+      "x": 595.300781,
+      "y": 1014.0,
+      "width": 188.5,
+      "height": 186.0
+    },
+    "output_file": "page-21_card-08.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 9,
+    "clip_id": "clip-472",
+    "bbox": {
+      "x": 69.0,
+      "y": 1295.0,
+      "width": 175.0,
+      "height": 261.0
+    },
+    "output_file": "page-21_card-09.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 10,
+    "clip_id": "clip-546",
+    "bbox": {
+      "x": 294.0,
+      "y": 1295.0,
+      "width": 175.0,
+      "height": 261.0
+    },
+    "output_file": "page-21_card-10.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 11,
+    "clip_id": "clip-324",
+    "bbox": {
+      "x": 513.0,
+      "y": 1295.0,
+      "width": 175.0,
+      "height": 261.0
+    },
+    "output_file": "page-21_card-11.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 12,
+    "clip_id": "clip-398",
+    "bbox": {
+      "x": 735.0,
+      "y": 1295.0,
+      "width": 174.0,
+      "height": 261.0
+    },
+    "output_file": "page-21_card-12.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 13,
+    "clip_id": "clip-542",
+    "bbox": {
+      "x": 69.0,
+      "y": 1357.0,
+      "width": 175.0,
+      "height": 185.0
+    },
+    "output_file": "page-21_card-13.svg"
+  },
+  {
+    "page": "page-21",
+    "card_number": 14,
+    "clip_id": "clip-394",
+    "bbox": {
+      "x": 513.0,
+      "y": 1357.0,
+      "width": 175.0,
+      "height": 185.0
+    },
+    "output_file": "page-21_card-14.svg"
+  },
+  {
+    "page": "page-28",
+    "card_number": 1,
+    "clip_id": "clip-102",
+    "bbox": {
+      "x": 74.0,
+      "y": 1164.0,
+      "width": 175.0,
+      "height": 262.0
+    },
+    "output_file": "page-28_card-01.svg"
+  },
+  {
+    "page": "page-28",
+    "card_number": 2,
+    "clip_id": "clip-28",
+    "bbox": {
+      "x": 274.0,
+      "y": 1164.0,
+      "width": 174.0,
+      "height": 262.0
+    },
+    "output_file": "page-28_card-02.svg"
+  },
+  {
+    "page": "page-28",
+    "card_number": 3,
+    "clip_id": "clip-196",
+    "bbox": {
+      "x": 473.0,
+      "y": 1164.0,
+      "width": 175.0,
+      "height": 262.0
+    },
+    "output_file": "page-28_card-03.svg"
+  },
+  {
+    "page": "page-28",
+    "card_number": 4,
+    "clip_id": "clip-344",
+    "bbox": {
+      "x": 74.0,
+      "y": 1467.0,
+      "width": 175.0,
+      "height": 262.0
+    },
+    "output_file": "page-28_card-04.svg"
+  },
+  {
+    "page": "page-28",
+    "card_number": 5,
+    "clip_id": "clip-410",
+    "bbox": {
+      "x": 74.0,
+      "y": 1467.0,
+      "width": 175.0,
+      "height": 152.0
+    },
+    "output_file": "page-28_card-05.svg"
+  },
+  {
+    "page": "page-28",
+    "card_number": 6,
+    "clip_id": "clip-270",
+    "bbox": {
+      "x": 274.0,
+      "y": 1467.0,
+      "width": 174.0,
+      "height": 262.0
+    },
+    "output_file": "page-28_card-06.svg"
+  },
+  {
+    "page": "page-28",
+    "card_number": 7,
+    "clip_id": "clip-418",
+    "bbox": {
+      "x": 473.0,
+      "y": 1467.0,
+      "width": 175.0,
+      "height": 261.0
+    },
+    "output_file": "page-28_card-07.svg"
+  },
+  {
+    "page": "page-31",
+    "card_number": 1,
+    "clip_id": "clip-0",
+    "bbox": {
+      "x": 74.0,
+      "y": 247.0,
+      "width": 175.0,
+      "height": 262.0
+    },
+    "output_file": "page-31_card-01.svg"
+  },
+  {
+    "page": "page-31",
+    "card_number": 2,
+    "clip_id": "clip-74",
+    "bbox": {
+      "x": 284.0,
+      "y": 247.0,
+      "width": 175.0,
+      "height": 262.0
+    },
+    "output_file": "page-31_card-02.svg"
+  },
+  {
+    "page": "page-31",
+    "card_number": 3,
+    "clip_id": "clip-148",
+    "bbox": {
+      "x": 499.0,
+      "y": 247.0,
+      "width": 175.0,
+      "height": 262.0
+    },
+    "output_file": "page-31_card-03.svg"
+  },
+  {
+    "page": "page-31",
+    "card_number": 4,
+    "clip_id": "clip-222",
+    "bbox": {
+      "x": 715.0,
+      "y": 247.0,
+      "width": 174.0,
+      "height": 262.0
+    },
+    "output_file": "page-31_card-04.svg"
+  },
+  {
+    "page": "page-31",
+    "card_number": 5,
+    "clip_id": "clip-296",
+    "bbox": {
+      "x": 73.0,
+      "y": 572.0,
+      "width": 174.0,
+      "height": 262.0
+    },
+    "output_file": "page-31_card-05.svg"
+  },
+  {
+    "page": "page-31",
+    "card_number": 6,
+    "clip_id": "clip-510",
+    "bbox": {
+      "x": 274.0,
+      "y": 552.0,
+      "width": 195.0,
+      "height": 152.0
+    },
+    "output_file": "page-31_card-06.svg"
+  },
+  {
+    "page": "page-31",
+    "card_number": 7,
+    "clip_id": "clip-520",
+    "bbox": {
+      "x": 274.0,
+      "y": 572.0,
+      "width": 174.0,
+      "height": 261.0
+    },
+    "output_file": "page-31_card-07.svg"
+  },
+  {
+    "page": "page-31",
+    "card_number": 8,
+    "clip_id": "clip-586",
+    "bbox": {
+      "x": 274.0,
+      "y": 552.0,
+      "width": 195.0,
+      "height": 172.0
+    },
+    "output_file": "page-31_card-08.svg"
+  },
+  {
+    "page": "page-31",
+    "card_number": 9,
+    "clip_id": "clip-518",
+    "bbox": {
+      "x": 278.0,
+      "y": 568.0,
+      "width": 174.0,
+      "height": 261.0
+    },
+    "output_file": "page-31_card-09.svg"
+  },
+  {
+    "page": "page-31",
+    "card_number": 10,
+    "clip_id": "clip-444",
+    "bbox": {
+      "x": 294.0,
+      "y": 552.0,
+      "width": 175.0,
+      "height": 261.0
+    },
+    "output_file": "page-31_card-10.svg"
+  },
+  {
+    "page": "page-31",
+    "card_number": 11,
+    "clip_id": "clip-370",
+    "bbox": {
+      "x": 499.0,
+      "y": 572.0,
+      "width": 175.0,
+      "height": 262.0
+    },
+    "output_file": "page-31_card-11.svg"
+  }
+]

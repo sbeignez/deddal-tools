@@ -1,0 +1,56 @@
+[
+  {
+    "id": "e3cafb06-4419-51fe-b24a-7ceccfc857bc",
+    "code": "3X3-PCLL-ADJACENT",
+    "case_set_id": "8dfd8ef3-5e4a-4888-8c09-edc72578edd4",
+    "title": "Adjacent Swap",
+    "long_name": "PcLL Adjacent Corner Swap",
+    "kind": "pcll",
+    "pattern_from": "Top Oriented",
+    "pattern_to": "Top Corners Permuted",
+    "scramble": "R' U L U' R U L'",
+    "notes": "Two adjacent corners need to be swapped",
+    "story": "<!-- Case: PcLL Adjacent -->\n\n## Overview\nAdjacent corner swap—first step of 2-look PLL, swaps two adjacent corners.\n\n## Recognition\n- Top layer fully oriented (yellow cross and corners).\n- Two adjacent corners need to swap positions.\n- Look for headlights on one side.\n\n## Technique\n1. Position corners to swap on front-right.\n2. Common algorithm: `L U' R' U L' U' R`.\n3. Short, fast corner swap algorithm.\n\n## Fingertricks\n- L U' starts with left hand.\n- R' U transitions to right.\n- L' U' R completes swap.\n- Practice L-R hand coordination.\n\n## Common Mistakes\n- Not positioning swap corners correctly.\n- Fumbling L-R transitions.\n- Breaking rhythm mid-algorithm.\n\n## Practice\n- Drill 10 times—essential 2-look PLL.\n- First step of corner permutation.\n- Master for sub-20 times.\n\n## Related Cases\n- [PcLL Diagonal](deddal://case/PcLL-Diagonal) – Diagonal corner swap.\n- [Aa-Perm](deddal://case/Aa-Perm) – Full PLL adjacent swap.\n- [Ab-Perm](deddal://case/Ab-Perm) – Full PLL adjacent swap.\n\n## Pro Tips\n- Very common 2-look PLL case (95 popularity).\n- Headlights indicate adjacent swap.\n- Follow with PeLL for full permutation.",
+    "description": null,
+    "image_url": "https://qoglsyykgrqalsemigii.supabase.co/storage/v1/object/public/case-images/3x3_cfop_pcll_adj.svg",
+    "image_asset_name": "3x3_cfop_pcll_adj",
+    "difficulty": 2,
+    "popularity": 95,
+    "groups": [
+      "type:corner_swap",
+      "type:adjacent_swap",
+      "corners:two_swap",
+      "edges:solved",
+      "level:beginner"
+    ],
+    "created_at": "2025-11-09T00:00:00.000Z",
+    "updated_at": "2025-11-15T10:15:50.520Z"
+  },
+  {
+    "id": "adeacbce-2b37-53f7-a85f-56fa81b964c4",
+    "code": "3X3-PCLL-DIAGONAL",
+    "case_set_id": "8dfd8ef3-5e4a-4888-8c09-edc72578edd4",
+    "title": "Diagonal Swap",
+    "long_name": "PcLL Diagonal Corner Swap",
+    "kind": "pcll",
+    "pattern_from": "Top Oriented",
+    "pattern_to": "Top Corners Permuted",
+    "scramble": "F R' F' R U R U' R' F' R U' R U R' U R' F",
+    "notes": "Two diagonal corners need to be swapped",
+    "story": "<!-- Case: PcLL Diagonal -->\n\n## Overview\nDiagonal corner swap—second 2-look PLL case, swaps two diagonal corners.\n\n## Recognition\n- Top layer fully oriented (yellow cross and corners).\n- Two diagonal corners need to swap positions.\n- No headlights visible on any side.\n\n## Technique\n1. Position for diagonal swap.\n2. Common algorithm: `F' R U' R' U' R U R' F R U R' U' R' F R F'`.\n3. Long Y-perm style algorithm.\n\n## Fingertricks\n- F' R U' R' U' flows naturally.\n- R U R' F continues rhythm.\n- R U R' U' continues flow.\n- R' F R F' completes swap.\n\n## Common Mistakes\n- Getting lost in long sequence.\n- Breaking rhythm between sections.\n- Not recognizing no-headlights pattern.\n\n## Practice\n- Drill 20 times—longer algorithm.\n- Break into sections for learning.\n- Essential 2-look PLL case.\n\n## Related Cases\n- [PcLL Adjacent](deddal://case/PcLL-Adjacent) – Adjacent corner swap.\n- [Y-Perm](deddal://case/Y-Perm) – Full PLL diagonal swap.\n- [Na-Perm](deddal://case/Na-Perm) – Diagonal corner swap variant.\n\n## Pro Tips\n- Common 2-look PLL case (95 popularity).\n- No headlights = diagonal swap.\n- Follow with PeLL for full permutation.",
+    "description": null,
+    "image_url": "https://qoglsyykgrqalsemigii.supabase.co/storage/v1/object/public/case-images/3x3_cfop_pcll_dia.svg",
+    "image_asset_name": "3x3_cfop_pcll_dia",
+    "difficulty": 2,
+    "popularity": 95,
+    "groups": [
+      "type:corner_swap",
+      "type:diagonal_swap",
+      "corners:two_swap",
+      "edges:solved",
+      "level:beginner"
+    ],
+    "created_at": "2025-11-09T00:00:00.000Z",
+    "updated_at": "2025-11-15T10:15:50.520Z"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "8cb6bf34-5885-5a2a-b5fc-db816df5ebea",
+    "code": "6x6-OLL-PARITY",
+    "case_set_id": "6c8405fa-365f-54c0-9fe3-43bc41ac2560",
+    "title": "OLL Parity",
+    "long_name": "6×6 OLL Parity - Flipped Edge",
+    "kind": "6x6_oll_parity",
+    "pattern_from": "Pre-OLL with Edge Flip",
+    "pattern_to": "OLL Ready State",
+    "scramble": "3r2 B2 U2 3l U2 3r' U2 3r U2 F2 3r F2 3l' B2 3r2",
+    "notes": "Single flipped edge pair on top layer - occurs in 50% of 6×6 solves during OLL stage",
+    "story": "Like 4×4, the 6×6 experiences OLL parity due to its even layer count. The algorithm is similar but uses 3-layer wide moves.",
+    "description": "OLL parity on 6×6. Two edge pieces appear flipped when you reach OLL. Uses 3-layer wide moves (3r, 3l) instead of 2-layer.",
+    "image_url": null,
+    "image_asset_name": "6x6_oll_parity",
+    "difficulty": 5,
+    "popularity": 100,
+    "groups": [
+      "type:parity",
+      "type:oll_parity",
+      "puzzle:6x6",
+      "stage:oll",
+      "level:advanced"
+    ],
+    "created_at": "2025-12-02T00:00:00.000Z",
+    "updated_at": "2025-12-03T11:47:46.647Z"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "aa1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "code": "l2-first-layer-corners",
+    "name": "First Layer Corners",
+    "subtitle": "Complete the white face",
+    "pattern_from": "Cross",
+    "pattern_to": "First Layer Complete",
+    "expected_count": 2,
+    "category": "Layer-by-Layer Method",
+    "case_ids": [
+      {"id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d", "code": "3x3_lbl_first-layer-corners-01"},
+      {"id": "3b4c5d6e-7f8a-9b0c-1d2e-3f4a5b6c7d8e", "code": "3x3_lbl_first-layer-corners-helper"}
+    ],
+    "created_at": "2025-12-04T00:00:00.000Z"
+  }
+]

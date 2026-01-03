@@ -1,0 +1,43 @@
+[
+  {
+    "id": "8f3a7b2c-4d5e-6f1a-2b3c-4d5e6f7a8b9c",
+    "code": "ortega-oll",
+    "name": "Ortega OLL",
+    "subtitle": "2x2 - Orientation of Last Layer",
+    "pattern_from": "One Face Solved",
+    "pattern_to": "Opposite Face Oriented",
+    "expected_count": 7,
+    "category": "2x2 - Ortega Method",
+    "case_ids": [
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "code": "2X2-ORTEGA-OLL-1"
+      },
+      {
+        "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+        "code": "2X2-ORTEGA-OLL-2"
+      },
+      {
+        "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+        "code": "2X2-ORTEGA-OLL-3"
+      },
+      {
+        "id": "d4e5f6a7-b8c9-0123-def1-234567890123",
+        "code": "2X2-ORTEGA-OLL-4"
+      },
+      {
+        "id": "e5f6a7b8-c9d0-1234-ef12-345678901234",
+        "code": "2X2-ORTEGA-OLL-5"
+      },
+      {
+        "id": "f6a7b8c9-d0e1-2345-f123-456789012345",
+        "code": "2X2-ORTEGA-OLL-6"
+      },
+      {
+        "id": "a7b8c9d0-e1f2-3456-a123-567890123456",
+        "code": "2X2-ORTEGA-OLL-7"
+      }
+    ],
+    "created_at": "2025-01-10T00:00:00.000Z"
+  }
+]

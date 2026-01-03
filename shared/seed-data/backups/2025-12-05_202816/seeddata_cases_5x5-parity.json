@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2c0f63b1-d590-51ce-8eae-99769e626728",
+    "code": "5x5-EDGE-PARITY",
+    "case_set_id": "e383cc35-d6c0-59f1-8d96-2c41053d8194",
+    "title": "Edge Parity",
+    "long_name": "5×5 Edge Parity - Single Flipped Edge",
+    "kind": "5x5_edge_parity",
+    "pattern_from": "Last Two Edges to Pair",
+    "pattern_to": "All Edges Paired",
+    "scramble": "Rw U2 Rw x U2 Rw U2 3Rw' U2 Lw U2 Rw' U2 Rw U2 Rw' U2 Rw'",
+    "notes": "Single edge appears flipped during edge pairing - occurs in 50% of 5×5 solves",
+    "story": "Unlike 4×4, odd cubes (5×5, 7×7) don't have OLL/PLL parity. Instead, you may encounter a single flipped edge during the pairing stage. This is because odd cubes have fixed centers.",
+    "description": "The only parity case on 5×5. A single edge piece needs to be flipped during edge pairing. No OLL or PLL parity exists on odd cubes.",
+    "image_url": null,
+    "image_asset_name": "5x5_edge_parity",
+    "difficulty": 4,
+    "popularity": 100,
+    "groups": [
+      "type:parity",
+      "type:edge_parity",
+      "puzzle:5x5",
+      "stage:edge_pairing",
+      "level:intermediate"
+    ],
+    "created_at": "2025-12-02T00:00:00.000Z",
+    "updated_at": "2025-12-03T11:47:46.647Z"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "c1a2b3d4-e5f6-7890-abcd-ef1234567890",
+    "code": "roux-lse-eo",
+    "name": "LSE-EO",
+    "subtitle": "Edge Orientation (Roux 4a)",
+    "pattern_from": null,
+    "pattern_to": null,
+    "expected_count": 10,
+    "category": "Roux Method - Last Six Edges",
+    "case_ids": [
+      {"id": "e0111111-1111-1111-1111-111111111111", "code": "3X3-LSE-EO01"},
+      {"id": "e0222222-2222-2222-2222-222222222222", "code": "3X3-LSE-EO02"},
+      {"id": "e0333333-3333-3333-3333-333333333333", "code": "3X3-LSE-EO03"},
+      {"id": "e0444444-4444-4444-4444-444444444444", "code": "3X3-LSE-EO04"},
+      {"id": "e0555555-5555-5555-5555-555555555555", "code": "3X3-LSE-EO05"},
+      {"id": "e0666666-6666-6666-6666-666666666666", "code": "3X3-LSE-EO06"},
+      {"id": "e0777777-7777-7777-7777-777777777777", "code": "3X3-LSE-EO07"},
+      {"id": "e0888888-8888-8888-8888-888888888888", "code": "3X3-LSE-EO08"},
+      {"id": "e0999999-9999-9999-9999-999999999999", "code": "3X3-LSE-EO09"},
+      {"id": "e0aaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa", "code": "3X3-LSE-EO10"}
+    ],
+    "created_at": "2025-12-18T15:46:16.033Z"
+  }
+]

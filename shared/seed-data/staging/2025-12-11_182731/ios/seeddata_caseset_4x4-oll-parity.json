@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1b40c0a1-02a4-57a0-bd5a-87fede1db5ba",
+    "code": "4x4-oll-parity",
+    "name": "4×4 OLL Parity",
+    "subtitle": "Single Edge Flip Parity",
+    "pattern_from": "Pre-OLL with Edge Flip",
+    "pattern_to": "OLL Ready State",
+    "expected_count": 1,
+    "category": "4x4x4 - Parity",
+    "case_ids": [
+      {
+        "id": "29a261a9-bd02-51d5-b12a-ae0913bcb32c",
+        "code": "4X4-OLL-PARITY"
+      }
+    ],
+    "created_at": "2025-12-02T00:00:00.000Z"
+  }
+]

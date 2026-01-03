@@ -1,0 +1,43 @@
+[
+  {
+    "id": "92b51515-6df7-4548-87b0-b4445323b509",
+    "code": "ocll",
+    "name": "OcLL",
+    "subtitle": "Orientation of the Corners",
+    "pattern_from": "Top Edges Oriented",
+    "pattern_to": "Top Oriented",
+    "expected_count": 7,
+    "category": "Last Layer - Intermediate",
+    "case_ids": [
+      {
+        "id": "95f41767-b0a2-54ef-a640-c40dd6106cdb",
+        "code": "3X3-OCLL-ANTISUNE"
+      },
+      {
+        "id": "d5635e93-c473-55a9-83a5-239d2182b4d1",
+        "code": "3X3-OCLL-H"
+      },
+      {
+        "id": "4bd41d86-d5c1-5d91-8892-2f4f6ad8c016",
+        "code": "3X3-OCLL-L"
+      },
+      {
+        "id": "cc774d90-91bb-5dd3-bbef-5e267aac4e69",
+        "code": "3X3-OCLL-PI"
+      },
+      {
+        "id": "4b400596-f9a9-5dce-b69f-786cb28ea8e5",
+        "code": "3X3-OCLL-SUNE"
+      },
+      {
+        "id": "bed5663f-850f-5769-ae84-d75e6e009d37",
+        "code": "3X3-OCLL-T"
+      },
+      {
+        "id": "ba5ffad8-8c3d-5f72-9196-31d4a46a860b",
+        "code": "3X3-OCLL-U"
+      }
+    ],
+    "created_at": "2025-10-23T19:16:46.741Z"
+  }
+]

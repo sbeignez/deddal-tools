@@ -1,0 +1,83 @@
+[
+  {
+    "id": "7c0fa2ff-ecc8-5280-90c6-e6980e439397",
+    "code": "3X3-OELL-DOT",
+    "case_set_id": "96169d2a-b5bb-4c40-ae0f-e44a418c255d",
+    "title": "Dot",
+    "long_name": "OeLL Dot Case",
+    "kind": "oell",
+    "pattern_from": "2 Layers",
+    "pattern_to": "Top Edges Oriented",
+    "scramble": "f U R U' R' f' F U R U' R' F'",
+    "notes": "No edges oriented, only the center shows (dot)",
+    "story": "<!-- Case: OeLL Dot -->\n\n## Overview\nDot pattern (no edges oriented)—first step of 2-look OLL, essential fundamental for beginners.\n\n## Recognition\n- No yellow edges on top (dot pattern).\n- All four edges need to be flipped.\n- Most common starting position for 2-look OLL.\n\n## Technique\n1. Recognize dot pattern (no edges oriented).\n2. Common algorithm: `F R U R' U' F' f R U R' U' f'`.\n3. Creates yellow cross on top—ready for OcLL.\n\n## Fingertricks\n- F R U R' U' F' flows naturally (sexy-move).\n- f R U R' U' f' repeats with wide f-move.\n- Two similar sections create rhythm.\n- Fast execution with practice.\n\n## Common Mistakes\n- Confusing with full OLL dot cases.\n- Breaking rhythm between F and f sections.\n- Weak f-move execution.\n\n## Practice\n- Drill 5 times—absolute fundamental.\n- First algorithm for 2-look OLL.\n- Master before learning OcLL.\n\n## Related Cases\n- [OeLL Line](deddal://case/OeLL-Line) – Two opposite edges oriented.\n- [OeLL L](deddal://case/OeLL-L) – Two adjacent edges oriented.\n- [OLL-1](deddal://case/OLL-1) – Full OLL dot case.\n\n## Pro Tips\n- MOST COMMON OeLL case (100 popularity).\n- Essential 2-look OLL fundamental.\n- Creates yellow cross for OcLL step.",
+    "description": null,
+    "image_url": "https://qoglsyykgrqalsemigii.supabase.co/storage/v1/object/public/case-images/3x3_cfop_oell_dot.svg",
+    "image_asset_name": "3x3_cfop_oell_dot",
+    "difficulty": 1,
+    "popularity": 100,
+    "groups": [
+      "pattern:edges_only",
+      "shape:dot",
+      "edges:none_oriented",
+      "corners:all_oriented",
+      "level:beginner"
+    ],
+    "created_at": "2025-11-09T00:00:00.000Z",
+    "updated_at": "2025-11-15T10:15:50.520Z"
+  },
+  {
+    "id": "38e4ae9c-99c0-5e79-8e89-1a4e68045417",
+    "code": "3X3-OELL-L",
+    "case_set_id": "96169d2a-b5bb-4c40-ae0f-e44a418c255d",
+    "title": "L-Shape",
+    "long_name": "OeLL L-Shape Case",
+    "kind": "oell",
+    "pattern_from": "2 Layers",
+    "pattern_to": "Top Edges Oriented",
+    "scramble": "f U R U' R' f'",
+    "notes": "Two adjacent edges oriented, forming an L-shape",
+    "story": "<!-- Case: OeLL L -->\n\n## Overview\nL-shape pattern (two adjacent edges oriented)—third OeLL case using f-sexy-f' algorithm.\n\n## Recognition\n- Two adjacent yellow edges on top (L-shape).\n- Forms distinctive L pattern.\n- One step away from yellow cross.\n\n## Technique\n1. Position L-shape with edges on left and front.\n2. Common algorithm: `f R U R' U' f'`.\n3. Wide f-move variant of F-sexy-F'.\n\n## Fingertricks\n- f R U R' U' flows naturally.\n- f' completes orientation.\n- Fast with good f-move technique.\n- Very similar to OeLL Line.\n\n## Common Mistakes\n- Not positioning L-shape correctly.\n- Weak f-move execution.\n- Confusing with OLL-44 (which includes corners).\n\n## Practice\n- Drill 5 times for fluency.\n- Same pattern as OLL-44.\n- Practice f-move technique.\n\n## Related Cases\n- [OeLL Dot](deddal://case/OeLL-Dot) – No edges oriented.\n- [OeLL Line](deddal://case/OeLL-Line) – Two opposite edges oriented.\n- [OLL-44](deddal://case/OLL-44) – Same algorithm with corners.\n\n## Pro Tips\n- Common OeLL case (100 popularity).\n- f-sexy-f' is fundamental variant.\n- Creates yellow cross for OcLL step.",
+    "description": null,
+    "image_url": "https://qoglsyykgrqalsemigii.supabase.co/storage/v1/object/public/case-images/3x3_cfop_oell_l.svg",
+    "image_asset_name": "3x3_cfop_oell_l",
+    "difficulty": 1,
+    "popularity": 100,
+    "groups": [
+      "pattern:edges_only",
+      "shape:l_shape",
+      "edges:two_adjacent",
+      "corners:all_oriented",
+      "level:beginner"
+    ],
+    "created_at": "2025-11-09T00:00:00.000Z",
+    "updated_at": "2025-11-15T10:15:50.520Z"
+  },
+  {
+    "id": "4caf1181-bb2b-5fd2-a119-44e79e853b63",
+    "code": "3X3-OELL-LINE",
+    "case_set_id": "96169d2a-b5bb-4c40-ae0f-e44a418c255d",
+    "title": "Line",
+    "long_name": "OeLL Line Case",
+    "kind": "oell",
+    "pattern_from": "2 Layers",
+    "pattern_to": "Top Edges Oriented",
+    "scramble": "F U R U' R' F'",
+    "notes": "Two opposite edges oriented, forming a line across the top face",
+    "story": "<!-- Case: OeLL Line -->\n\n## Overview\nLine pattern (two opposite edges oriented)—second step of 2-look OLL, most beginner-friendly OeLL.\n\n## Recognition\n- Two opposite yellow edges on top (line pattern).\n- Forms horizontal or vertical line.\n- Already halfway to yellow cross.\n\n## Technique\n1. Position line horizontally (left-right).\n2. Common algorithm: `F R U R' U' F'`.\n3. THE most common algorithm in cubing—F-sexy-F'.\n\n## Fingertricks\n- F R U R' U' flows naturally.\n- F' completes orientation.\n- Lightning-fast execution.\n- Absolute fundamental pattern.\n\n## Common Mistakes\n- Not positioning line correctly (must be horizontal).\n- Breaking rhythm mid-algorithm.\n- Confusing with OLL-45 (which includes corners).\n\n## Practice\n- Drill 3 times—easiest OeLL.\n- Same algorithm as OLL-45.\n- Master for sub-20 times.\n\n## Related Cases\n- [OeLL Dot](deddal://case/OeLL-Dot) – No edges oriented.\n- [OeLL L](deddal://case/OeLL-L) – Two adjacent edges oriented.\n- [OLL-45](deddal://case/OLL-45) – Same algorithm with corners.\n\n## Pro Tips\n- MOST beginner-friendly OeLL (100 popularity).\n- F-sexy-F' is THE fundamental algorithm.\n- Creates yellow cross for OcLL step.",
+    "description": null,
+    "image_url": "https://qoglsyykgrqalsemigii.supabase.co/storage/v1/object/public/case-images/3x3_cfop_oell_i.svg",
+    "image_asset_name": "3x3_cfop_oell_i",
+    "difficulty": 1,
+    "popularity": 100,
+    "groups": [
+      "pattern:edges_only",
+      "shape:line",
+      "edges:two_opposite",
+      "corners:all_oriented",
+      "level:beginner"
+    ],
+    "created_at": "2025-11-09T00:00:00.000Z",
+    "updated_at": "2025-11-15T10:15:50.520Z"
+  }
+]

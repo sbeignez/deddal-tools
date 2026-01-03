@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://deddal.app/schemas/seed-data/caseset.json",
+  "title": "Case Set Seed Data Schema",
+  "description": "JSON Schema for Rubik's Cube case set seed data files (seeddata_caseset_*.json). Case sets are groupings of related method cases (e.g., 'F2L', 'OLL', 'PLL').",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "code", "name"],
+    "additionalProperties": false,
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$",
+        "description": "Unique identifier (UUID v4)"
+      },
+      "code": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Unique code identifier for the case set (e.g., 'f2l-fr', 'oll', 'pll', '2x2-cll-with-algs')",
+        "examples": ["f2l-fr", "oll", "pll", "2x2-cll-with-algs"]
+      },
+      "name": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Display name for the case set",
+        "examples": ["F2L", "OLL", "PLL", "2×2 CLL (with algorithms)"]
+      },
+      "subtitle": {
+        "type": ["string", "null"],
+        "description": "Optional subtitle or brief description of the case set",
+        "examples": ["Last Layer Orientation", "2x2 - Corner Last Layer"]
+      },
+      "pattern_from": {
+        "type": ["string", "null"],
+        "description": "Pattern state before applying this case set (e.g., 'F2L Complete', 'Opposite Face Oriented')",
+        "examples": ["F2L Complete", "Opposite Face Oriented", "First Two Layers Complete"]
+      },
+      "pattern_to": {
+        "type": ["string", "null"],
+        "description": "Pattern state after applying this case set (e.g., 'Solved', 'Last Layer Oriented')",
+        "examples": ["Solved", "Last Layer Oriented", "Permuted Last Layer"]
+      },
+      "expected_count": {
+        "type": ["integer", "null"],
+        "minimum": 0,
+        "description": "Expected number of cases in this case set (0 for empty/placeholder sets, used for validation)",
+        "examples": [0, 42, 57, 21]
+      },
+      "category": {
+        "type": ["string", "null"],
+        "description": "Category classification for organizing case sets (e.g., 'cfop', 'beginner', '2x2 - CLL Method')",
+        "examples": ["cfop", "beginner", "2x2 - CLL Method", "3x3 - CFOP"]
+      },
+      "case_ids": {
+        "type": ["array", "null"],
+        "description": "Optional array of case references for subset case sets. Populated from lib_caseset_cases junction table. Enables M:N relationship where one case can appear in multiple case sets.",
+        "items": {
+          "type": "object",
+          "required": ["id", "code"],
+          "additionalProperties": false,
+          "properties": {
+            "id": {
+              "type": "string",
+              "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$",
+              "description": "UUID of the referenced case"
+            },
+            "code": {
+              "type": "string",
+              "minLength": 1,
+              "description": "Human-readable code of the referenced case (e.g., 'CLL-AS-01', 'OLL-01', 'F2L-01-FR')"
+            }
+          },
+          "description": "Reference to a case with both UUID and code for human readability"
+        }
+      },
+      "created_at": {
+        "type": ["string", "null"],
+        "format": "date-time",
+        "description": "Creation timestamp in ISO 8601 format with timezone",
+        "examples": ["2025-01-10T00:00:00.000Z"]
+      }
+    }
+  },
+  "minItems": 1,
+  "description": "Array must contain at least one case set"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "17bd6f9e-da0f-4bc6-ae5b-517ffc4965bf",
+    "code": "roux-cmll",
+    "name": "CMLL",
+    "subtitle": "Corners of Last Layer (Roux Method)",
+    "pattern_from": null,
+    "pattern_to": null,
+    "expected_count": 42,
+    "category": "Roux Method - Last Layer",
+    "case_ids": null,
+    "created_at": "2025-12-11T16:39:04.497Z"
+  }
+]

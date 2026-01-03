@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1b40c0a1-02a4-57a0-bd5a-87fede1db5ba",
+    "code": "4x4-oll-parity",
+    "name": "4×4 OLL Parity",
+    "subtitle": "Single Edge Flip Parity",
+    "pattern_from": "Pre-OLL with Edge Flip",
+    "pattern_to": "OLL Ready State",
+    "expected_count": 1,
+    "category": "4x4x4 - Parity",
+    "created_at": "2025-12-02T00:00:00Z",
+    "case_ids": [
+      "29a261a9-bd02-51d5-b12a-ae0913bcb32c"
+    ]
+  },
+  {
+    "id": "e7b0ec65-a228-5bab-bc74-402df7a6d51a",
+    "code": "4x4-pll-parity",
+    "name": "4×4 PLL Parity",
+    "subtitle": "Edge Swap Parity",
+    "pattern_from": "OLL Complete with Edge Swap",
+    "pattern_to": "PLL Ready State",
+    "expected_count": 4,
+    "category": "4x4x4 - Parity",
+    "created_at": "2025-12-02T00:00:00Z",
+    "case_ids": [
+      "4b3050f4-94fa-528f-9bf4-c51fdf659cde",
+      "6e778963-2886-5e72-a738-82b8a479de06",
+      "47cd2442-3d02-5d55-a7a5-578ad4284e57",
+      "89348e65-1342-541d-abd2-b5df73204d23"
+    ]
+  }
+]

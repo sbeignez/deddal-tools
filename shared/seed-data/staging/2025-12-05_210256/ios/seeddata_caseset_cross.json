@@ -1,0 +1,23 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+    "code": "cross",
+    "name": "Cross",
+    "subtitle": "White Cross Formation",
+    "pattern_from": "Scrambled",
+    "pattern_to": "Cross",
+    "expected_count": 8,
+    "category": "Layer-by-Layer Method",
+    "case_ids": [
+      {"id": "d8e9f0a1-b2c3-4d5e-6f7a-8b9c0d1e2f3a", "code": "3x3_cross_adjacent-01"},
+      {"id": "b6c7d8e9-f0a1-2b3c-4d5e-6f7a8b9c0d1e", "code": "3x3_cross_d-flipped-01"},
+      {"id": "a5b6c7d8-e9f0-1a2b-3c4d-5e6f7a8b9c0d", "code": "3x3_cross_d-oriented-01"},
+      {"id": "f4a5b6c7-d8e9-0f1a-2b3c-4d5e6f7a8b9c", "code": "3x3_cross_m-flipped-01"},
+      {"id": "e3f4a5b6-c7d8-9e0f-1a2b-3c4d5e6f7a8b", "code": "3x3_cross_m-oriented-01"},
+      {"id": "c7d8e9f0-a1b2-3c4d-5e6f-7a8b9c0d1e2f", "code": "3x3_cross_solved-01"},
+      {"id": "d2e3f4a5-b6c7-8d9e-0f1a-2b3c4d5e6f7a", "code": "3x3_cross_u-flipped-01"},
+      {"id": "c1d2e3f4-a5b6-7c8d-9e0f-1a2b3c4d5e6f", "code": "3x3_cross_u-oriented-01"}
+    ],
+    "created_at": "2025-11-16T00:00:00.000Z"
+  }
+]

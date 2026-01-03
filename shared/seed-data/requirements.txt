@@ -1,0 +1,2 @@
+# Dependencies for seed data tooling
+-r scripts/requirements.txt

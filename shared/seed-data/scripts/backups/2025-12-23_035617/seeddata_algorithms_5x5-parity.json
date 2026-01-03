@@ -1,0 +1,40 @@
+[
+  {
+    "id": "70e23f6c-315e-56df-910e-424ecdc7c22d",
+    "case_id": "2c0f63b1-d590-51ce-8eae-99769e626728",
+    "code": "5X5-EDGE-PARITY-01",
+    "sequence": "Rw U2 Rw x U2 Rw U2 3Rw' U2 Lw U2 Rw' U2 Rw U2 Rw' U2 Rw'",
+    "name": "Standard 5×5 Edge Flip",
+    "tags": [
+      "type:parity",
+      "piece:edge",
+      "puzzle:5x5",
+      "type:standard"
+    ],
+    "popularity": 100,
+    "difficulty": 4,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00+00:00"
+  },
+  {
+    "id": "3aaee8db-5b06-5f20-bc58-22f0bb98853b",
+    "case_id": "2c0f63b1-d590-51ce-8eae-99769e626728",
+    "code": "5X5-EDGE-PARITY-02",
+    "sequence": "r U2 r x U2 r U2 3r' U2 l U2 r' U2 r U2 r' U2 r'",
+    "name": "Alternative Edge Flip (lowercase)",
+    "tags": [
+      "type:parity",
+      "piece:edge",
+      "puzzle:5x5",
+      "type:alternative"
+    ],
+    "popularity": 85,
+    "difficulty": 4,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00+00:00"
+  }
+]

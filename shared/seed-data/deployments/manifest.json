@@ -1,0 +1,46 @@
+{
+  "deployments": [
+    {
+      "staged_timestamp": "2025-12-05_212741",
+      "deployed_at": "2025-12-05T21:29:13.754438Z",
+      "file_count": 71,
+      "backup_timestamp": "2025-12-05_212913"
+    },
+    {
+      "staged_timestamp": "2025-12-05_212741",
+      "deployed_at": "2025-12-05T21:35:11.272255Z",
+      "file_count": 71,
+      "backup_timestamp": "2025-12-05_213511"
+    },
+    {
+      "staged_timestamp": "2025-12-08_233312",
+      "deployed_at": "2025-12-08T23:33:56.871570Z",
+      "file_count": 71,
+      "backup_timestamp": "2025-12-08_233356"
+    },
+    {
+      "staged_timestamp": "2025-12-11_130002",
+      "deployed_at": "2025-12-11T13:00:47.653445Z",
+      "file_count": 72,
+      "backup_timestamp": "2025-12-11_130047"
+    },
+    {
+      "staged_timestamp": "2025-12-11_130426",
+      "deployed_at": "2025-12-11T13:07:33.779583Z",
+      "file_count": 72,
+      "backup_timestamp": "2025-12-11_130733"
+    },
+    {
+      "staged_timestamp": "2025-12-11_134755",
+      "deployed_at": "2025-12-11T13:50:13.042145Z",
+      "file_count": 74,
+      "backup_timestamp": "2025-12-11_135012"
+    },
+    {
+      "staged_timestamp": "2025-12-11_182841",
+      "deployed_at": "2025-12-11T18:29:20.870759Z",
+      "file_count": 77,
+      "backup_timestamp": "2025-12-11_182920"
+    }
+  ]
+}

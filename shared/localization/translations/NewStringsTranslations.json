@@ -1,0 +1,260 @@
+{
+  "translations": {
+    "Edit Profile": {
+      "en": "Edit Profile",
+      "fr": "Modifier le profil",
+      "es": "Editar perfil",
+      "ja": "プロフィールを編集",
+      "zh-Hans": "编辑个人资料"
+    },
+    "Done": {
+      "en": "Done",
+      "fr": "Terminé",
+      "es": "Listo",
+      "ja": "完了",
+      "zh-Hans": "完成"
+    },
+    "Use WCA Profile Photo?": {
+      "en": "Use WCA Profile Photo?",
+      "fr": "Utiliser la photo de profil WCA ?",
+      "es": "¿Usar foto de perfil WCA?",
+      "ja": "WCAプロフィール写真を使用しますか？",
+      "zh-Hans": "使用WCA个人照片？"
+    },
+    "Use WCA Photo": {
+      "en": "Use WCA Photo",
+      "fr": "Utiliser la photo WCA",
+      "es": "Usar foto WCA",
+      "ja": "WCA写真を使用",
+      "zh-Hans": "使用WCA照片"
+    },
+    "No Thanks": {
+      "en": "No Thanks",
+      "fr": "Non merci",
+      "es": "No, gracias",
+      "ja": "いいえ",
+      "zh-Hans": "不用了"
+    },
+    "Would you like to use your WCA profile photo?": {
+      "en": "Would you like to use your WCA profile photo?",
+      "fr": "Souhaitez-vous utiliser votre photo de profil WCA ?",
+      "es": "¿Desea usar su foto de perfil WCA?",
+      "ja": "WCAプロフィール写真を使用しますか？",
+      "zh-Hans": "您想使用您的WCA个人照片吗？"
+    },
+    "Change Photo": {
+      "en": "Change Photo",
+      "fr": "Modifier la photo",
+      "es": "Cambiar foto",
+      "ja": "写真を変更",
+      "zh-Hans": "更改照片"
+    },
+    "PERSONAL INFORMATION": {
+      "en": "PERSONAL INFORMATION",
+      "fr": "INFORMATIONS PERSONNELLES",
+      "es": "INFORMACIÓN PERSONAL",
+      "ja": "個人情報",
+      "zh-Hans": "个人信息"
+    },
+    "First Name": {
+      "en": "First Name",
+      "fr": "Prénom",
+      "es": "Nombre",
+      "ja": "名",
+      "zh-Hans": "名字"
+    },
+    "First name": {
+      "en": "First name",
+      "fr": "Prénom",
+      "es": "Nombre",
+      "ja": "名",
+      "zh-Hans": "名字"
+    },
+    "Last Name": {
+      "en": "Last Name",
+      "fr": "Nom",
+      "es": "Apellido",
+      "ja": "姓",
+      "zh-Hans": "姓氏"
+    },
+    "Last name": {
+      "en": "Last name",
+      "fr": "Nom",
+      "es": "Apellido",
+      "ja": "姓",
+      "zh-Hans": "姓氏"
+    },
+    "Nickname": {
+      "en": "Nickname",
+      "fr": "Pseudonyme",
+      "es": "Apodo",
+      "ja": "ニックネーム",
+      "zh-Hans": "昵称"
+    },
+    "Public display name": {
+      "en": "Public display name",
+      "fr": "Nom d'affichage public",
+      "es": "Nombre público",
+      "ja": "公開表示名",
+      "zh-Hans": "公开显示名称"
+    },
+    "Country": {
+      "en": "Country",
+      "fr": "Pays",
+      "es": "País",
+      "ja": "国",
+      "zh-Hans": "国家"
+    },
+    "Select country": {
+      "en": "Select country",
+      "fr": "Sélectionner un pays",
+      "es": "Seleccionar país",
+      "ja": "国を選択",
+      "zh-Hans": "选择国家"
+    },
+    "ACCOUNT": {
+      "en": "ACCOUNT",
+      "fr": "COMPTE",
+      "es": "CUENTA",
+      "ja": "アカウント",
+      "zh-Hans": "账户"
+    },
+    "Email": {
+      "en": "Email",
+      "fr": "E-mail",
+      "es": "Correo electrónico",
+      "ja": "メール",
+      "zh-Hans": "邮箱"
+    },
+    "Not set": {
+      "en": "Not set",
+      "fr": "Non défini",
+      "es": "No establecido",
+      "ja": "未設定",
+      "zh-Hans": "未设置"
+    },
+    "Signed in with Email": {
+      "en": "Signed in with Email",
+      "fr": "Connecté avec e-mail",
+      "es": "Conectado con correo",
+      "ja": "メールでサインイン",
+      "zh-Hans": "通过邮箱登录"
+    },
+    "SPEEDCUBING": {
+      "en": "SPEEDCUBING",
+      "fr": "SPEEDCUBING",
+      "es": "SPEEDCUBING",
+      "ja": "スピードキューブ",
+      "zh-Hans": "速度魔方"
+    },
+    "WCA ID": {
+      "en": "WCA ID",
+      "fr": "ID WCA",
+      "es": "ID WCA",
+      "ja": "WCA ID",
+      "zh-Hans": "WCA ID"
+    },
+    "YYYYNAME##": {
+      "en": "YYYYNAME##",
+      "fr": "AAAANOMXX",
+      "es": "AAAANOMBREXX",
+      "ja": "YYYY名前##",
+      "zh-Hans": "年份姓名##"
+    },
+    "Verifying...": {
+      "en": "Verifying...",
+      "fr": "Vérification...",
+      "es": "Verificando...",
+      "ja": "確認中...",
+      "zh-Hans": "验证中..."
+    },
+    "Verified WCA Profile": {
+      "en": "Verified WCA Profile",
+      "fr": "Profil WCA vérifié",
+      "es": "Perfil WCA verificado",
+      "ja": "WCAプロフィール確認済み",
+      "zh-Hans": "已验证WCA资料"
+    },
+    "Name: %@": {
+      "en": "Name: %@",
+      "fr": "Nom : %@",
+      "es": "Nombre: %@",
+      "ja": "名前: %@",
+      "zh-Hans": "姓名：%@"
+    },
+    "Country: %@": {
+      "en": "Country: %@",
+      "fr": "Pays : %@",
+      "es": "País: %@",
+      "ja": "国: %@",
+      "zh-Hans": "国家：%@"
+    },
+    "Best 3x3: %@": {
+      "en": "Best 3x3: %@",
+      "fr": "Meilleur 3x3 : %@",
+      "es": "Mejor 3x3: %@",
+      "ja": "ベスト3x3: %@",
+      "zh-Hans": "最佳3x3：%@"
+    },
+    "View Full WCA Profile": {
+      "en": "View Full WCA Profile",
+      "fr": "Voir le profil WCA complet",
+      "es": "Ver perfil WCA completo",
+      "ja": "完全なWCAプロフィールを見る",
+      "zh-Hans": "查看完整WCA资料"
+    },
+    "Popular": {
+      "en": "Popular",
+      "fr": "Populaires",
+      "es": "Populares",
+      "ja": "人気",
+      "zh-Hans": "热门"
+    },
+    "Results": {
+      "en": "Results",
+      "fr": "Résultats",
+      "es": "Resultados",
+      "ja": "結果",
+      "zh-Hans": "结果"
+    },
+    "All Countries": {
+      "en": "All Countries",
+      "fr": "Tous les pays",
+      "es": "Todos los países",
+      "ja": "すべての国",
+      "zh-Hans": "所有国家"
+    },
+    "Search countries": {
+      "en": "Search countries",
+      "fr": "Rechercher un pays",
+      "es": "Buscar países",
+      "ja": "国を検索",
+      "zh-Hans": "搜索国家"
+    },
+    "Select Country": {
+      "en": "Select Country",
+      "fr": "Sélectionner un pays",
+      "es": "Seleccionar país",
+      "ja": "国を選択",
+      "zh-Hans": "选择国家"
+    },
+    "Cancel": {
+      "en": "Cancel",
+      "fr": "Annuler",
+      "es": "Cancelar",
+      "ja": "キャンセル",
+      "zh-Hans": "取消"
+    }
+  },
+  "notes": {
+    "cubing_terminology": "SPEEDCUBING and WCA ID are intentionally kept in English/recognizable format as they are universal terms in the cubing community. WCA = World Cube Association.",
+    "wca_id_format": "YYYYNAME## format placeholder is localized to show the pattern in each language, but the actual IDs remain in English format.",
+    "punctuation": "French uses non-breaking spaces before colons and question marks (: and ?), which is applied in the translations.",
+    "formality": "Translations use polite but not overly formal language, appropriate for a cubing app targeting all ages.",
+    "review_needed": [
+      "SPEEDCUBING - Consider if localized terms exist in each language community",
+      "WCA ID format placeholder - Verify with native speakers if the pattern is clear",
+      "Nickname vs Pseudonyme (French) - Both are acceptable, but 'Pseudo' might be more common"
+    ]
+  }
+}

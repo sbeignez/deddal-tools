@@ -1,0 +1,76 @@
+#!/bin/bash
+
+# Download 6x6 parity case images from VisualCube API
+# Output directory: current directory (run from tool-assets/download/)
+
+# Base URL for VisualCube API (6x6 cube)
+base_url="https://visualcube.api.cubing.net/visualcube.php?fmt=svg&size=512&pzl=6&"
+
+# Function to URL-encode a string
+urlencode() {
+  local string="${1}"
+  local length="${#string}"
+  local encoded=""
+  local pos c
+  for (( pos=0 ; pos<length ; pos++ )); do
+    c="${string:$pos:1}"
+    case "$c" in
+      [a-zA-Z0-9.~_-]) encoded+="$c" ;;
+      "'") encoded+="%27" ;;
+      *) encoded+=$(printf '%%%02X' "'$c") ;;
+    esac
+  done
+  echo "$encoded"
+}
+
+# 6x6 Parity Cases
+# Format: filename;view;scramble_algorithm
+parity_cases=()
+
+# OLL Parity - Yellow top with one flipped dedge (6x6 uses 3-layer notation)
+# Creates OLL parity on 6x6: single flipped edge
+parity_cases+=("6x6_oll_parity;plan;3Rw U2 x 3Rw U2 3Rw U2 3Rw' U2 3Lw U2 3Rw' U2 3Rw U2 3Rw' U2 3Rw'")
+
+# PLL Adjacent Parity - Two adjacent dedges swapped
+parity_cases+=("6x6_pll_parity_adj;plan;3r2 U2 3r2 3Uw2 3r2 3Uw2")
+
+# PLL Opposite Parity - Two opposite dedges swapped
+parity_cases+=("6x6_pll_parity_opp;plan;3r2 U2 3r2 3Uw2 3r2 3u2")
+
+# PLL Diagonal Parity - Diagonal dedges swapped
+parity_cases+=("6x6_pll_parity_diag;plan;3r2 U2 3r2 3Uw2 3r2 3Uw2 U2")
+
+# PLL + U-perm - Edge parity with corner cycle
+parity_cases+=("6x6_pll_parity_uperm;plan;3r2 U2 3r2 3Uw2 3r2 3Uw2 M2 U M2 U2 M2 U M2")
+
+echo "Downloading 6x6 parity case images..."
+echo "=========================================="
+
+# Loop through cases
+for case_info in "${parity_cases[@]}"; do
+  IFS=";" read -r filename view scramble <<< "$case_info"
+
+  # URL encode the scramble
+  encoded_scramble=$(urlencode "$scramble")
+
+  # Construct URL
+  image_url="${base_url}view=${view}&alg=${encoded_scramble}"
+
+  echo "Downloading ${filename}.svg..."
+  echo "  URL: $image_url"
+
+  # Download with curl
+  curl -L -s -o "${filename}.svg" "$image_url"
+
+  # Remove white background (macOS sed syntax)
+  if [ -f "${filename}.svg" ]; then
+    sed -i '' "s/<rect fill='#FFFFFF'/<rect fill='none'/g" "${filename}.svg"
+    echo "  ✓ Downloaded and processed ${filename}.svg"
+  else
+    echo "  ✗ Failed to download ${filename}.svg"
+  fi
+done
+
+echo "=========================================="
+echo "6x6 parity image download complete!"
+echo "Total images: ${#parity_cases[@]}"

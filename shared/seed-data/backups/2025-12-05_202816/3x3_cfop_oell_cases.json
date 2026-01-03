@@ -1,0 +1,80 @@
+[
+  {
+    "id": "7c0fa2ff-ecc8-5280-90c6-e6980e439397",
+    "code": "OeLL Dot",
+    "case_set_id": "96169d2a-b5bb-4c40-ae0f-e44a418c255d",
+    "title": "Dot",
+    "long_name": "OeLL Dot Case",
+    "kind": "oell",
+    "pattern_from": "2 Layers",
+    "pattern_to": "Top Edges Oriented",
+    "scramble": "f U R U' R' f' F U R U' R' F'",
+    "notes": "No edges oriented - all four edges need to be flipped",
+    "story": null,
+    "description": null,
+    "image_asset_name": "3x3_cfop_oell_dot",
+    "difficulty": 1,
+    "popularity": 100,
+    "created_at": "2025-11-09T00:00:00Z",
+    "updated_at": "2025-11-09T00:00:00Z",
+    "groups": [
+      "pattern:edges_only",
+      "shape:dot",
+      "edges:none_oriented",
+      "corners:all_oriented",
+      "level:beginner"
+    ]
+  },
+  {
+    "id": "4caf1181-bb2b-5fd2-a119-44e79e853b63",
+    "code": "OeLL Line",
+    "case_set_id": "96169d2a-b5bb-4c40-ae0f-e44a418c255d",
+    "title": "Line",
+    "long_name": "OeLL Line Case",
+    "kind": "oell",
+    "pattern_from": "2 Layers",
+    "pattern_to": "Top Edges Oriented",
+    "scramble": "F U R U' R' F'",
+    "notes": "Two opposite edges oriented - forms a line pattern",
+    "story": null,
+    "description": null,
+    "image_asset_name": "3x3_cfop_oell_i",
+    "difficulty": 1,
+    "popularity": 100,
+    "created_at": "2025-11-09T00:00:00Z",
+    "updated_at": "2025-11-09T00:00:00Z",
+    "groups": [
+      "pattern:edges_only",
+      "shape:line",
+      "edges:two_opposite",
+      "corners:all_oriented",
+      "level:beginner"
+    ]
+  },
+  {
+    "id": "38e4ae9c-99c0-5e79-8e89-1a4e68045417",
+    "code": "OeLL L",
+    "case_set_id": "96169d2a-b5bb-4c40-ae0f-e44a418c255d",
+    "title": "L-Shape",
+    "long_name": "OeLL L-Shape Case",
+    "kind": "oell",
+    "pattern_from": "2 Layers",
+    "pattern_to": "Top Edges Oriented",
+    "scramble": "f U R U' R' f'",
+    "notes": "Two adjacent edges oriented - forms an L pattern",
+    "story": null,
+    "description": null,
+    "image_asset_name": "3x3_cfop_oell_l",
+    "difficulty": 1,
+    "popularity": 100,
+    "created_at": "2025-11-09T00:00:00Z",
+    "updated_at": "2025-11-09T00:00:00Z",
+    "groups": [
+      "pattern:edges_only",
+      "shape:l_shape",
+      "edges:two_adjacent",
+      "corners:all_oriented",
+      "level:beginner"
+    ]
+  }
+]

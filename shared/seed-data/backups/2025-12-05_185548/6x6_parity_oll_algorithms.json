@@ -1,0 +1,38 @@
+[
+  {
+    "id": "522251eb-5dd9-5e9b-9742-e6f8e0572489",
+    "case_id": "8cb6bf34-5885-5a2a-b5fc-db816df5ebea",
+    "code": "6x6-OLL-PARITY-01",
+    "sequence": "3r2 B2 U2 3l U2 3r' U2 3r U2 F2 3r F2 3l' B2 3r2",
+    "name": "Standard 6×6 OLL Parity Fix",
+    "tags": [
+      "parity",
+      "oll",
+      "6x6",
+      "standard"
+    ],
+    "popularity": 100,
+    "difficulty": 5,
+    "avg_moves": 15,
+    "avg_execution_time_ms": 4000,
+    "created_at": "2025-12-02T00:00:00Z"
+  },
+  {
+    "id": "da2291a2-0bd4-529b-9d7f-03a034245026",
+    "case_id": "8cb6bf34-5885-5a2a-b5fc-db816df5ebea",
+    "code": "6x6-OLL-PARITY-02",
+    "sequence": "3Rw U2 x 3Rw U2 3Rw U2 3Rw' U2 3Lw U2 3Rw' U2 3Rw U2 3Rw' U2 3Rw'",
+    "name": "Alternative 6×6 OLL Parity",
+    "tags": [
+      "parity",
+      "oll",
+      "6x6",
+      "alternative"
+    ],
+    "popularity": 80,
+    "difficulty": 5,
+    "avg_moves": 17,
+    "avg_execution_time_ms": 4500,
+    "created_at": "2025-12-02T00:00:00Z"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "archives": [
+    {
+      "timestamp": "2025-12-05_171158",
+      "created_at": "2025-12-05T17:11:58.274481Z",
+      "file_count": 41,
+      "total_records": 1468,
+      "notes": "Manual backup before testing new export tool"
+    },
+    {
+      "timestamp": "2025-12-05_185548",
+      "created_at": "2025-12-05T18:55:48.886617Z",
+      "file_count": 41,
+      "total_records": 1468,
+      "notes": "Pre-export backup"
+    },
+    {
+      "timestamp": "2025-12-05_202816",
+      "created_at": "2025-12-05T20:28:16.740028Z",
+      "file_count": 112,
+      "total_records": 2571,
+      "notes": "Pre-export backup"
+    }
+  ]
+}

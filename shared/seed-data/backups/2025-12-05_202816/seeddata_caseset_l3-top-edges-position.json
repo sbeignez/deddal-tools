@@ -1,0 +1,14 @@
+[
+  {
+    "id": "8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c",
+    "code": "l3-top-edges-position",
+    "name": "Top Edges Position",
+    "subtitle": "Permute yellow edges",
+    "pattern_from": "Top Corners Positioned",
+    "pattern_to": "Solved",
+    "expected_count": 1,
+    "category": "Layer-by-Layer Method",
+    "case_ids": "{3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d}",
+    "created_at": "2025-12-04T00:00:00.000Z"
+  }
+]

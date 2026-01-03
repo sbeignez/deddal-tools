@@ -1,0 +1,19 @@
+[
+  {
+    "id": "6c8405fa-365f-54c0-9fe3-43bc41ac2560",
+    "code": "6x6-oll-parity",
+    "name": "6×6 OLL Parity",
+    "subtitle": "Single Edge Flip Parity",
+    "pattern_from": "Pre-OLL with Edge Flip",
+    "pattern_to": "OLL Ready State",
+    "expected_count": 1,
+    "category": "6x6x6 - Parity",
+    "case_ids": [
+      {
+        "id": "8cb6bf34-5885-5a2a-b5fc-db816df5ebea",
+        "code": "6X6-OLL-PARITY"
+      }
+    ],
+    "created_at": "2025-12-02T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "id": "31a1618d-2275-48f9-a8ae-ecc6684c6123",
+    "code": "oll",
+    "name": "OLL",
+    "subtitle": "Orientation of the Last Layer - 1 Look",
+    "pattern_from": "2 Layers",
+    "pattern_to": "Top Oriented",
+    "expected_count": 57,
+    "category": "Last Layer - Advanced",
+    "case_ids": [
+      {
+        "id": "1930ba98-970d-427f-a7cf-0a15ed875173",
+        "code": "3X3-CFOP-OLL-1"
+      },
+      {
+        "id": "37293e6f-b59a-49ce-aad2-5212d69a0556",
+        "code": "3X3-CFOP-OLL-10"
+      },
+      {
+        "id": "1f56e8ba-aa50-4b95-b101-16c453a54542",
+        "code": "3X3-CFOP-OLL-11"
+      },
+      {
+        "id": "bf0a98f2-e0d0-4a6f-a923-7973a34ac031",
+        "code": "3X3-CFOP-OLL-12"
+      },
+      {
+        "id": "46289efe-2da4-4b66-8bc0-ab5831e5534a",
+        "code": "3X3-CFOP-OLL-13"
+      },
+      {
+        "id": "0c2e3cf9-30b2-453a-b88c-7bd30f6aee86",
+        "code": "3X3-CFOP-OLL-14"
+      },
+      {
+        "id": "86b9cf97-7803-4de8-9f3b-0c0a97c4bcc3",
+        "code": "3X3-CFOP-OLL-15"
+      },
+      {
+        "id": "278526ba-3919-40e4-8a45-71eae9b3468b",
+        "code": "3X3-CFOP-OLL-16"
+      },
+      {
+        "id": "94397de0-3a4e-4405-89df-df7cdfc86773",
+        "code": "3X3-CFOP-OLL-17"
+      },
+      {
+        "id": "657f0ad6-0259-4cc6-b552-1232429d6fa5",
+        "code": "3X3-CFOP-OLL-18"
+      },
+      {
+        "id": "4dab49c9-8a7f-41c9-a3b2-bb9be25e26a5",
+        "code": "3X3-CFOP-OLL-19"
+      },
+      {
+        "id": "dbd5f6dc-461d-41b8-b683-f0aed039e503",
+        "code": "3X3-CFOP-OLL-2"
+      },
+      {
+        "id": "e4b14c8c-cb17-4a95-add8-a88c3ff16a3e",
+        "code": "3X3-CFOP-OLL-20"
+      },
+      {
+        "id": "1a14621b-c5e6-40f5-927b-496535174695",
+        "code": "3X3-CFOP-OLL-21"
+      },
+      {
+        "id": "dd7fe948-3a7a-4f11-b6cf-eac212fedf6f",
+        "code": "3X3-CFOP-OLL-22"
+      },
+      {
+        "id": "96560e25-8aaf-44aa-8f3f-407bdfa2aaca",
+        "code": "3X3-CFOP-OLL-23"
+      },
+      {
+        "id": "8db68e7d-d970-4ead-9904-babebecd4a2f",
+        "code": "3X3-CFOP-OLL-24"
+      },
+      {
+        "id": "63891ce4-c3aa-4554-a633-fc2ad6b37776",
+        "code": "3X3-CFOP-OLL-25"
+      },
+      {
+        "id": "f38366f3-0b94-40ca-b24b-e806d7b67f13",
+        "code": "3X3-CFOP-OLL-26"
+      },
+      {
+        "id": "4f553a4d-4545-4b9a-84ca-6b8304c8885d",
+        "code": "3X3-CFOP-OLL-27"
+      },
+      {
+        "id": "29d09993-dbe3-4f50-b84a-bc721f2272c8",
+        "code": "3X3-CFOP-OLL-28"
+      },
+      {
+        "id": "ffde194f-b2cc-4e3f-8929-7e15a06fadc2",
+        "code": "3X3-CFOP-OLL-29"
+      },
+      {
+        "id": "8ac0a05a-9f47-4b02-b1cd-bfe41c472179",
+        "code": "3X3-CFOP-OLL-3"
+      },
+      {
+        "id": "bc6c12df-2128-4c50-942f-06df622fb061",
+        "code": "3X3-CFOP-OLL-30"
+      },
+      {
+        "id": "bf21beff-8887-4378-9f60-80e975283cfe",
+        "code": "3X3-CFOP-OLL-31"
+      },
+      {
+        "id": "37ebbd2c-f71b-454f-abfc-cce05a2c7090",
+        "code": "3X3-CFOP-OLL-32"
+      },
+      {
+        "id": "511d313d-881d-4860-9009-b846c6e5b4a2",
+        "code": "3X3-CFOP-OLL-33"
+      },
+      {
+        "id": "51c8881d-c4c2-4b0c-8fc7-013205454149",
+        "code": "3X3-CFOP-OLL-34"
+      },
+      {
+        "id": "4ec9488a-bcba-41f0-a2cd-42561dbf0b75",
+        "code": "3X3-CFOP-OLL-35"
+      },
+      {
+        "id": "5679ef02-b846-4ab0-8a2a-61e4451e901f",
+        "code": "3X3-CFOP-OLL-36"
+      },
+      {
+        "id": "865e41c3-cb62-4027-a616-84b85fc6dd1f",
+        "code": "3X3-CFOP-OLL-37"
+      },
+      {
+        "id": "b5440624-098a-43b5-985e-e23e00827d79",
+        "code": "3X3-CFOP-OLL-38"
+      },
+      {
+        "id": "651ba9be-35fa-4f80-912d-d2924931dfa1",
+        "code": "3X3-CFOP-OLL-39"
+      },
+      {
+        "id": "cc667dae-5262-4bab-9a06-ffe75493598d",
+        "code": "3X3-CFOP-OLL-4"
+      },
+      {
+        "id": "33425f87-91d1-43d9-bd2b-ebf2cc9ae9e5",
+        "code": "3X3-CFOP-OLL-40"
+      },
+      {
+        "id": "c7a2bb4b-6f17-4731-bbae-5365769e8033",
+        "code": "3X3-CFOP-OLL-41"
+      },
+      {
+        "id": "5f53f9fc-c0ce-47a9-b5be-47cd35cfeb42",
+        "code": "3X3-CFOP-OLL-42"
+      },
+      {
+        "id": "876e3b8f-cf89-4b1f-b601-d363b32e13f1",
+        "code": "3X3-CFOP-OLL-43"
+      },
+      {
+        "id": "1937607a-480c-43ec-b01f-14ea94d81109",
+        "code": "3X3-CFOP-OLL-44"
+      },
+      {
+        "id": "d385f34f-cfd5-47c7-ad87-975fb3db0a1d",
+        "code": "3X3-CFOP-OLL-45"
+      },
+      {
+        "id": "59715089-3869-4ebf-8852-30234b3a629e",
+        "code": "3X3-CFOP-OLL-46"
+      },
+      {
+        "id": "16e2bef0-debe-4b68-ab73-e19d9233eb86",
+        "code": "3X3-CFOP-OLL-47"
+      },
+      {
+        "id": "0a218a50-d195-4950-98d6-d85669ce5fd1",
+        "code": "3X3-CFOP-OLL-48"
+      },
+      {
+        "id": "a1251bc6-d58d-468b-a917-d8e7bc6bbf22",
+        "code": "3X3-CFOP-OLL-49"
+      },
+      {
+        "id": "1f92b3d7-4f7c-4e16-99db-8e21ccbb3b20",
+        "code": "3X3-CFOP-OLL-5"
+      },
+      {
+        "id": "fa837d91-36cc-475b-a594-1632e76f78a8",
+        "code": "3X3-CFOP-OLL-50"
+      },
+      {
+        "id": "77ce8764-9154-4b5b-9d82-75d30a6959f1",
+        "code": "3X3-CFOP-OLL-51"
+      },
+      {
+        "id": "e17ed607-0671-4c44-b8e6-57a4fcbdd8b9",
+        "code": "3X3-CFOP-OLL-52"
+      },
+      {
+        "id": "30a47ac6-b1b8-4820-9608-9df55bc7691a",
+        "code": "3X3-CFOP-OLL-53"
+      },
+      {
+        "id": "9ee537b9-69e3-4373-a333-17b275a77b1e",
+        "code": "3X3-CFOP-OLL-54"
+      },
+      {
+        "id": "4383f50b-5ddd-4804-a63b-69529cb8221e",
+        "code": "3X3-CFOP-OLL-55"
+      },
+      {
+        "id": "e93bd685-abb8-4ff4-8c88-dff8f6896abc",
+        "code": "3X3-CFOP-OLL-56"
+      },
+      {
+        "id": "bd1da478-ce55-4374-96bd-509d8b0f0af7",
+        "code": "3X3-CFOP-OLL-57"
+      },
+      {
+        "id": "4650a24a-d0e2-48f8-86ad-baadf3580d9d",
+        "code": "3X3-CFOP-OLL-6"
+      },
+      {
+        "id": "bf80c726-418d-46ab-8a8c-bc2777be57ce",
+        "code": "3X3-CFOP-OLL-7"
+      },
+      {
+        "id": "aa4c75e7-59cb-40d9-9f76-d929911582b0",
+        "code": "3X3-CFOP-OLL-8"
+      },
+      {
+        "id": "65d4cd56-27b2-4980-8b2d-949e93e31f56",
+        "code": "3X3-CFOP-OLL-9"
+      }
+    ],
+    "created_at": "2025-10-23T19:16:46.741Z"
+  }
+]

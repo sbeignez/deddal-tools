@@ -1,0 +1,27 @@
+[
+  {
+    "id": "29a261a9-bd02-51d5-b12a-ae0913bcb32c",
+    "code": "4x4-OLL-PARITY",
+    "case_set_id": "1b40c0a1-02a4-57a0-bd5a-87fede1db5ba",
+    "title": "OLL Parity",
+    "long_name": "4×4 OLL Parity - Flipped Edge",
+    "kind": "4x4_oll_parity",
+    "pattern_from": "Pre-OLL with Edge Flip",
+    "pattern_to": "OLL Ready State",
+    "scramble": "r2 B2 U2 l U2 r' U2 r U2 F2 r F2 l' B2 r2",
+    "notes": "Single flipped edge pair on top layer - occurs in 50% of 4×4 solves during OLL stage",
+    "story": "This parity occurs when two adjacent edge pieces are flipped during the last layer. It's impossible on 3×3 but common on 4×4 due to the center-less nature of even cubes.",
+    "description": "The most common 4×4 parity case. Two edge pieces appear flipped when you reach OLL. Fix with a long algorithm before continuing with normal OLL.",
+    "image_asset_name": "4x4_oll_parity",
+    "difficulty": 4,
+    "popularity": 100,
+    "created_at": "2025-12-02T00:00:00Z",
+    "groups": [
+      "type:parity",
+      "type:oll_parity",
+      "puzzle:4x4",
+      "stage:oll",
+      "level:intermediate"
+    ]
+  }
+]

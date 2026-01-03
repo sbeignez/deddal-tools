@@ -1,0 +1,23 @@
+[
+  {
+    "id": "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
+    "code": "l2-second-layer-edges",
+    "name": "Second Layer Edges",
+    "subtitle": "Complete the middle layer",
+    "pattern_from": "First Layer Complete",
+    "pattern_to": "Second Layer Complete",
+    "expected_count": 2,
+    "category": "Layer-by-Layer Method",
+    "case_ids": [
+      {
+        "id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+        "code": "3X3-LBL-SECOND-LAYER-EDGES-LEFT"
+      },
+      {
+        "id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+        "code": "3X3-LBL-SECOND-LAYER-EDGES-RIGHT"
+      }
+    ],
+    "created_at": "2025-12-04T00:00:00.000Z"
+  }
+]

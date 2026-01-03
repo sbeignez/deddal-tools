@@ -1,0 +1,54 @@
+[
+  {
+    "id": "e3cafb06-4419-51fe-b24a-7ceccfc857bc",
+    "code": "PcLL Adjacent",
+    "case_set_id": "8dfd8ef3-5e4a-4888-8c09-edc72578edd4",
+    "title": "Adjacent Swap",
+    "long_name": "PcLL Adjacent Corner Swap",
+    "kind": "pcll",
+    "pattern_from": "Top Oriented",
+    "pattern_to": "Top Corners Permuted",
+    "scramble": "R' U L U' R U L'",
+    "notes": "Two adjacent corners need to swap positions",
+    "story": null,
+    "description": null,
+    "image_asset_name": "3x3_cfop_pcll_adj",
+    "difficulty": 2,
+    "popularity": 95,
+    "created_at": "2025-11-09T00:00:00Z",
+    "updated_at": "2025-11-09T00:00:00Z",
+    "groups": [
+      "type:corner_swap",
+      "type:adjacent_swap",
+      "corners:two_swap",
+      "edges:solved",
+      "level:beginner"
+    ]
+  },
+  {
+    "id": "adeacbce-2b37-53f7-a85f-56fa81b964c4",
+    "code": "PcLL Diagonal",
+    "case_set_id": "8dfd8ef3-5e4a-4888-8c09-edc72578edd4",
+    "title": "Diagonal Swap",
+    "long_name": "PcLL Diagonal Corner Swap",
+    "kind": "pcll",
+    "pattern_from": "Top Oriented",
+    "pattern_to": "Top Corners Permuted",
+    "scramble": "F R' F' R U R U' R' F' R U' R U R' U R' F",
+    "notes": "Two diagonal corners need to swap positions",
+    "story": null,
+    "description": null,
+    "image_asset_name": "3x3_cfop_pcll_dia",
+    "difficulty": 3,
+    "popularity": 95,
+    "created_at": "2025-11-09T00:00:00Z",
+    "updated_at": "2025-11-09T00:00:00Z",
+    "groups": [
+      "type:corner_swap",
+      "type:diagonal_swap",
+      "corners:two_swap",
+      "edges:solved",
+      "level:beginner"
+    ]
+  }
+]

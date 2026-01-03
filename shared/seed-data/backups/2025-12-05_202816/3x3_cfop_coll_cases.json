@@ -1,0 +1,402 @@
+[
+  {
+    "id": "8cf8b735-d423-4711-bfc1-1efeea06ea78",
+    "code": "COLL-01-anti-sune",
+    "name": "COLL-01 (Anti Sune)",
+    "category": "Anti Sune",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.237612Z",
+    "updated_at": "2025-12-01T08:22:23.237821Z"
+  },
+  {
+    "id": "c1d97f9c-4bf7-4b33-9683-e0e9774f4992",
+    "code": "COLL-01-h",
+    "name": "COLL-01 (H)",
+    "category": "H",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.237894Z",
+    "updated_at": "2025-12-01T08:22:23.237895Z"
+  },
+  {
+    "id": "28b6f97f-e461-4bf5-9532-5c55c4b477b9",
+    "code": "COLL-01-l",
+    "name": "COLL-01 (L)",
+    "category": "L",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.237956Z",
+    "updated_at": "2025-12-01T08:22:23.237957Z"
+  },
+  {
+    "id": "ab5af1ad-71a0-43d2-b8e4-031bafec8171",
+    "code": "COLL-01-pi",
+    "name": "COLL-01 (Pi)",
+    "category": "Pi",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238028Z",
+    "updated_at": "2025-12-01T08:22:23.238029Z"
+  },
+  {
+    "id": "185f2e6e-e1aa-4032-85d6-48e125e8afd1",
+    "code": "COLL-01-sune",
+    "name": "COLL-01 (Sune)",
+    "category": "Sune",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238073Z",
+    "updated_at": "2025-12-01T08:22:23.238074Z"
+  },
+  {
+    "id": "c7e01f5b-fa5d-44be-bb86-140acbc9b918",
+    "code": "COLL-01-t",
+    "name": "COLL-01 (T)",
+    "category": "T",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238114Z",
+    "updated_at": "2025-12-01T08:22:23.238115Z"
+  },
+  {
+    "id": "725f9eda-5e81-4d6f-9a44-c94ad156819c",
+    "code": "COLL-01-u",
+    "name": "COLL-01 (U)",
+    "category": "U",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238189Z",
+    "updated_at": "2025-12-01T08:22:23.238190Z"
+  },
+  {
+    "id": "2b2a6b8f-d055-499b-a88b-3cd988eef422",
+    "code": "COLL-02-anti-sune",
+    "name": "COLL-02 (Anti Sune)",
+    "category": "Anti Sune",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238257Z",
+    "updated_at": "2025-12-01T08:22:23.238258Z"
+  },
+  {
+    "id": "bc037188-3aa7-4720-8df4-cf899b4fb256",
+    "code": "COLL-02-h",
+    "name": "COLL-02 (H)",
+    "category": "H",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238322Z",
+    "updated_at": "2025-12-01T08:22:23.238323Z"
+  },
+  {
+    "id": "68154585-2c80-4e38-918f-f5f1c86d2369",
+    "code": "COLL-02-l",
+    "name": "COLL-02 (L)",
+    "category": "L",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238386Z",
+    "updated_at": "2025-12-01T08:22:23.238387Z"
+  },
+  {
+    "id": "cf50f665-73c4-45c4-bab5-44418a17e7a5",
+    "code": "COLL-02-pi",
+    "name": "COLL-02 (Pi)",
+    "category": "Pi",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238425Z",
+    "updated_at": "2025-12-01T08:22:23.238426Z"
+  },
+  {
+    "id": "ab3cfd85-c133-4f6a-b695-fd5acbf33f78",
+    "code": "COLL-02-sune",
+    "name": "COLL-02 (Sune)",
+    "category": "Sune",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238489Z",
+    "updated_at": "2025-12-01T08:22:23.238490Z"
+  },
+  {
+    "id": "6e18718f-3a1e-4e72-890d-d700834a736b",
+    "code": "COLL-02-t",
+    "name": "COLL-02 (T)",
+    "category": "T",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238558Z",
+    "updated_at": "2025-12-01T08:22:23.238559Z"
+  },
+  {
+    "id": "441d1576-1804-4d3b-ae30-49c0fb5d940e",
+    "code": "COLL-02-u",
+    "name": "COLL-02 (U)",
+    "category": "U",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238635Z",
+    "updated_at": "2025-12-01T08:22:23.238635Z"
+  },
+  {
+    "id": "52d9cfa7-989a-4369-be7f-b03aef801f7c",
+    "code": "COLL-03-anti-sune",
+    "name": "COLL-03 (Anti Sune)",
+    "category": "Anti Sune",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238741Z",
+    "updated_at": "2025-12-01T08:22:23.238742Z"
+  },
+  {
+    "id": "6c409120-8bef-4cd8-910d-c2bd54a86e6d",
+    "code": "COLL-03-h",
+    "name": "COLL-03 (H)",
+    "category": "H",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238812Z",
+    "updated_at": "2025-12-01T08:22:23.238813Z"
+  },
+  {
+    "id": "a5a91a0b-609b-40fe-a42b-81a9e948238f",
+    "code": "COLL-03-l",
+    "name": "COLL-03 (L)",
+    "category": "L",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238862Z",
+    "updated_at": "2025-12-01T08:22:23.238863Z"
+  },
+  {
+    "id": "c02905ee-d848-4042-8702-5ef6f0e7a5f1",
+    "code": "COLL-03-pi",
+    "name": "COLL-03 (Pi)",
+    "category": "Pi",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238906Z",
+    "updated_at": "2025-12-01T08:22:23.238907Z"
+  },
+  {
+    "id": "fc82677c-48dc-4f0b-95fe-f63bd0714a51",
+    "code": "COLL-03-sune",
+    "name": "COLL-03 (Sune)",
+    "category": "Sune",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.238962Z",
+    "updated_at": "2025-12-01T08:22:23.238962Z"
+  },
+  {
+    "id": "6df288b2-1545-409e-bc72-91dc093264be",
+    "code": "COLL-03-t",
+    "name": "COLL-03 (T)",
+    "category": "T",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239008Z",
+    "updated_at": "2025-12-01T08:22:23.239009Z"
+  },
+  {
+    "id": "08b05967-f5a2-424f-99e6-aa683728e523",
+    "code": "COLL-03-u",
+    "name": "COLL-03 (U)",
+    "category": "U",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239076Z",
+    "updated_at": "2025-12-01T08:22:23.239077Z"
+  },
+  {
+    "id": "642c4349-987b-4b45-b4f2-f4cecb477805",
+    "code": "COLL-04-anti-sune",
+    "name": "COLL-04 (Anti Sune)",
+    "category": "Anti Sune",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239130Z",
+    "updated_at": "2025-12-01T08:22:23.239131Z"
+  },
+  {
+    "id": "8c96ea60-ec95-4c63-b316-05304f0de95b",
+    "code": "COLL-04-h",
+    "name": "COLL-04 (H)",
+    "category": "H",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239191Z",
+    "updated_at": "2025-12-01T08:22:23.239191Z"
+  },
+  {
+    "id": "63d77823-aba5-48d4-adb5-9f58659f8fed",
+    "code": "COLL-04-l",
+    "name": "COLL-04 (L)",
+    "category": "L",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239262Z",
+    "updated_at": "2025-12-01T08:22:23.239263Z"
+  },
+  {
+    "id": "fe5a2dae-0d29-468e-acf8-d93ed2472ac9",
+    "code": "COLL-04-pi",
+    "name": "COLL-04 (Pi)",
+    "category": "Pi",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239331Z",
+    "updated_at": "2025-12-01T08:22:23.239331Z"
+  },
+  {
+    "id": "8eb2f69e-0d7d-42e6-923b-53c6a619fbf9",
+    "code": "COLL-04-sune",
+    "name": "COLL-04 (Sune)",
+    "category": "Sune",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239377Z",
+    "updated_at": "2025-12-01T08:22:23.239378Z"
+  },
+  {
+    "id": "678c90a6-f21e-4885-9bcc-066df3a7b4bc",
+    "code": "COLL-04-t",
+    "name": "COLL-04 (T)",
+    "category": "T",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239420Z",
+    "updated_at": "2025-12-01T08:22:23.239421Z"
+  },
+  {
+    "id": "b839cd35-3e39-4691-a9a3-844c187e9100",
+    "code": "COLL-04-u",
+    "name": "COLL-04 (U)",
+    "category": "U",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239497Z",
+    "updated_at": "2025-12-01T08:22:23.239498Z"
+  },
+  {
+    "id": "8ae16165-373b-4252-86f5-9c508aff8b95",
+    "code": "COLL-05-anti-sune",
+    "name": "COLL-05 (Anti Sune)",
+    "category": "Anti Sune",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239559Z",
+    "updated_at": "2025-12-01T08:22:23.239560Z"
+  },
+  {
+    "id": "df545338-8478-4109-8642-9a2b760ac3e6",
+    "code": "COLL-05-l",
+    "name": "COLL-05 (L)",
+    "category": "L",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239607Z",
+    "updated_at": "2025-12-01T08:22:23.239607Z"
+  },
+  {
+    "id": "2495f6d4-8bd0-43fd-959f-e12e7c808da0",
+    "code": "COLL-05-pi",
+    "name": "COLL-05 (Pi)",
+    "category": "Pi",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239689Z",
+    "updated_at": "2025-12-01T08:22:23.239690Z"
+  },
+  {
+    "id": "acf663aa-b085-4ead-a5ef-8a2e3a5e65f5",
+    "code": "COLL-05-sune",
+    "name": "COLL-05 (Sune)",
+    "category": "Sune",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239763Z",
+    "updated_at": "2025-12-01T08:22:23.239763Z"
+  },
+  {
+    "id": "6f4a5d95-db2e-4e51-8a65-1f7d719229b7",
+    "code": "COLL-05-t",
+    "name": "COLL-05 (T)",
+    "category": "T",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239810Z",
+    "updated_at": "2025-12-01T08:22:23.239811Z"
+  },
+  {
+    "id": "79e74dd0-fb1d-4a6a-8bff-7faf9ce5e7c6",
+    "code": "COLL-05-u",
+    "name": "COLL-05 (U)",
+    "category": "U",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239866Z",
+    "updated_at": "2025-12-01T08:22:23.239867Z"
+  },
+  {
+    "id": "e5023ad2-5d7c-40f1-bad7-d7d3d99dc456",
+    "code": "COLL-06-anti-sune",
+    "name": "COLL-06 (Anti Sune)",
+    "category": "Anti Sune",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239905Z",
+    "updated_at": "2025-12-01T08:22:23.239906Z"
+  },
+  {
+    "id": "e5f42a8c-bfa1-4ed8-a2cf-c22c31dfa85d",
+    "code": "COLL-06-l",
+    "name": "COLL-06 (L)",
+    "category": "L",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.239977Z",
+    "updated_at": "2025-12-01T08:22:23.239977Z"
+  },
+  {
+    "id": "cb90bc56-2fbb-4070-bf47-726c7ae57e1d",
+    "code": "COLL-06-pi",
+    "name": "COLL-06 (Pi)",
+    "category": "Pi",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.240046Z",
+    "updated_at": "2025-12-01T08:22:23.240047Z"
+  },
+  {
+    "id": "c0a11010-ce8d-46d0-a9bc-5d7e1219d75e",
+    "code": "COLL-06-sune",
+    "name": "COLL-06 (Sune)",
+    "category": "Sune",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.240146Z",
+    "updated_at": "2025-12-01T08:22:23.240147Z"
+  },
+  {
+    "id": "ca15c4a4-83f6-4443-a07a-0817a27c8a18",
+    "code": "COLL-06-t",
+    "name": "COLL-06 (T)",
+    "category": "T",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.240200Z",
+    "updated_at": "2025-12-01T08:22:23.240201Z"
+  },
+  {
+    "id": "3828b3c6-0b21-411c-a105-457669138ef3",
+    "code": "COLL-06-u",
+    "name": "COLL-06 (U)",
+    "category": "U",
+    "step": "COLL",
+    "difficulty": "advanced",
+    "created_at": "2025-12-01T08:22:23.240262Z",
+    "updated_at": "2025-12-01T08:22:23.240263Z"
+  }
+]

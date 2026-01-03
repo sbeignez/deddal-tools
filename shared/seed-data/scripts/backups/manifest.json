@@ -1,0 +1,67 @@
+{
+  "archives": [
+    {
+      "timestamp": "2025-12-08_233356",
+      "created_at": "2025-12-08T23:33:56.842722Z",
+      "file_count": 71,
+      "total_records": 1103,
+      "notes": "Pre-deployment backup (staging: 2025-12-08_233312)"
+    },
+    {
+      "timestamp": "2025-12-11_130047",
+      "created_at": "2025-12-11T13:00:47.620346Z",
+      "file_count": 71,
+      "total_records": 1103,
+      "notes": "Pre-deployment backup (staging: 2025-12-11_130002)"
+    },
+    {
+      "timestamp": "2025-12-11_130733",
+      "created_at": "2025-12-11T13:07:33.734969Z",
+      "file_count": 72,
+      "total_records": 1508,
+      "notes": "Pre-deployment backup (staging: 2025-12-11_130426)"
+    },
+    {
+      "timestamp": "2025-12-11_135012",
+      "created_at": "2025-12-11T13:50:12.991969Z",
+      "file_count": 72,
+      "total_records": 1508,
+      "notes": "Pre-deployment backup (staging: 2025-12-11_134755)"
+    },
+    {
+      "timestamp": "2025-12-11_182920",
+      "created_at": "2025-12-11T18:29:20.821569Z",
+      "file_count": 74,
+      "total_records": 3079,
+      "notes": "Pre-deployment backup (staging: 2025-12-11_182841)"
+    },
+    {
+      "timestamp": "2025-12-11_213135",
+      "created_at": "2025-12-11T21:31:35.596219Z",
+      "file_count": 1,
+      "total_records": 42,
+      "notes": "Pre-export backup"
+    },
+    {
+      "timestamp": "2025-12-11_213150",
+      "created_at": "2025-12-11T21:31:50.992508Z",
+      "file_count": 1,
+      "total_records": 42,
+      "notes": "Pre-export backup"
+    },
+    {
+      "timestamp": "2025-12-23_035617",
+      "created_at": "2025-12-23T03:56:17.849214Z",
+      "file_count": 86,
+      "total_records": 3776,
+      "notes": "Pre-export backup"
+    },
+    {
+      "timestamp": "2025-12-23_154309",
+      "created_at": "2025-12-23T15:43:09.428262Z",
+      "file_count": 86,
+      "total_records": 3776,
+      "notes": "Pre-export backup"
+    }
+  ]
+}

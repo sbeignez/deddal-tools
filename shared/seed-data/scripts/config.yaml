@@ -1,0 +1,41 @@
+ # Seed Data Export Configuration
+#
+# NOTE: This tool now uses DYNAMIC DISCOVERY from the database.
+# Files are NOT hardcoded in this config - they are discovered at runtime
+# by querying lib_casesets table.
+#
+# For each case set found in the database, 3 files are automatically generated:
+#   1. {caseset_code}_case_sets.json    - Case set metadata
+#   2. {caseset_code}_cases.json        - All cases in that case set
+#   3. {caseset_code}_algorithms.json   - All algorithms for those cases
+#
+# Example: For case set with code "3x3-cfop-f2l", generates:
+#   - 3x3-cfop-f2l_case_sets.json
+#   - 3x3-cfop-f2l_cases.json
+#   - 3x3-cfop-f2l_algorithms.json
+
+# Output directory (relative to script location)
+output_dir: ../../DeddalInfra/Infrastructure/Persistence/SeedData
+
+# Database connection (loaded from .env file)
+# Required environment variables:
+#   - SUPABASE_HOST
+#   - SUPABASE_DB
+#   - SUPABASE_USER
+#   - SUPABASE_PASSWORD
+#   - SUPABASE_PORT (optional, defaults to 5432)
+
+# Export behavior
+# All files are optional by default (empty case sets are skipped)
+# Use --file flag to export specific files for testing
+
+# Two-step workflow (stage → review → deploy)
+# - Step 1 - Stage: Export database to staging/ directory with HTML report
+# - Step 2 - Deploy: Copy reviewed staging files to final output directory
+#
+# Commands:
+#   python scripts/01-stage.py                              # Export to staging/
+#   open staging/TIMESTAMP/reports/export_report.html       # Review HTML report
+#   python scripts/02-deploy.py TIMESTAMP                   # Deploy to output_dir/
+#   python scripts/02-deploy.py --latest                    # Deploy most recent
+#   python scripts/02-deploy.py --list-staged               # List available staged exports

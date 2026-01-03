@@ -1,0 +1,163 @@
+[
+  {
+    "id": "13b3c3d3-e3f3-a3b3-c3d3-e3f3a3b3c3d3",
+    "case_id": "d0e1f2a3-b4c5-6789-d123-890123456789",
+    "code": "2X2-ORTEGA-PBL-3-01",
+    "sequence": "R2 F2 R2",
+    "name": "Diagonal (Standard)",
+    "tags": [
+      "standard",
+      "fast"
+    ],
+    "popularity": 100,
+    "difficulty": 1,
+    "avg_moves": 3,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "11b1c1d1-e1f1-a1b1-c1d1-e1f1a1b1c1d1",
+    "case_id": "b8c9d0e1-f2a3-4567-b123-678901234567",
+    "code": "2X2-ORTEGA-PBL-1-01",
+    "sequence": "R U' R F2 R' U R'",
+    "name": "Adjacent (Fast)",
+    "tags": [
+      "fast"
+    ],
+    "popularity": 95,
+    "difficulty": 2,
+    "avg_moves": 7,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "15b5c5d5-e5f5-a5b5-c5d5-e5f5a5b5c5d5",
+    "case_id": "f2a3b4c5-d6e7-8901-f123-012345678901",
+    "code": "2X2-ORTEGA-PBL-5-01",
+    "sequence": "R U' R F2 R' U R'",
+    "name": "Adj-Opp (Standard)",
+    "tags": [
+      "standard"
+    ],
+    "popularity": 95,
+    "difficulty": 2,
+    "avg_moves": 7,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "14b4c4d4-e4f4-a4b4-c4d4-e4f4a4b4c4d4",
+    "case_id": "e1f2a3b4-c5d6-7890-e123-901234567890",
+    "code": "2X2-ORTEGA-PBL-4-01",
+    "sequence": "R2 U' B2 U2 R2 U' R2",
+    "name": "Adj-Adj (Standard)",
+    "tags": [
+      "standard"
+    ],
+    "popularity": 90,
+    "difficulty": 3,
+    "avg_moves": 7,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "12b2c2d2-e2f2-a2b2-c2d2-e2f2a2b2c2d2",
+    "case_id": "c9d0e1f2-a3b4-5678-c123-789012345678",
+    "code": "2X2-ORTEGA-PBL-2-01",
+    "sequence": "R U' R' U' F2 U' R U R' U F2",
+    "name": "Opposite (Standard)",
+    "tags": [
+      "standard"
+    ],
+    "popularity": 85,
+    "difficulty": 3,
+    "avg_moves": 11,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "13b3c3d3-e3f3-a3b3-c3d3-e3f3a3b3c3d4",
+    "case_id": "d0e1f2a3-b4c5-6789-d123-890123456789",
+    "code": "2X2-ORTEGA-PBL-3-02",
+    "sequence": "F2 R2 F2",
+    "name": "Diagonal (F2 variant)",
+    "tags": [
+      "alternative"
+    ],
+    "popularity": 80,
+    "difficulty": 1,
+    "avg_moves": 3,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "15b5c5d5-e5f5-a5b5-c5d5-e5f5a5b5c5d6",
+    "case_id": "f2a3b4c5-d6e7-8901-f123-012345678901",
+    "code": "2X2-ORTEGA-PBL-5-02",
+    "sequence": "R U R' F2 R U' R'",
+    "name": "Adj-Opp (Alternative)",
+    "tags": [
+      "alternative"
+    ],
+    "popularity": 75,
+    "difficulty": 2,
+    "avg_moves": 7,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "11b1c1d1-e1f1-a1b1-c1d1-e1f1a1b1c1d2",
+    "case_id": "b8c9d0e1-f2a3-4567-b123-678901234567",
+    "code": "2X2-ORTEGA-PBL-1-02",
+    "sequence": "y R U R' F' R U R' U' R' F R2 U' R'",
+    "name": "Adjacent (T-Perm variant)",
+    "tags": [
+      "alternative"
+    ],
+    "popularity": 70,
+    "difficulty": 3,
+    "avg_moves": 13,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "14b4c4d4-e4f4-a4b4-c4d4-e4f4a4b4c4d5",
+    "case_id": "e1f2a3b4-c5d6-7890-e123-901234567890",
+    "code": "2X2-ORTEGA-PBL-4-02",
+    "sequence": "F2 U' R2 U2 F2 U' F2",
+    "name": "Adj-Adj (F2 variant)",
+    "tags": [
+      "alternative"
+    ],
+    "popularity": 65,
+    "difficulty": 3,
+    "avg_moves": 7,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "12b2c2d2-e2f2-a2b2-c2d2-e2f2a2b2c2d3",
+    "case_id": "c9d0e1f2-a3b4-5678-c123-789012345678",
+    "code": "2X2-ORTEGA-PBL-2-02",
+    "sequence": "F R U' R' U' R U R' F' R U R' U' R' F R F'",
+    "name": "Opposite (Y-Perm variant)",
+    "tags": [
+      "alternative"
+    ],
+    "popularity": 60,
+    "difficulty": 3,
+    "avg_moves": 17,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-01-10T00:00:00.000Z"
+  }
+]

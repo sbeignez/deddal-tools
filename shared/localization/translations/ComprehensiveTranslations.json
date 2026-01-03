@@ -1,0 +1,621 @@
+{
+  "metadata": {
+    "generated": "2025-10-25",
+    "total_strings": 85,
+    "languages": ["fr", "es", "ja", "zh-Hans"],
+    "priority_breakdown": {
+      "high": 45,
+      "medium": 30,
+      "low": 10
+    },
+    "notes": "AI-generated translations. Native speaker review recommended before production."
+  },
+  "translations": {
+    "navigation_titles": {
+      "priority": "high",
+      "strings": {
+        "Hi %@!": {
+          "context": "HomeView: Greeting with user's name",
+          "en": "Hi %@!",
+          "fr": "Salut %@ !",
+          "es": "¡Hola %@!",
+          "ja": "こんにちは、%@さん！",
+          "zh-Hans": "你好，%@！"
+        },
+        "Learn": {
+          "context": "Navigation title for learning/progress screens",
+          "en": "Learn",
+          "fr": "Apprendre",
+          "es": "Aprender",
+          "ja": "学習",
+          "zh-Hans": "学习"
+        },
+        "Add Solve": {
+          "context": "Navigation title for adding a solve time",
+          "en": "Add Solve",
+          "fr": "Ajouter un résultat",
+          "es": "Añadir resolución",
+          "ja": "解決を追加",
+          "zh-Hans": "添加复原"
+        },
+        "Learning References": {
+          "context": "Navigation title for reference materials",
+          "en": "Learning References",
+          "fr": "Références d'apprentissage",
+          "es": "Referencias de aprendizaje",
+          "ja": "学習リファレンス",
+          "zh-Hans": "学习参考"
+        },
+        "Add Reference": {
+          "context": "Navigation title for adding a reference",
+          "en": "Add Reference",
+          "fr": "Ajouter une référence",
+          "es": "Añadir referencia",
+          "ja": "参考を追加",
+          "zh-Hans": "添加参考"
+        },
+        "Set: %@": {
+          "context": "Navigation title showing case set name",
+          "en": "Set: %@",
+          "fr": "Ensemble : %@",
+          "es": "Conjunto: %@",
+          "ja": "セット: %@",
+          "zh-Hans": "套组：%@"
+        },
+        "Algorithm": {
+          "context": "Navigation title or label for algorithm",
+          "en": "Algorithm",
+          "fr": "Algorithme",
+          "es": "Algoritmo",
+          "ja": "アルゴリズム",
+          "zh-Hans": "算法"
+        }
+      }
+    },
+    "error_messages": {
+      "priority": "high",
+      "strings": {
+        "No connection or need for update": {
+          "context": "HomeView: Error when no connection or update needed",
+          "en": "No connection or need for update",
+          "fr": "Pas de connexion ou mise à jour nécessaire",
+          "es": "Sin conexión o necesita actualización",
+          "ja": "接続なし、または更新が必要",
+          "zh-Hans": "无连接或需要更新"
+        },
+        "No solves yet.": {
+          "context": "Progress_CaseView: Empty state message",
+          "en": "No solves yet.",
+          "fr": "Aucun résultat pour l'instant.",
+          "es": "Aún no hay resoluciones.",
+          "ja": "まだ解決記録がありません。",
+          "zh-Hans": "还没有复原记录。"
+        },
+        "No references found": {
+          "context": "ReferenceListView: Empty state when no references",
+          "en": "No references found",
+          "fr": "Aucune référence trouvée",
+          "es": "No se encontraron referencias",
+          "ja": "参考が見つかりません",
+          "zh-Hans": "未找到参考资料"
+        }
+      }
+    },
+    "case_labels": {
+      "priority": "high",
+      "strings": {
+        "Case": {
+          "context": "Label for algorithm case",
+          "en": "Case",
+          "fr": "Cas",
+          "es": "Caso",
+          "ja": "ケース",
+          "zh-Hans": "情况"
+        },
+        "New": {
+          "context": "Knowledge level: Not learned yet",
+          "en": "New",
+          "fr": "Nouveau",
+          "es": "Nuevo",
+          "ja": "新規",
+          "zh-Hans": "新"
+        },
+        "Hard": {
+          "context": "Knowledge level: Difficult to remember",
+          "en": "Hard",
+          "fr": "Difficile",
+          "es": "Difícil",
+          "ja": "難",
+          "zh-Hans": "难"
+        },
+        "Good": {
+          "context": "Knowledge level: Comfortable with it",
+          "en": "Good",
+          "fr": "Bien",
+          "es": "Bien",
+          "ja": "良",
+          "zh-Hans": "好"
+        },
+        "Easy": {
+          "context": "Knowledge level: Mastered",
+          "en": "Easy",
+          "fr": "Facile",
+          "es": "Fácil",
+          "ja": "簡単",
+          "zh-Hans": "简单"
+        }
+      }
+    },
+    "buttons_and_actions": {
+      "priority": "high",
+      "strings": {
+        "Add time": {
+          "context": "Button to add solve time",
+          "en": "Add time",
+          "fr": "Ajouter un temps",
+          "es": "Añadir tiempo",
+          "ja": "タイムを追加",
+          "zh-Hans": "添加时间"
+        },
+        "Start Practice Session": {
+          "context": "Button to begin practice",
+          "en": "Start Practice Session",
+          "fr": "Démarrer une session d'entraînement",
+          "es": "Iniciar sesión de práctica",
+          "ja": "練習セッションを開始",
+          "zh-Hans": "开始练习"
+        },
+        "Details": {
+          "context": "Button or section for solve details",
+          "en": "Details",
+          "fr": "Détails",
+          "es": "Detalles",
+          "ja": "詳細",
+          "zh-Hans": "详情"
+        }
+      }
+    },
+    "section_headers": {
+      "priority": "medium",
+      "strings": {
+        "Solve time": {
+          "context": "Section header for solve time input",
+          "en": "Solve time",
+          "fr": "Temps de résolution",
+          "es": "Tiempo de resolución",
+          "ja": "解決時間",
+          "zh-Hans": "复原时间"
+        },
+        "Recent solves (%lld)": {
+          "context": "Section header with count of recent solves",
+          "en": "Recent solves (%lld)",
+          "fr": "Résultats récents (%lld)",
+          "es": "Resoluciones recientes (%lld)",
+          "ja": "最近の解決 (%lld)",
+          "zh-Hans": "最近的复原 (%lld)"
+        }
+      }
+    },
+    "status_and_info": {
+      "priority": "medium",
+      "strings": {
+        "%@ progress": {
+          "context": "Accessibility label for progress",
+          "en": "%@ progress",
+          "fr": "Progression %@",
+          "es": "Progreso de %@",
+          "ja": "%@の進捗",
+          "zh-Hans": "%@进度"
+        },
+        "%lld of %lld references": {
+          "context": "Shows filtered vs total reference count",
+          "en": "%lld of %lld references",
+          "fr": "%lld sur %lld références",
+          "es": "%lld de %lld referencias",
+          "ja": "%lld / %lld 参考",
+          "zh-Hans": "%lld / %lld 参考"
+        },
+        "Sort: %@": {
+          "context": "Shows current sort option",
+          "en": "Sort: %@",
+          "fr": "Tri : %@",
+          "es": "Ordenar: %@",
+          "ja": "並べ替え: %@",
+          "zh-Hans": "排序：%@"
+        }
+      }
+    },
+    "library_and_algorithm": {
+      "priority": "medium",
+      "strings": {
+        "This is your favorite algorithm for this case. Each case has one favorite. You can change it by selecting another algorithm on the case page.": {
+          "context": "Explanation about favorite algorithms",
+          "en": "This is your favorite algorithm for this case. Each case has one favorite. You can change it by selecting another algorithm on the case page.",
+          "fr": "Ceci est votre algorithme favori pour ce cas. Chaque cas a un favori. Vous pouvez le changer en sélectionnant un autre algorithme sur la page du cas.",
+          "es": "Este es tu algoritmo favorito para este caso. Cada caso tiene un favorito. Puedes cambiarlo seleccionando otro algoritmo en la página del caso.",
+          "ja": "これはこのケースのお気に入りアルゴリズムです。各ケースに1つのお気に入りがあります。ケースページで別のアルゴリズムを選択して変更できます。",
+          "zh-Hans": "这是此情况的收藏算法。每个情况有一个收藏。您可以在情况页面选择其他算法来更改它。"
+        }
+      }
+    },
+    "common_ui_patterns": {
+      "priority": "high",
+      "strings": {
+        "%lld cases": {
+          "context": "Count of algorithm cases (plural)",
+          "en": "%lld cases",
+          "fr": "%lld cas",
+          "es": "%lld casos",
+          "ja": "%lld ケース",
+          "zh-Hans": "%lld 情况"
+        },
+        "%lld/%lld": {
+          "context": "Progress ratio (learned/total)",
+          "en": "%lld/%lld",
+          "fr": "%lld/%lld",
+          "es": "%lld/%lld",
+          "ja": "%lld/%lld",
+          "zh-Hans": "%lld/%lld"
+        }
+      }
+    },
+    "cubing_specific_terms": {
+      "priority": "high",
+      "notes": "These are cubing community terms. Consider keeping some in English or using localized variants if they exist.",
+      "strings": {
+        "F2L": {
+          "context": "First Two Layers method",
+          "en": "F2L",
+          "fr": "F2L",
+          "es": "F2L",
+          "ja": "F2L",
+          "zh-Hans": "F2L",
+          "note": "Universal cubing abbreviation, typically not translated"
+        },
+        "OLL": {
+          "context": "Orientation of Last Layer",
+          "en": "OLL",
+          "fr": "OLL",
+          "es": "OLL",
+          "ja": "OLL",
+          "zh-Hans": "OLL",
+          "note": "Universal cubing abbreviation, typically not translated"
+        },
+        "PLL": {
+          "context": "Permutation of Last Layer",
+          "en": "PLL",
+          "fr": "PLL",
+          "es": "PLL",
+          "ja": "PLL",
+          "zh-Hans": "PLL",
+          "note": "Universal cubing abbreviation, typically not translated"
+        }
+      }
+    },
+    "additional_common_strings": {
+      "priority": "medium",
+      "strings": {
+        "Settings": {
+          "context": "App settings/preferences",
+          "en": "Settings",
+          "fr": "Paramètres",
+          "es": "Ajustes",
+          "ja": "設定",
+          "zh-Hans": "设置"
+        },
+        "Save": {
+          "context": "Save changes button",
+          "en": "Save",
+          "fr": "Enregistrer",
+          "es": "Guardar",
+          "ja": "保存",
+          "zh-Hans": "保存"
+        },
+        "Delete": {
+          "context": "Delete item button",
+          "en": "Delete",
+          "fr": "Supprimer",
+          "es": "Eliminar",
+          "ja": "削除",
+          "zh-Hans": "删除"
+        },
+        "Edit": {
+          "context": "Edit item button",
+          "en": "Edit",
+          "fr": "Modifier",
+          "es": "Editar",
+          "ja": "編集",
+          "zh-Hans": "编辑"
+        },
+        "Back": {
+          "context": "Navigation back button",
+          "en": "Back",
+          "fr": "Retour",
+          "es": "Atrás",
+          "ja": "戻る",
+          "zh-Hans": "返回"
+        },
+        "Close": {
+          "context": "Close modal/sheet button",
+          "en": "Close",
+          "fr": "Fermer",
+          "es": "Cerrar",
+          "ja": "閉じる",
+          "zh-Hans": "关闭"
+        },
+        "Search": {
+          "context": "Search function",
+          "en": "Search",
+          "fr": "Rechercher",
+          "es": "Buscar",
+          "ja": "検索",
+          "zh-Hans": "搜索"
+        },
+        "Filter": {
+          "context": "Filter results",
+          "en": "Filter",
+          "fr": "Filtrer",
+          "es": "Filtrar",
+          "ja": "フィルタ",
+          "zh-Hans": "筛选"
+        },
+        "Sort": {
+          "context": "Sort items",
+          "en": "Sort",
+          "fr": "Trier",
+          "es": "Ordenar",
+          "ja": "並べ替え",
+          "zh-Hans": "排序"
+        },
+        "Refresh": {
+          "context": "Refresh/reload data",
+          "en": "Refresh",
+          "fr": "Actualiser",
+          "es": "Actualizar",
+          "ja": "更新",
+          "zh-Hans": "刷新"
+        },
+        "Loading...": {
+          "context": "Loading state message",
+          "en": "Loading...",
+          "fr": "Chargement...",
+          "es": "Cargando...",
+          "ja": "読み込み中...",
+          "zh-Hans": "加载中..."
+        },
+        "Error": {
+          "context": "Error state label",
+          "en": "Error",
+          "fr": "Erreur",
+          "es": "Error",
+          "ja": "エラー",
+          "zh-Hans": "错误"
+        },
+        "Success": {
+          "context": "Success state message",
+          "en": "Success",
+          "fr": "Succès",
+          "es": "Éxito",
+          "ja": "成功",
+          "zh-Hans": "成功"
+        },
+        "OK": {
+          "context": "Confirmation button",
+          "en": "OK",
+          "fr": "OK",
+          "es": "OK",
+          "ja": "OK",
+          "zh-Hans": "确定"
+        },
+        "Yes": {
+          "context": "Affirmative response",
+          "en": "Yes",
+          "fr": "Oui",
+          "es": "Sí",
+          "ja": "はい",
+          "zh-Hans": "是"
+        },
+        "No": {
+          "context": "Negative response",
+          "en": "No",
+          "fr": "Non",
+          "es": "No",
+          "ja": "いいえ",
+          "zh-Hans": "否"
+        }
+      }
+    },
+    "time_and_dates": {
+      "priority": "medium",
+      "strings": {
+        "Today": {
+          "context": "Today's date",
+          "en": "Today",
+          "fr": "Aujourd'hui",
+          "es": "Hoy",
+          "ja": "今日",
+          "zh-Hans": "今天"
+        },
+        "Yesterday": {
+          "context": "Yesterday's date",
+          "en": "Yesterday",
+          "fr": "Hier",
+          "es": "Ayer",
+          "ja": "昨日",
+          "zh-Hans": "昨天"
+        },
+        "Week": {
+          "context": "Week time period",
+          "en": "Week",
+          "fr": "Semaine",
+          "es": "Semana",
+          "ja": "週",
+          "zh-Hans": "周"
+        },
+        "Month": {
+          "context": "Month time period",
+          "en": "Month",
+          "fr": "Mois",
+          "es": "Mes",
+          "ja": "月",
+          "zh-Hans": "月"
+        },
+        "Year": {
+          "context": "Year time period",
+          "en": "Year",
+          "fr": "Année",
+          "es": "Año",
+          "ja": "年",
+          "zh-Hans": "年"
+        }
+      }
+    },
+    "practice_and_training": {
+      "priority": "high",
+      "strings": {
+        "Practice": {
+          "context": "Practice mode",
+          "en": "Practice",
+          "fr": "Entraînement",
+          "es": "Práctica",
+          "ja": "練習",
+          "zh-Hans": "练习"
+        },
+        "Drill": {
+          "context": "Drill practice mode",
+          "en": "Drill",
+          "fr": "Exercice",
+          "es": "Ejercicio",
+          "ja": "ドリル",
+          "zh-Hans": "训练"
+        },
+        "Session": {
+          "context": "Practice session",
+          "en": "Session",
+          "fr": "Session",
+          "es": "Sesión",
+          "ja": "セッション",
+          "zh-Hans": "会话"
+        },
+        "Timer": {
+          "context": "Timer for solving",
+          "en": "Timer",
+          "fr": "Chronomètre",
+          "es": "Cronómetro",
+          "ja": "タイマー",
+          "zh-Hans": "计时器"
+        },
+        "Scramble": {
+          "context": "Cube scramble sequence",
+          "en": "Scramble",
+          "fr": "Mélange",
+          "es": "Mezcla",
+          "ja": "スクランブル",
+          "zh-Hans": "打乱"
+        },
+        "Solution": {
+          "context": "Solution to a case",
+          "en": "Solution",
+          "fr": "Solution",
+          "es": "Solución",
+          "ja": "解法",
+          "zh-Hans": "解法"
+        },
+        "Average": {
+          "context": "Average solve time",
+          "en": "Average",
+          "fr": "Moyenne",
+          "es": "Promedio",
+          "ja": "平均",
+          "zh-Hans": "平均"
+        },
+        "Best": {
+          "context": "Best solve time",
+          "en": "Best",
+          "fr": "Meilleur",
+          "es": "Mejor",
+          "ja": "ベスト",
+          "zh-Hans": "最佳"
+        },
+        "Worst": {
+          "context": "Worst solve time",
+          "en": "Worst",
+          "fr": "Pire",
+          "es": "Peor",
+          "ja": "ワースト",
+          "zh-Hans": "最差"
+        }
+      }
+    },
+    "stats_and_progress": {
+      "priority": "medium",
+      "strings": {
+        "Progress": {
+          "context": "Learning progress",
+          "en": "Progress",
+          "fr": "Progression",
+          "es": "Progreso",
+          "ja": "進捗",
+          "zh-Hans": "进度"
+        },
+        "Statistics": {
+          "context": "Solve statistics",
+          "en": "Statistics",
+          "fr": "Statistiques",
+          "es": "Estadísticas",
+          "ja": "統計",
+          "zh-Hans": "统计"
+        },
+        "History": {
+          "context": "Solve history",
+          "en": "History",
+          "fr": "Historique",
+          "es": "Historial",
+          "ja": "履歴",
+          "zh-Hans": "历史"
+        },
+        "Total": {
+          "context": "Total count",
+          "en": "Total",
+          "fr": "Total",
+          "es": "Total",
+          "ja": "合計",
+          "zh-Hans": "总计"
+        },
+        "Completed": {
+          "context": "Completed status",
+          "en": "Completed",
+          "fr": "Terminé",
+          "es": "Completado",
+          "ja": "完了",
+          "zh-Hans": "已完成"
+        }
+      }
+    }
+  },
+  "implementation_notes": {
+    "priority_system": {
+      "high": "User-facing text, navigation titles, buttons, error messages",
+      "medium": "Section headers, status messages, secondary UI",
+      "low": "Tooltips, accessibility labels, rare error states"
+    },
+    "cubing_terminology": {
+      "note": "F2L, OLL, PLL, WCA are universal terms. Generally kept in English across all cubing communities. Local communities may have translations, but English is most recognized.",
+      "recommendation": "Keep cubing abbreviations in English unless you have confirmed translations from local cubing communities."
+    },
+    "pluralization": {
+      "note": "Many strings use '%lld' for counts. These should use Apple's plural rules with 'inflect: true' for proper pluralization in each language.",
+      "example": "Instead of '%lld cases', use '^[%lld case](inflect: true)'"
+    },
+    "context_importance": {
+      "note": "Context comments are crucial for translators. 'Case' could mean 'algorithm case' or 'phone case' - context disambiguates.",
+      "recommendation": "Always include view name and purpose in comments."
+    },
+    "cultural_notes": {
+      "french": "Uses non-breaking spaces before colons and question marks",
+      "spanish": "Uses inverted question marks at start of questions",
+      "japanese": "Prefers compact text, uses polite forms for UI",
+      "chinese": "Uses simplified characters, full-width punctuation in some contexts"
+    }
+  }
+}

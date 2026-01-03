@@ -1,0 +1,122 @@
+[
+  {
+    "id": "11b1c1d1-e1f1-a1b1-c1d1-e1f1a1b1c1d1",
+    "case_id": "b8c9d0e1-f2a3-4567-b123-678901234567",
+    "code": "Ortega-PBL-1-01",
+    "name": "Adjacent (Fast)",
+    "moves": "R U' R F2 R' U R'",
+    "tag": "fast",
+    "complexity": 7,
+    "popularity": 95,
+    "created_at": "2025-01-10T00:00:00Z",
+    "updated_at": "2025-01-10T00:00:00Z"
+  },
+  {
+    "id": "11b1c1d1-e1f1-a1b1-c1d1-e1f1a1b1c1d2",
+    "case_id": "b8c9d0e1-f2a3-4567-b123-678901234567",
+    "code": "Ortega-PBL-1-02",
+    "name": "Adjacent (T-Perm variant)",
+    "moves": "y R U R' F' R U R' U' R' F R2 U' R'",
+    "tag": "alternative",
+    "complexity": 13,
+    "popularity": 70,
+    "created_at": "2025-01-10T00:00:00Z",
+    "updated_at": "2025-01-10T00:00:00Z"
+  },
+  {
+    "id": "12b2c2d2-e2f2-a2b2-c2d2-e2f2a2b2c2d2",
+    "case_id": "c9d0e1f2-a3b4-5678-c123-789012345678",
+    "code": "Ortega-PBL-2-01",
+    "name": "Opposite (Standard)",
+    "moves": "R U' R' U' F2 U' R U R' U F2",
+    "tag": "standard",
+    "complexity": 11,
+    "popularity": 85,
+    "created_at": "2025-01-10T00:00:00Z",
+    "updated_at": "2025-01-10T00:00:00Z"
+  },
+  {
+    "id": "12b2c2d2-e2f2-a2b2-c2d2-e2f2a2b2c2d3",
+    "case_id": "c9d0e1f2-a3b4-5678-c123-789012345678",
+    "code": "Ortega-PBL-2-02",
+    "name": "Opposite (Y-Perm variant)",
+    "moves": "F R U' R' U' R U R' F' R U R' U' R' F R F'",
+    "tag": "alternative",
+    "complexity": 17,
+    "popularity": 60,
+    "created_at": "2025-01-10T00:00:00Z",
+    "updated_at": "2025-01-10T00:00:00Z"
+  },
+  {
+    "id": "13b3c3d3-e3f3-a3b3-c3d3-e3f3a3b3c3d3",
+    "case_id": "d0e1f2a3-b4c5-6789-d123-890123456789",
+    "code": "Ortega-PBL-3-01",
+    "name": "Diagonal (Standard)",
+    "moves": "R2 F2 R2",
+    "tag": "standard",
+    "complexity": 3,
+    "popularity": 100,
+    "created_at": "2025-01-10T00:00:00Z",
+    "updated_at": "2025-01-10T00:00:00Z"
+  },
+  {
+    "id": "13b3c3d3-e3f3-a3b3-c3d3-e3f3a3b3c3d4",
+    "case_id": "d0e1f2a3-b4c5-6789-d123-890123456789",
+    "code": "Ortega-PBL-3-02",
+    "name": "Diagonal (F2 variant)",
+    "moves": "F2 R2 F2",
+    "tag": "alternative",
+    "complexity": 3,
+    "popularity": 80,
+    "created_at": "2025-01-10T00:00:00Z",
+    "updated_at": "2025-01-10T00:00:00Z"
+  },
+  {
+    "id": "14b4c4d4-e4f4-a4b4-c4d4-e4f4a4b4c4d4",
+    "case_id": "e1f2a3b4-c5d6-7890-e123-901234567890",
+    "code": "Ortega-PBL-4-01",
+    "name": "Adj-Adj (Standard)",
+    "moves": "R2 U' B2 U2 R2 U' R2",
+    "tag": "standard",
+    "complexity": 7,
+    "popularity": 90,
+    "created_at": "2025-01-10T00:00:00Z",
+    "updated_at": "2025-01-10T00:00:00Z"
+  },
+  {
+    "id": "14b4c4d4-e4f4-a4b4-c4d4-e4f4a4b4c4d5",
+    "case_id": "e1f2a3b4-c5d6-7890-e123-901234567890",
+    "code": "Ortega-PBL-4-02",
+    "name": "Adj-Adj (F2 variant)",
+    "moves": "F2 U' R2 U2 F2 U' F2",
+    "tag": "alternative",
+    "complexity": 7,
+    "popularity": 65,
+    "created_at": "2025-01-10T00:00:00Z",
+    "updated_at": "2025-01-10T00:00:00Z"
+  },
+  {
+    "id": "15b5c5d5-e5f5-a5b5-c5d5-e5f5a5b5c5d5",
+    "case_id": "f2a3b4c5-d6e7-8901-f123-012345678901",
+    "code": "Ortega-PBL-5-01",
+    "name": "Adj-Opp (Standard)",
+    "moves": "R U' R F2 R' U R'",
+    "tag": "standard",
+    "complexity": 7,
+    "popularity": 95,
+    "created_at": "2025-01-10T00:00:00Z",
+    "updated_at": "2025-01-10T00:00:00Z"
+  },
+  {
+    "id": "15b5c5d5-e5f5-a5b5-c5d5-e5f5a5b5c5d6",
+    "case_id": "f2a3b4c5-d6e7-8901-f123-012345678901",
+    "code": "Ortega-PBL-5-02",
+    "name": "Adj-Opp (Alternative)",
+    "moves": "R U R' F2 R U' R'",
+    "tag": "alternative",
+    "complexity": 7,
+    "popularity": 75,
+    "created_at": "2025-01-10T00:00:00Z",
+    "updated_at": "2025-01-10T00:00:00Z"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "fae98435-9e8a-5266-819f-23f94bc3656d",
+    "case_id": "2d1638ce-b5e8-5c5a-b7c5-8ce79a0394af",
+    "code": "7X7-EDGE-PARITY-01",
+    "sequence": "3Rw U2 3Rw x U2 3Rw U2 4Rw' U2 3Lw U2 3Rw' U2 3Rw U2 3Rw' U2 3Rw'",
+    "name": "Standard 7×7 Edge Flip",
+    "tags": [
+      "type:parity",
+      "piece:edge",
+      "puzzle:7x7",
+      "type:standard"
+    ],
+    "popularity": 100,
+    "difficulty": 5,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00+00:00"
+  },
+  {
+    "id": "166927ac-2b48-5a51-b526-027eb5ff23e8",
+    "case_id": "2d1638ce-b5e8-5c5a-b7c5-8ce79a0394af",
+    "code": "7X7-EDGE-PARITY-02",
+    "sequence": "3r U2 3r x U2 3r U2 4r' U2 3l U2 3r' U2 3r U2 3r' U2 3r'",
+    "name": "Alternative Edge Flip (lowercase)",
+    "tags": [
+      "type:parity",
+      "piece:edge",
+      "puzzle:7x7",
+      "type:alternative"
+    ],
+    "popularity": 85,
+    "difficulty": 5,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00+00:00"
+  }
+]

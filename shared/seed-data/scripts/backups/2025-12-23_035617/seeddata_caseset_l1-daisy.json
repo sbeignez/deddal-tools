@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "code": "l1-daisy",
+    "name": "LBL Daisy",
+    "subtitle": "Layer-by-Layer - Form the Daisy Pattern",
+    "pattern_from": "Scrambled",
+    "pattern_to": "Daisy",
+    "expected_count": 5,
+    "category": "Layer-by-Layer Method",
+    "case_ids": [
+      {"id": "292f4b56-4428-4bf9-927a-bb822a0a3e36", "code": "3X3-LBL-DAISY-01"},
+      {"id": "19e30fc0-5e03-4c64-a4c0-eb9596313500", "code": "3X3-LBL-DAISY-02"},
+      {"id": "edece4c8-4a6d-44ab-afae-4f8e544f0b3f", "code": "3X3-LBL-DAISY-03"},
+      {"id": "5e1f4c31-cb0a-47fc-9841-4ced6fcf8dd0", "code": "3X3-LBL-DAISY-04"},
+      {"id": "935d691a-7429-4844-b7f7-8ee3b2ade735", "code": "3X3-LBL-DAISY-05"}
+    ],
+    "created_at": "2025-11-17T00:00:00+00:00"
+  }
+]

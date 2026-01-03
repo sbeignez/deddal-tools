@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2d1638ce-b5e8-5c5a-b7c5-8ce79a0394af",
+    "code": "7X7-EDGE-PARITY",
+    "case_set_id": "71b436f5-3a4e-5527-b719-030e28bf8923",
+    "title": "Edge Parity",
+    "long_name": "7×7 Edge Parity - Single Flipped Edge",
+    "kind": "7x7_edge_parity",
+    "pattern_from": "Last Two Edges to Pair",
+    "pattern_to": "All Edges Paired",
+    "scramble": "3Rw U2 3Rw x U2 3Rw U2 4Rw' U2 3Lw U2 3Rw' U2 3Rw U2 3Rw' U2 3Rw'",
+    "notes": "Single edge appears flipped during edge pairing - occurs in 50% of 7×7 solves",
+    "story": "The 7×7 shares the same edge parity characteristic as the 5×5. Because of the fixed center, you'll only encounter edge parity during pairing, never OLL or PLL parity.",
+    "description": "The only parity case on 7×7. Similar to 5×5 but uses 3-layer and 4-layer wide moves. No OLL or PLL parity on odd cubes.",
+    "image_url": null,
+    "image_asset_name": "7x7_edge_parity",
+    "difficulty": 5,
+    "popularity": 100,
+    "groups": [
+      "type:parity",
+      "type:edge_parity",
+      "puzzle:7x7",
+      "stage:edge_pairing",
+      "level:advanced"
+    ],
+    "created_at": "2025-12-02T00:00:00.000Z",
+    "updated_at": "2025-12-03T11:47:46.647Z"
+  }
+]

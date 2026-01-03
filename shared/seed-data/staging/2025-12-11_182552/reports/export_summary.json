@@ -1,0 +1,754 @@
+{
+  "files": [
+    {
+      "file_name": "seeddata_caseset_2x2-cll-with-algs.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_4x4-oll-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_4x4-pll-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_5x5-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_6x6-oll-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_6x6-pll-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_7x7-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_coll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_cross.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_f2l-ls-fl.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_f2l-ls-fr.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_l1-daisy.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_l1-daisy-to-cross.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_l2-first-layer-corners.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_l2-second-layer-edges.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_l3-top-corners-orient.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_l3-top-corners-position.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_l3-top-cross-orient.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_l3-top-edges-position.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_ocll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_oell.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_oll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_ortega-oll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_ortega-pbl.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_pcll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_pell.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_pll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_roux-cmll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_caseset_zbll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_2x2-cll-with-algs.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 42,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_4x4-oll-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_4x4-pll-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 4,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_5x5-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_6x6-oll-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_6x6-pll-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 4,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_7x7-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_coll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 40,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_cross.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 8,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_f2l-ls-fl.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 41,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_f2l-ls-fr.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 41,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_l1-daisy.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 5,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_l2-first-layer-corners.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 2,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_l2-second-layer-edges.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 2,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_l3-top-corners-orient.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_l3-top-corners-position.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_l3-top-cross-orient.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 3,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_l3-top-edges-position.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_ocll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 7,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_oell.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 3,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_oll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 57,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_ortega-oll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 7,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_ortega-pbl.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 5,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_pcll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 2,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_pell.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 4,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_pll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 21,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_cases_zbll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 472,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_2x2-cll-with-algs.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 160,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_4x4-oll-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 2,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_4x4-pll-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 6,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_5x5-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 2,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_6x6-oll-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 2,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_6x6-pll-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 6,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_7x7-parity.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 2,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_coll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 405,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_f2l-ls-fl.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 41,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_f2l-ls-fr.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 113,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_ocll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 7,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_oell.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 3,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_oll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 169,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_ortega-oll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 13,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_ortega-pbl.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 10,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_pcll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 3,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_pell.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 8,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_pll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 223,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    },
+    {
+      "file_name": "seeddata_algorithms_zbll.json",
+      "status": "new",
+      "old_count": 0,
+      "new_count": 1099,
+      "diff": 0,
+      "added_count": 0,
+      "removed_count": 0,
+      "warnings": []
+    }
+  ]
+}

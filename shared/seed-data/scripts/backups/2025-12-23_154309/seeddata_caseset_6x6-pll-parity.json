@@ -1,0 +1,19 @@
+[
+  {
+    "id": "5102d166-a0f4-5e46-9ab8-eb98d90a022a",
+    "code": "6x6-pll-parity",
+    "name": "6×6 PLL Parity",
+    "subtitle": "Edge Swap Parity",
+    "pattern_from": "OLL Complete with Edge Swap",
+    "pattern_to": "PLL Ready State",
+    "expected_count": 4,
+    "category": "6x6x6 - Parity",
+    "case_ids": [
+      {"id": "c19c1b89-abff-5de5-ac99-f95c975da2bb", "code": "6X6-PLL-PARITY-ADJ"},
+      {"id": "c9c4e5ae-fe17-5201-b2e1-3fe31bd04ab7", "code": "6X6-PLL-PARITY-DIAG"},
+      {"id": "fc2f4601-fbf6-5aa3-8372-7c16d5ea3f1a", "code": "6X6-PLL-PARITY-OPP"},
+      {"id": "82a83bad-d052-59c3-851c-e03a64765cbf", "code": "6X6-PLL-PARITY-U"}
+    ],
+    "created_at": "2025-12-02T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "e383cc35-d6c0-59f1-8d96-2c41053d8194",
+    "code": "5x5-parity",
+    "name": "5×5 Edge Parity",
+    "subtitle": "Last Two Edges Parity",
+    "pattern_from": "Final Two Edges",
+    "pattern_to": "All Edges Paired",
+    "expected_count": 1,
+    "category": "5x5x5 - Parity",
+    "case_ids": [
+      {
+        "id": "2c0f63b1-d590-51ce-8eae-99769e626728",
+        "code": "5X5-EDGE-PARITY"
+      }
+    ],
+    "created_at": "2025-12-02T00:00:00.000Z"
+  }
+]

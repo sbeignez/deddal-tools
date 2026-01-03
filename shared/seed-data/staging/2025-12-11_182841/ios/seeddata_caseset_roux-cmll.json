@@ -1,0 +1,183 @@
+[
+  {
+    "id": "17bd6f9e-da0f-4bc6-ae5b-517ffc4965bf",
+    "code": "roux-cmll",
+    "name": "CMLL",
+    "subtitle": "Corners of Last Layer (Roux Method)",
+    "pattern_from": null,
+    "pattern_to": null,
+    "expected_count": 42,
+    "category": "Roux Method - Last Layer",
+    "case_ids": [
+      {
+        "id": "50f46fd3-3341-4f0e-8602-928bd4ba3b82",
+        "code": "3X3-CMLL-AS01"
+      },
+      {
+        "id": "a387f551-99cd-4f0c-84ab-bb7b40c776b5",
+        "code": "3X3-CMLL-AS02"
+      },
+      {
+        "id": "e2ec916c-d937-48ea-84b3-a4dbdb9851ef",
+        "code": "3X3-CMLL-AS03"
+      },
+      {
+        "id": "db3c002e-e02c-427d-93c8-afd03e8cf315",
+        "code": "3X3-CMLL-AS04"
+      },
+      {
+        "id": "36e4a2ec-b658-41e4-93db-d9581e300a3b",
+        "code": "3X3-CMLL-AS05"
+      },
+      {
+        "id": "3110694b-0061-4a91-9eb2-7e507fa915a5",
+        "code": "3X3-CMLL-AS06"
+      },
+      {
+        "id": "55238d5a-1637-4ab6-988f-d12b104432fb",
+        "code": "3X3-CMLL-H01"
+      },
+      {
+        "id": "4402224b-acfb-44ca-8cf3-6aa65e2b7ef2",
+        "code": "3X3-CMLL-H02"
+      },
+      {
+        "id": "75e9f1c4-6839-4e87-8c89-5f451e69a2af",
+        "code": "3X3-CMLL-H03"
+      },
+      {
+        "id": "04e2d517-6d3d-43f0-a570-fd63ae457a19",
+        "code": "3X3-CMLL-H04"
+      },
+      {
+        "id": "91828dee-9efc-48fe-b671-c44992e18e48",
+        "code": "3X3-CMLL-L01"
+      },
+      {
+        "id": "e9986983-9f58-4094-a6c8-bc2453ebc2c2",
+        "code": "3X3-CMLL-L02"
+      },
+      {
+        "id": "19b43074-f28c-473d-8189-478452f64c83",
+        "code": "3X3-CMLL-L03"
+      },
+      {
+        "id": "9903f142-882a-4e00-bc48-a3a1dac4a76c",
+        "code": "3X3-CMLL-L04"
+      },
+      {
+        "id": "3665b377-8c86-4173-ae03-ff2e4b03bc5c",
+        "code": "3X3-CMLL-L05"
+      },
+      {
+        "id": "360d2300-a844-4646-b004-f44e67083f58",
+        "code": "3X3-CMLL-L06"
+      },
+      {
+        "id": "c9022e12-5bff-4dfa-a9aa-323ff07238a7",
+        "code": "3X3-CMLL-O01"
+      },
+      {
+        "id": "3e74e3c7-bd19-4321-b61f-414611cf0aef",
+        "code": "3X3-CMLL-O02"
+      },
+      {
+        "id": "c120cadd-4427-4200-8106-23583296439d",
+        "code": "3X3-CMLL-PI01"
+      },
+      {
+        "id": "1017cb58-82af-4646-978e-a2247bc6fef2",
+        "code": "3X3-CMLL-PI02"
+      },
+      {
+        "id": "0e771125-4c0f-4c57-8027-dce31f2eff15",
+        "code": "3X3-CMLL-PI03"
+      },
+      {
+        "id": "7b5f597e-8ed6-4b26-a304-d4e2ba7de6b3",
+        "code": "3X3-CMLL-PI04"
+      },
+      {
+        "id": "19e2f5ef-ba8d-4bc0-a59e-f8745d025c5a",
+        "code": "3X3-CMLL-PI05"
+      },
+      {
+        "id": "e5eb7772-7d3a-4b43-8b04-f8c15c39fbcf",
+        "code": "3X3-CMLL-PI06"
+      },
+      {
+        "id": "452f99c6-6bee-495e-b0a8-696aacb16cd4",
+        "code": "3X3-CMLL-S01"
+      },
+      {
+        "id": "f72825bf-496d-4022-97e4-58e074e25c0e",
+        "code": "3X3-CMLL-S02"
+      },
+      {
+        "id": "ff7cfd69-afe5-4fc6-b2f2-d6d7b7227079",
+        "code": "3X3-CMLL-S03"
+      },
+      {
+        "id": "232a964e-682f-466a-bb8c-4f9830331757",
+        "code": "3X3-CMLL-S04"
+      },
+      {
+        "id": "4220c608-4aaf-4965-8f31-f9cd4f449163",
+        "code": "3X3-CMLL-S05"
+      },
+      {
+        "id": "81f99270-e657-4fd1-ba00-b7c5571275d4",
+        "code": "3X3-CMLL-S06"
+      },
+      {
+        "id": "68b7b99f-74e4-4080-b12e-daf1513d8bcd",
+        "code": "3X3-CMLL-T01"
+      },
+      {
+        "id": "65225b57-6614-4711-a249-4157901687c2",
+        "code": "3X3-CMLL-T02"
+      },
+      {
+        "id": "a29e1607-05c3-4282-b03c-2a0dd593f3bd",
+        "code": "3X3-CMLL-T03"
+      },
+      {
+        "id": "844e7a27-1968-4f7b-ba92-9b9bbac16933",
+        "code": "3X3-CMLL-T04"
+      },
+      {
+        "id": "886ccf42-b73a-4f30-86ee-cb5a1561fffa",
+        "code": "3X3-CMLL-T05"
+      },
+      {
+        "id": "e7044ee2-bd26-4934-b325-59c333d88e8c",
+        "code": "3X3-CMLL-T06"
+      },
+      {
+        "id": "158f7454-5352-45ce-9c8e-e7e393296311",
+        "code": "3X3-CMLL-U01"
+      },
+      {
+        "id": "d3fa1559-ca61-4cd7-bc8a-7d8cc8debec5",
+        "code": "3X3-CMLL-U02"
+      },
+      {
+        "id": "127cbf50-89df-4fd8-851f-433b51a9e51e",
+        "code": "3X3-CMLL-U03"
+      },
+      {
+        "id": "0b3684ca-a6c2-4b3f-8ad2-e05aae70d8bd",
+        "code": "3X3-CMLL-U04"
+      },
+      {
+        "id": "a3641f76-8f3e-4753-a573-cce8e409dbe8",
+        "code": "3X3-CMLL-U05"
+      },
+      {
+        "id": "e31de387-5327-4d32-b46f-90af69292706",
+        "code": "3X3-CMLL-U06"
+      }
+    ],
+    "created_at": "2025-12-11T16:39:04.497Z"
+  }
+]

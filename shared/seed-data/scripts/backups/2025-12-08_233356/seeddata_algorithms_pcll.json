@@ -1,0 +1,44 @@
+[
+  {
+    "id": "5575da60-a8ab-5d73-bdec-4cc9c6432842",
+    "case_id": "e3cafb06-4419-51fe-b24a-7ceccfc857bc",
+    "code": "3X3-PCLL-Adjacent-01",
+    "sequence": "R U' L' U R' U' L",
+    "name": "Adjacent Corner Swap (Niklas)",
+    "tags": null,
+    "popularity": 95,
+    "difficulty": 2,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-11-09T00:00:00.000Z"
+  },
+  {
+    "id": "e6c3d07f-f81d-550d-a073-a132ea949952",
+    "case_id": "adeacbce-2b37-53f7-a85f-56fa81b964c4",
+    "code": "3X3-PCLL-Diagonal-01",
+    "sequence": "F (R U' R' U') (R U R' F') (R U R' U') (R' F R F')",
+    "name": "Diagonal Corner Swap",
+    "tags": null,
+    "popularity": 95,
+    "difficulty": 5,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-11-09T00:00:00.000Z"
+  },
+  {
+    "id": "931c673a-70d7-5cde-90e1-c49528670415",
+    "case_id": "e3cafb06-4419-51fe-b24a-7ceccfc857bc",
+    "code": "3X3-PCLL-Adjacent-02",
+    "sequence": "L' U R U' L U R'",
+    "name": "Adjacent Corner Swap Alt",
+    "tags": null,
+    "popularity": 90,
+    "difficulty": 2,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-11-09T00:00:00.000Z"
+  }
+]

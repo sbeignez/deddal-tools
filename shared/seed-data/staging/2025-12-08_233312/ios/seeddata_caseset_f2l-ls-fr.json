@@ -1,0 +1,179 @@
+[
+  {
+    "id": "18b34f94-1566-48af-a1ef-b0ac5beda4fe",
+    "code": "f2l-ls-fr",
+    "name": "F2L",
+    "subtitle": "First Two Layers - Last Slot - Front Right",
+    "pattern_from": "Cross + Slot FR",
+    "pattern_to": "2 Layers",
+    "expected_count": 41,
+    "category": "F2L",
+    "case_ids": [
+      {
+        "id": "c32360a6-8659-4261-8e12-5a1cca46b04a",
+        "code": "3X3-CFOP-F2L-01-FR"
+      },
+      {
+        "id": "27649c2f-47a1-4939-bfc5-6044f992e654",
+        "code": "3X3-CFOP-F2L-02-FR"
+      },
+      {
+        "id": "3807c459-c550-48d3-ac0b-45e5b68266fa",
+        "code": "3X3-CFOP-F2L-03-FR"
+      },
+      {
+        "id": "5765d781-cf96-4587-b92c-e7560375351f",
+        "code": "3X3-CFOP-F2L-04-FR"
+      },
+      {
+        "id": "961e79e7-c6de-4508-9fdd-d9cb93ad239b",
+        "code": "3X3-CFOP-F2L-05-FR"
+      },
+      {
+        "id": "09a52df2-b410-40e1-994a-eee273a019ca",
+        "code": "3X3-CFOP-F2L-06-FR"
+      },
+      {
+        "id": "916be96d-64ba-4c64-84ec-52686ae4770d",
+        "code": "3X3-CFOP-F2L-07-FR"
+      },
+      {
+        "id": "296c5d4c-472d-44f2-93d6-f65645195f3b",
+        "code": "3X3-CFOP-F2L-08-FR"
+      },
+      {
+        "id": "27401725-4e15-4ea3-bcec-e01613c81040",
+        "code": "3X3-CFOP-F2L-09-FR"
+      },
+      {
+        "id": "6f6517f9-33d9-42c9-b463-3412615e33aa",
+        "code": "3X3-CFOP-F2L-10-FR"
+      },
+      {
+        "id": "40166134-b110-4fa9-965c-bd2a4cd40dcf",
+        "code": "3X3-CFOP-F2L-11-FR"
+      },
+      {
+        "id": "e2348cbc-021b-44fd-94d9-8a8238fc92b2",
+        "code": "3X3-CFOP-F2L-12-FR"
+      },
+      {
+        "id": "ac372da3-03b0-4a0f-ae58-baed09eb4cf1",
+        "code": "3X3-CFOP-F2L-13-FR"
+      },
+      {
+        "id": "069f3786-2678-465f-a30a-9ffc503907bc",
+        "code": "3X3-CFOP-F2L-14-FR"
+      },
+      {
+        "id": "8a758201-338e-4fcc-817e-4b692959a92f",
+        "code": "3X3-CFOP-F2L-15-FR"
+      },
+      {
+        "id": "64590abe-0eec-46f3-a614-a2934636f446",
+        "code": "3X3-CFOP-F2L-16-FR"
+      },
+      {
+        "id": "9de1f346-af03-4ce6-bc48-36a498c218e4",
+        "code": "3X3-CFOP-F2L-17-FR"
+      },
+      {
+        "id": "57fb97df-86d7-4d84-bbf4-a023719ce991",
+        "code": "3X3-CFOP-F2L-18-FR"
+      },
+      {
+        "id": "2c4441c0-8881-43fb-a94d-6bc3d775ca56",
+        "code": "3X3-CFOP-F2L-19-FR"
+      },
+      {
+        "id": "f86e89b9-257e-47c5-b9a1-48f947565e17",
+        "code": "3X3-CFOP-F2L-20-FR"
+      },
+      {
+        "id": "0f9d200e-c6ec-4ae8-bc70-369560746d50",
+        "code": "3X3-CFOP-F2L-21-FR"
+      },
+      {
+        "id": "dfb1fc12-378c-4b4c-81f9-954a35f5b0cd",
+        "code": "3X3-CFOP-F2L-22-FR"
+      },
+      {
+        "id": "b26cd4cb-9a3a-48d2-aba8-1c4c8bd7a990",
+        "code": "3X3-CFOP-F2L-23-FR"
+      },
+      {
+        "id": "f1b219f2-f681-444e-917d-a33591149a34",
+        "code": "3X3-CFOP-F2L-24-FR"
+      },
+      {
+        "id": "c5eb35cb-4981-43c0-ae12-2bd95fe1040a",
+        "code": "3X3-CFOP-F2L-25-FR"
+      },
+      {
+        "id": "a17e7c80-df9b-41d6-81d9-fa0abda0cb60",
+        "code": "3X3-CFOP-F2L-26-FR"
+      },
+      {
+        "id": "a1662e61-42b9-466f-84fe-2a832fa544cf",
+        "code": "3X3-CFOP-F2L-27-FR"
+      },
+      {
+        "id": "3ac3b273-0fe5-49e4-9f61-d5dae3df00f6",
+        "code": "3X3-CFOP-F2L-28-FR"
+      },
+      {
+        "id": "d158885f-b377-47b3-a939-2759de40071b",
+        "code": "3X3-CFOP-F2L-29-FR"
+      },
+      {
+        "id": "32a6c8f2-54a9-45da-87f2-3053d5c08cf5",
+        "code": "3X3-CFOP-F2L-30-FR"
+      },
+      {
+        "id": "3810f0b5-e33c-4943-ad76-0067a1385163",
+        "code": "3X3-CFOP-F2L-31-FR"
+      },
+      {
+        "id": "39831d27-728c-4664-b058-700a0523b0c7",
+        "code": "3X3-CFOP-F2L-32-FR"
+      },
+      {
+        "id": "7c166816-ec8a-4bec-8205-d94b1089ad58",
+        "code": "3X3-CFOP-F2L-33-FR"
+      },
+      {
+        "id": "d9906341-3bd9-4d7b-a33f-5b9ac4bed10f",
+        "code": "3X3-CFOP-F2L-34-FR"
+      },
+      {
+        "id": "808bd3dc-0167-4611-9238-dbfff4e54358",
+        "code": "3X3-CFOP-F2L-35-FR"
+      },
+      {
+        "id": "c9b8a00c-ee08-4e77-a1d0-35ab4288f7ea",
+        "code": "3X3-CFOP-F2L-36-FR"
+      },
+      {
+        "id": "7dc06020-5025-4ce7-8a3a-615178e98c81",
+        "code": "3X3-CFOP-F2L-38-FR"
+      },
+      {
+        "id": "83666531-9176-4d1b-94fc-2cba34f65969",
+        "code": "3X3-CFOP-F2L-39-FR"
+      },
+      {
+        "id": "8c06a47d-2d67-4691-b4ad-653bcb80fb26",
+        "code": "3X3-CFOP-F2L-40-FR"
+      },
+      {
+        "id": "25f3ac3a-bd1f-4d3d-8916-46b03fb59efd",
+        "code": "3X3-CFOP-F2L-41-FR"
+      },
+      {
+        "id": "2e678e65-ae5b-4ef8-a69c-00fcbb2749a1",
+        "code": "3X3-CFOP-F2L-42-FR"
+      }
+    ],
+    "created_at": "2025-10-23T19:16:46.741Z"
+  }
+]

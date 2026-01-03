@@ -1,0 +1,119 @@
+[
+  {
+    "id": "d03ecdd0-2154-5697-8598-608aa6f5177c",
+    "case_id": "c19c1b89-abff-5de5-ac99-f95c975da2bb",
+    "code": "6X6-PLL-PARITY-ADJ-01",
+    "sequence": "3R2 U2 3R2 Uw2 3R2 Uw2",
+    "name": "Standard 6×6 PLL Parity Fix",
+    "tags": [
+      "parity",
+      "pll",
+      "6x6",
+      "adjacent"
+    ],
+    "popularity": 100,
+    "difficulty": 3,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "9de7ec1b-2ae4-5170-9360-711109b1d02f",
+    "case_id": "c19c1b89-abff-5de5-ac99-f95c975da2bb",
+    "code": "6X6-PLL-PARITY-ADJ-02",
+    "sequence": "3r2 U2 3r2 Uw2 3r2 Uw2",
+    "name": "PLL Parity (lowercase notation)",
+    "tags": [
+      "parity",
+      "pll",
+      "6x6",
+      "adjacent",
+      "alternative"
+    ],
+    "popularity": 90,
+    "difficulty": 3,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "dab485c8-728e-5376-a0f1-79350a26518d",
+    "case_id": "82a83bad-d052-59c3-851c-e03a64765cbf",
+    "code": "6X6-PLL-PARITY-U-01",
+    "sequence": "3R2 U2 3R2 Uw2 3R2 Uw2 R U' R U R U R U' R' U' R2",
+    "name": "Combined Parity + U-Perm",
+    "tags": [
+      "parity",
+      "pll",
+      "6x6",
+      "uperm",
+      "combined"
+    ],
+    "popularity": 85,
+    "difficulty": 5,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "4f178465-1f76-5aee-a080-cad65d9f735c",
+    "case_id": "fc2f4601-fbf6-5aa3-8372-7c16d5ea3f1a",
+    "code": "6X6-PLL-PARITY-OPP-01",
+    "sequence": "3R2 U2 3R2 Uw2 3R2 Uw2 U2",
+    "name": "Opposite Edge Swap Fix",
+    "tags": [
+      "parity",
+      "pll",
+      "6x6",
+      "opposite"
+    ],
+    "popularity": 75,
+    "difficulty": 3,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "75c4e17c-9d79-5217-b409-f8f65b22ad73",
+    "case_id": "82a83bad-d052-59c3-851c-e03a64765cbf",
+    "code": "6X6-PLL-PARITY-U-02",
+    "sequence": "3R2 U2 3R2 Uw2 3R2 Uw2 M2 U M2 U2 M2 U M2",
+    "name": "Alternative Combined Fix",
+    "tags": [
+      "parity",
+      "pll",
+      "6x6",
+      "uperm",
+      "alternative"
+    ],
+    "popularity": 75,
+    "difficulty": 5,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "e4d47458-dd8a-54db-9474-702f9ff9c30e",
+    "case_id": "c9c4e5ae-fe17-5201-b2e1-3fe31bd04ab7",
+    "code": "6X6-PLL-PARITY-DIAG-01",
+    "sequence": "3R2 U2 3R2 Uw2 3R2 Uw2 F2",
+    "name": "Diagonal Edge Swap Fix",
+    "tags": [
+      "parity",
+      "pll",
+      "6x6",
+      "diagonal"
+    ],
+    "popularity": 70,
+    "difficulty": 3,
+    "avg_moves": null,
+    "avg_execution_time_ms": null,
+    "story": null,
+    "created_at": "2025-12-02T00:00:00.000Z"
+  }
+]

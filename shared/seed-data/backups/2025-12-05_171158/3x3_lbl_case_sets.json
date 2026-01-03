@@ -1,0 +1,120 @@
+[
+  {
+    "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "code": "l1-daisy",
+    "name": "LBL Daisy",
+    "subtitle": "Layer-by-Layer - Form the Daisy Pattern",
+    "pattern_from": "Scrambled",
+    "pattern_to": "Daisy",
+    "expected_count": 5,
+    "category": "Layer-by-Layer Method",
+    "created_at": "2025-11-17T00:00:00Z",
+    "case_ids": [
+      "292f4b56-4428-4bf9-927a-bb822a0a3e36",
+      "19e30fc0-5e03-4c64-a4c0-eb9596313500",
+      "edece4c8-4a6d-44ab-afae-4f8e544f0b3f",
+      "5e1f4c31-cb0a-47fc-9841-4ced6fcf8dd0",
+      "935d691a-7429-4844-b7f7-8ee3b2ade735"
+    ]
+  },
+  {
+    "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+    "code": "l1-daisy-to-cross",
+    "name": "LBL Daisy to Cross",
+    "subtitle": "Layer-by-Layer - Complete White Cross from Daisy",
+    "pattern_from": "Daisy",
+    "pattern_to": "Cross",
+    "expected_count": 0,
+    "category": "Layer-by-Layer Method",
+    "created_at": "2025-11-17T00:00:00Z",
+    "case_ids": []
+  },
+  {
+    "id": "aa1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "code": "l2-first-layer-corners",
+    "name": "First Layer Corners",
+    "subtitle": "Complete the white face",
+    "pattern_from": "Cross",
+    "pattern_to": "First Layer Complete",
+    "expected_count": 2,
+    "category": "Layer-by-Layer Method",
+    "created_at": "2025-12-04T00:00:00Z",
+    "case_ids": [
+      "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+      "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e"
+    ]
+  },
+  {
+    "id": "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
+    "code": "l2-second-layer-edges",
+    "name": "Second Layer Edges",
+    "subtitle": "Complete the middle layer",
+    "pattern_from": "First Layer Complete",
+    "pattern_to": "Second Layer Complete",
+    "expected_count": 2,
+    "category": "Layer-by-Layer Method",
+    "created_at": "2025-12-04T00:00:00Z",
+    "case_ids": [
+      "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+      "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f"
+    ]
+  },
+  {
+    "id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
+    "code": "l3-top-cross-orient",
+    "name": "Top Cross (OeLL Beginner)",
+    "subtitle": "Orient yellow edges",
+    "pattern_from": "Second Layer Complete",
+    "pattern_to": "Top Cross",
+    "expected_count": 3,
+    "category": "Layer-by-Layer Method",
+    "created_at": "2025-12-04T00:00:00Z",
+    "case_ids": [
+      "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+      "1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6c",
+      "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7d"
+    ]
+  },
+  {
+    "id": "6d7e8f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1a",
+    "code": "l3-top-corners-orient",
+    "name": "Top Corners Orientation",
+    "subtitle": "Orient yellow corners",
+    "pattern_from": "Top Cross",
+    "pattern_to": "Top Corners Oriented",
+    "expected_count": 1,
+    "category": "Layer-by-Layer Method",
+    "created_at": "2025-12-04T00:00:00Z",
+    "case_ids": [
+      "1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b"
+    ]
+  },
+  {
+    "id": "7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b",
+    "code": "l3-top-corners-position",
+    "name": "Top Corners Position",
+    "subtitle": "Permute yellow corners",
+    "pattern_from": "Top Corners Oriented",
+    "pattern_to": "Top Corners Positioned",
+    "expected_count": 1,
+    "category": "Layer-by-Layer Method",
+    "created_at": "2025-12-04T00:00:00Z",
+    "case_ids": [
+      "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c"
+    ]
+  },
+  {
+    "id": "8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c",
+    "code": "l3-top-edges-position",
+    "name": "Top Edges Position",
+    "subtitle": "Permute yellow edges",
+    "pattern_from": "Top Corners Positioned",
+    "pattern_to": "Solved",
+    "expected_count": 1,
+    "category": "Layer-by-Layer Method",
+    "created_at": "2025-12-04T00:00:00Z",
+    "case_ids": [
+      "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+    "code": "3X3-LBL-TOP-EDGES-POSITION-01",
+    "case_set_id": "8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c",
+    "title": "Edge Cycle",
+    "long_name": null,
+    "kind": "lbl_top_edges_position",
+    "pattern_from": "Top Corners Positioned",
+    "pattern_to": "Solved",
+    "scramble": "F2 U L R' F2 L' R U F2",
+    "notes": "Final algorithm - cycles three edges. Hold solved edge on back.",
+    "story": "U-Perm variant for beginners",
+    "description": "Permute yellow edges to solve the cube",
+    "image_url": null,
+    "image_asset_name": "3x3_lbl_top-edges-position_01",
+    "difficulty": 3,
+    "popularity": 85,
+    "groups": [],
+    "created_at": "2025-01-13T00:00:00+00:00",
+    "updated_at": "2025-01-13T00:00:00+00:00"
+  }
+]
