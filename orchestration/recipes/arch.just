@@ -2,7 +2,7 @@
 
 arch-check:
 	@just _info "Running architecture dependency checks..."
-	@./tool-arch/check_dependencies.sh
+	@{{ARCH_DIR}}/check_dependencies.sh
 	@just _success "Architecture checks passed"
 
 arch-check-layer layer:
