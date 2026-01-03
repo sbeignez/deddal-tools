@@ -26,7 +26,9 @@ from schema_validator import SchemaValidator
 import validators
 
 # Seed data location relative to this script
-SEED_DATA_DIR = SCRIPTS_DIR.parent.parent / "DeddalInfra/Infrastructure/Persistence/SeedData"
+# Find git repo root (tools/ is a submodule, need to go up to main repo)
+REPO_ROOT = SCRIPTS_DIR.parent.parent.parent.parent  # tools/shared/seed-data/scripts -> repo root
+SEED_DATA_DIR = REPO_ROOT / "DeddalInfra/Infrastructure/Persistence/SeedData"
 SCHEMAS_DIR = SCRIPTS_DIR.parent / "schemas"
 
 
