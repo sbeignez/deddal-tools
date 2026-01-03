@@ -2,14 +2,14 @@
 
 # Project paths (relative to root justfile)
 PROJECT_ROOT := justfile_directory()
-ASSETS_DIR := PROJECT_ROOT / "tool-assets"
-DATABASE_DIR := PROJECT_ROOT / "tool-database"
-SEED_DIR := PROJECT_ROOT / "tool-seed-data-generation"
-SCREENSHOTS_DIR := PROJECT_ROOT / "tool-screenshots"
-LOCALIZATION_DIR := PROJECT_ROOT / "tool-localization"
-BUILD_DIR := PROJECT_ROOT / "tool-build"
-TESTING_DIR := PROJECT_ROOT / "tool-testing"
-FASTLANE_DIR := PROJECT_ROOT / "tool-fastlane"
+ASSETS_DIR := PROJECT_ROOT / "tools/shared/assets"
+DATABASE_DIR := PROJECT_ROOT / "tools/shared/database"
+SEED_DIR := PROJECT_ROOT / "tools/shared/seed-data"
+SCREENSHOTS_DIR := PROJECT_ROOT / "tools/shared/screenshots"
+LOCALIZATION_DIR := PROJECT_ROOT / "tools/shared/localization"
+BUILD_DIR := PROJECT_ROOT / "tools/ios/build"
+TESTING_DIR := PROJECT_ROOT / "tools/ios/testing"
+FASTLANE_DIR := PROJECT_ROOT / "tools/ios/fastlane"
 
 # Xcode configuration
 XCODE_PROJECT := "Deddal.xcodeproj"
