@@ -66,6 +66,33 @@ Legacy code under `Deddal/Legacy` is excluded for now so we can migrate it gradu
 
 If a violation is found the script prints the offending locations and exits with status 1.
 
+## Library: lib/arch_validators.sh
+
+Shared validation functions used by both check_dependencies.sh and infra_guard.sh.
+
+**Functions**:
+- `check_imports_forbidden <path> <label> <frameworks...>` - Validates no forbidden imports
+- `check_symbol_forbidden <path> <label> <symbols...>` - Validates no forbidden symbols
+
+**Adding new rules**:
+1. Source the library: `source "${SCRIPT_DIR}/lib/arch_validators.sh"`
+2. Call validation function: `check_imports_forbidden DeddalInfra/Infrastructure "DeddalInfra" SwiftUI`
+3. Add to appropriate workflow trigger paths
+
+## Script: infra_guard.sh
+
+Focused validation script for DeddalInfra architecture rules. This script is intentionally
+narrower than check_dependencies.sh and is triggered only by DeddalInfra/** changes.
+
+**Current rules**:
+- DeddalInfra must not import App/UI frameworks (Deddal, SwiftUI, SceneKit)
+- DeddalInfra must not reference App singletons (Logger.app, DataController, MethodLibrary)
+- DeddalInfra must not reference App models (LibCase, Solve, BLEDevice, TutorialProgressData, Achievement)
+
+**Purpose**: Provides fast, focused validation for infrastructure layer changes without
+running the full architecture guard suite. Future infra-specific rules (e.g., no @Published
+in DTOs, no ObservableObject in repositories) will be added here.
+
 ## SwiftLint integration
 
 Architecture rules are also exposed as SwiftLint custom_rules so violations appear in Xcode as errors.
@@ -92,6 +119,14 @@ These rules mirror the shell script checks.
 3. **If a rule is too strict or false positive:**
    - Adjust the regex in `.swiftlint.yml` or `check_dependencies.sh`.
    - Keep the intent: Core has no framework dependencies, UI has no infra details.
+
+## Maintenance
+
+When adding new architecture rules:
+- Add to `lib/arch_validators.sh` if the rule pattern is reusable
+- Use helper functions for consistency
+- Update both workflow trigger paths and script calls
+- Consider whether the rule belongs in check_dependencies.sh (cross-layer) or infra_guard.sh (infra-specific)
 
 ## Future extensions
 
