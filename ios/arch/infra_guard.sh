@@ -1,51 +1,40 @@
 #!/usr/bin/env bash
+# Infrastructure Guard
+# Validates DeddalInfra architecture rules
+
 set -euo pipefail
 
-# Fast guard: fail if DeddalInfra references App/UI-only symbols.
-# Keep patterns tight and update as the refactor progresses.
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "${SCRIPT_DIR}/lib/arch_validators.sh"
 
-REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-cd "$REPO_ROOT"
+ROOT="$(cd "${SCRIPT_DIR}/.." && pwd)"
 
-TARGET_DIR="DeddalInfra"
+echo "[infra-guard] Checking DeddalInfra architecture rules..."
 
-patterns=(
-  "import Deddal"          # App target
-  "import SwiftUI"         # UI framework
-  "import SceneKit"        # UI/3D framework
-  "Logger\\.app"           # App logger singleton
-  "DataController"         # App persistence singleton
-  "MethodLibrary"          # App library singleton
-  "LibCase"                # App models
-  "Solve"                  # App models
-  "BLEDevice"              # App models
-  "TutorialProgressData"   # App models
-  "Achievement"            # App models
-)
+# Rule 1: DeddalInfra must not import App/UI frameworks
+check_imports_forbidden \
+  "$ROOT/DeddalInfra" \
+  "DeddalInfra" \
+  "Deddal" \
+  "SwiftUI" \
+  "SceneKit"
 
-found_any=0
+# Rule 2: DeddalInfra must not reference App singletons
+check_symbol_forbidden \
+  "$ROOT/DeddalInfra" \
+  "DeddalInfra" \
+  "Logger\\.app" \
+  "DataController" \
+  "MethodLibrary"
 
-search_cmd() {
-  local pattern="$1"
-  if command -v rg >/dev/null 2>&1; then
-    rg --fixed-strings --iglob '*.swift' --files-with-matches "$pattern" "$TARGET_DIR"
-  else
-    # Fallback to grep if ripgrep is unavailable
-    grep -RIl --include='*.swift' -e "$pattern" "$TARGET_DIR"
-  fi
-}
+# Rule 3: DeddalInfra must not reference App models
+check_symbol_forbidden \
+  "$ROOT/DeddalInfra" \
+  "DeddalInfra" \
+  "LibCase" \
+  "Solve" \
+  "BLEDevice" \
+  "TutorialProgressData" \
+  "Achievement"
 
-for pattern in "${patterns[@]}"; do
-  matches=$(search_cmd "$pattern" || true)
-  if [[ -n "$matches" ]]; then
-    echo "Forbidden pattern found: '$pattern'" >&2
-    echo "$matches" >&2
-    found_any=1
-  fi
-done
-
-if [[ $found_any -ne 0 ]]; then
-  exit 1
-fi
-
-echo "infra_guard: OK (no forbidden symbols in $TARGET_DIR)"
+echo "[infra-guard] ✅ All DeddalInfra architecture checks passed"
